@@ -1,0 +1,8709 @@
+{
+  "wordlist": [
+    {
+      "en": "a / an",
+      "ge": "ein/e",
+      "src": "wordlist/audios/a-an.mp3"
+    },
+    {
+      "en": "a.m.",
+      "ge": "vormittags",
+      "src": "wordlist/audios/a=m=.mp3"
+    },
+    {
+      "en": "about",
+      "ge": "über; ungefähr",
+      "src": "wordlist/audios/about.mp3"
+    },
+    {
+      "en": "above",
+      "ge": "(dar-)über, oberhalb",
+      "src": "wordlist/audios/above.mp3"
+    },
+    {
+      "en": "absolutely",
+      "ge": "absolut",
+      "src": "wordlist/audios/absolutely.mp3"
+    },
+    {
+      "en": "accident",
+      "ge": "Unfall",
+      "src": "wordlist/audios/accident.mp3"
+    },
+    {
+      "en": "ache",
+      "ge": "Schmerz/en",
+      "src": "wordlist/audios/ache.mp3"
+    },
+    {
+      "en": "across",
+      "ge": "quer durch, über",
+      "src": "wordlist/audios/across.mp3"
+    },
+    {
+      "en": "action",
+      "ge": "Handlung, Tat",
+      "src": "wordlist/audios/action.mp3"
+    },
+    {
+      "en": "activity",
+      "ge": "Aktivität, Beschäftigung",
+      "src": "wordlist/audios/activity.mp3"
+    },
+    {
+      "en": "actor, actress",
+      "ge": "Schauspieler/Schauspielerin",
+      "src": "wordlist/audios/actor_actress.mp3"
+    },
+    {
+      "en": "to act out ",
+      "ge": "vorspielen, nachspielen",
+      "src": "wordlist/audios/to_act_out.mp3"
+    },
+    {
+      "en": "actually",
+      "ge": "eigentlich; tatsächlich",
+      "src": "wordlist/audios/actually.mp3"
+    },
+    {
+      "en": "to add",
+      "ge": "hinzufügen",
+      "src": "wordlist/audios/to_add.mp3"
+    },
+    {
+      "en": "address",
+      "ge": "Adresse",
+      "src": "wordlist/audios/address.mp3"
+    },
+    {
+      "en": "adjective",
+      "ge": "Adjektiv",
+      "src": "wordlist/audios/adjective.mp3"
+    },
+    {
+      "en": "admission fee",
+      "ge": "Eintritt; Eintrittspreis",
+      "src": "wordlist/audios/admission_fee.mp3"
+    },
+    {
+      "en": "adult",
+      "ge": "Erwachsener/Erwachsene",
+      "src": "wordlist/audios/adult.mp3"
+    },
+    {
+      "en": "adventure",
+      "ge": "Abenteuer, Erlebnis",
+      "src": "wordlist/audios/adventure.mp3"
+    },
+    {
+      "en": "adventure camp",
+      "ge": "Abenteuercamp",
+      "src": "wordlist/audios/adventure_camp.mp3"
+    },
+    {
+      "en": "advice (no pl)",
+      "ge": "Ratschlag",
+      "src": "wordlist/audios/advice.mp3"
+    },
+    {
+      "en": "to be afraid (of)",
+      "ge": "Angst haben (vor)",
+      "src": "wordlist/audios/to_be_afraid_of.mp3"
+    },
+    {
+      "en": "after",
+      "ge": "nach",
+      "src": "wordlist/audios/after.mp3"
+    },
+    {
+      "en": "afternoon",
+      "ge": "Nachmittag",
+      "src": "wordlist/audios/afternoon.mp3"
+    },
+    {
+      "en": "again",
+      "ge": "wieder, noch einmal",
+      "src": "wordlist/audios/again.mp3"
+    },
+    {
+      "en": "against",
+      "ge": "gegen; an ",
+      "src": "wordlist/audios/against.mp3"
+    },
+    {
+      "en": "age",
+      "ge": "Alter",
+      "src": "wordlist/audios/age.mp3"
+    },
+    {
+      "en": "(two days) ago",
+      "ge": "vor (zwei Tagen)",
+      "src": "wordlist/audios/_two_days_ago.mp3"
+    },
+    {
+      "en": "aeroplane",
+      "ge": "Flugzeug",
+      "src": "wordlist/audios/aeroplane.mp3"
+    },
+    {
+      "en": "airport",
+      "ge": "Flughafen",
+      "src": "wordlist/audios/airport.mp3"
+    },
+    {
+      "en": "album",
+      "ge": "Album",
+      "src": "wordlist/audios/album.mp3"
+    },
+    {
+      "en": "alien",
+      "ge": "Außerirdischer/Außerirdische",
+      "src": "wordlist/audios/alien.mp3"
+    },
+    {
+      "en": "alive",
+      "ge": "lebendig, am Leben",
+      "src": "wordlist/audios/alive.mp3"
+    },
+    {
+      "en": "all",
+      "ge": "alle; alles",
+      "src": "wordlist/audios/all.mp3"
+    },
+    {
+      "en": "almost",
+      "ge": "fast, beinahe",
+      "src": "wordlist/audios/almost.mp3"
+    },
+    {
+      "en": "alone",
+      "ge": "allein",
+      "src": "wordlist/audios/alone.mp3"
+    },
+    {
+      "en": "along",
+      "ge": "entlang",
+      "src": "wordlist/audios/along.mp3"
+    },
+    {
+      "en": "already",
+      "ge": "schon, bereits",
+      "src": "wordlist/audios/already.mp3"
+    },
+    {
+      "en": "alright",
+      "ge": "in Ordnung; schön, na gut",
+      "src": "wordlist/audios/alright.mp3"
+    },
+    {
+      "en": "also",
+      "ge": "auch",
+      "src": "wordlist/audios/also.mp3"
+    },
+    {
+      "en": "although",
+      "ge": "obwohl",
+      "src": "wordlist/audios/although.mp3"
+    },
+    {
+      "en": "always",
+      "ge": "immer",
+      "src": "wordlist/audios/always.mp3"
+    },
+    {
+      "en": "amazing",
+      "ge": "erstaunlich",
+      "src": "wordlist/audios/amazing.mp3"
+    },
+    {
+      "en": "ambulance",
+      "ge": "Krankenwagen",
+      "src": "wordlist/audios/ambulance.mp3"
+    },
+    {
+      "en": "American",
+      "ge": "Amerikaner/Amerikanerin, amerikanisch",
+      "src": "wordlist/audios/American.mp3"
+    },
+    {
+      "en": "among",
+      "ge": "unter",
+      "src": "wordlist/audios/among.mp3"
+    },
+    {
+      "en": "anaconda",
+      "ge": "Anakonda",
+      "src": "wordlist/audios/anaconda.mp3"
+    },
+    {
+      "en": "ancient",
+      "ge": "alt, antik",
+      "src": "wordlist/audios/ancient.mp3"
+    },
+    {
+      "en": "Ancient Egypt",
+      "ge": "das Alte Ägypten",
+      "src": "wordlist/audios/ancient_egypt.mp3"
+    },
+    {
+      "en": "Ancient Rome",
+      "ge": "das Alte Rom",
+      "src": "wordlist/audios/ancient_rome.mp3"
+    },
+    {
+      "en": "and",
+      "ge": "und",
+      "src": "wordlist/audios/and.mp3"
+    },
+    {
+      "en": "angry",
+      "ge": "verärgert, zornig, wütend",
+      "src": "wordlist/audios/angry.mp3"
+    },
+    {
+      "en": "animal",
+      "ge": "Tier",
+      "src": "wordlist/audios/animal.mp3"
+    },
+    {
+      "en": "animal shelter",
+      "ge": "Tierheim",
+      "src": "wordlist/audios/animal_shelter.mp3"
+    },
+    {
+      "en": "ankle",
+      "ge": "Fußgelenk, Knöchel",
+      "src": "wordlist/audios/ankle.mp3"
+    },
+    {
+      "en": "annual",
+      "ge": "jährlich",
+      "src": "wordlist/audios/annual.mp3"
+    },
+    {
+      "en": "anorak",
+      "ge": "Anorak; Jacke",
+      "src": "wordlist/audios/anorak.mp3"
+    },
+    {
+      "en": "another",
+      "ge": "ein anderer / eine andere / ein anderes",
+      "src": "wordlist/audios/another.mp3"
+    },
+    {
+      "en": "answer",
+      "ge": "Antwort; Lösung",
+      "src": "wordlist/audios/answer.mp3"
+    },
+    {
+      "en": "to answer",
+      "ge": "antworten",
+      "src": "wordlist/audios/to_answer.mp3"
+    },
+    {
+      "en": "antelope",
+      "ge": "Antilope",
+      "src": "wordlist/audios/antelope.mp3"
+    },
+    {
+      "en": "any",
+      "ge": "irgendein/e; kein/e; etwas",
+      "src": "wordlist/audios/any.mp3"
+    },
+    {
+      "en": "anybody",
+      "ge": "irgendjemand",
+      "src": "wordlist/audios/anybody.mp3"
+    },
+    {
+      "en": "anymore",
+      "ge": "nicht mehr",
+      "src": "wordlist/audios/anymore.mp3"
+    },
+    {
+      "en": "anyone",
+      "ge": "irgendjemand",
+      "src": "wordlist/audios/anyone.mp3"
+    },
+    {
+      "en": "anything",
+      "ge": "(irgend-)etwas",
+      "src": "wordlist/audios/anything.mp3"
+    },
+    {
+      "en": "anyway",
+      "ge": "auf alle Fälle, jedenfalls",
+      "src": "wordlist/audios/anyway.mp3"
+    },
+    {
+      "en": "apple",
+      "ge": "Apfel",
+      "src": "wordlist/audios/apple.mp3"
+    },
+    {
+      "en": "apple bobbing",
+      "ge": "Apfeltauchen (traditionelles Halloween-Spiel)",
+      "src": "wordlist/audios/apple-bobbing.mp3"
+    },
+    {
+      "en": "apple juice",
+      "ge": "Apfelsaft",
+      "src": "wordlist/audios/apple_juice.mp3"
+    },
+    {
+      "en": "to apologise",
+      "ge": "sich entschuldigen",
+      "src": "wordlist/audios/to_apologise.mp3"
+    },
+    {
+      "en": "to appear",
+      "ge": "erscheinen, auftauchen",
+      "src": "wordlist/audios/to_appear.mp3"
+    },
+    {
+      "en": "Antarctic Ocean",
+      "ge": "Antarktischer Ozean",
+      "src": "wordlist/audios/Antarctic_Ocean.mp3"
+    },
+    {
+      "en": "area",
+      "ge": "Gebiet, Region",
+      "src": "wordlist/audios/area.mp3"
+    },
+    {
+      "en": "arm",
+      "ge": "Arm",
+      "src": "wordlist/audios/arm.mp3"
+    },
+    {
+      "en": "armchair",
+      "ge": "Sessel, Lehnstuhl",
+      "src": "wordlist/audios/armchair.mp3"
+    },
+    {
+      "en": "around",
+      "ge": "herum; um",
+      "src": "wordlist/audios/around.mp3"
+    },
+    {
+      "en": "to arrive",
+      "ge": "ankommen",
+      "src": "wordlist/audios/to_arrive.mp3"
+    },
+    {
+      "en": "art",
+      "ge": "Kunst",
+      "src": "wordlist/audios/art.mp3"
+    },
+    {
+      "en": "article",
+      "ge": "Artikel, Begleiter",
+      "src": "wordlist/audios/article.mp3"
+    },
+    {
+      "en": "artist",
+      "ge": "Künstler/Künstlerin",
+      "src": "wordlist/audios/artist.mp3"
+    },
+    {
+      "en": "as",
+      "ge": "als; wie",
+      "src": "wordlist/audios/as.mp3"
+    },
+    {
+      "en": "as far as",
+      "ge": "so weit wie; bis",
+      "src": "wordlist/audios/as_far_as.mp3"
+    },
+    {
+      "en": "as soon as",
+      "ge": "so bald (wie)",
+      "src": "wordlist/audios/as_soon_as.mp3"
+    },
+    {
+      "en": "to be ashamed",
+      "ge": "sich schämen",
+      "src": "wordlist/audios/to_be_ashamed.mp3"
+    },
+    {
+      "en": "Asia",
+      "ge": "Asien",
+      "src": "wordlist/audios/asia.mp3"
+    },
+    {
+      "en": "to ask",
+      "ge": "fragen; bitten",
+      "src": "wordlist/audios/to_ask.mp3"
+    },
+    {
+      "en": "to be asleep",
+      "ge": "schlafen",
+      "src": "wordlist/audios/to_be_asleep.mp3"
+    },
+    {
+      "en": "assembly",
+      "ge": "Versammlung",
+      "src": "wordlist/audios/assembly.mp3"
+    },
+    {
+      "en": "at",
+      "ge": "bei; auf; um; zu",
+      "src": "wordlist/audios/at.mp3"
+    },
+    {
+      "en": "attachment",
+      "ge": "Anhang",
+      "src": "wordlist/audios/attachment.mp3"
+    },
+    {
+      "en": "to attack",
+      "ge": "angreifen",
+      "src": "wordlist/audios/to_attack.mp3"
+    },
+    {
+      "en": "attraction",
+      "ge": "Attraktion",
+      "src": "wordlist/audios/attraction.mp3"
+    },
+    {
+      "en": "aunt",
+      "ge": "Tante",
+      "src": "wordlist/audios/aunt.mp3"
+    },
+    {
+      "en": "auntie",
+      "ge": "Tantchen",
+      "src": "wordlist/audios/auntie.mp3"
+    },
+    {
+      "en": "Australia",
+      "ge": "Australien",
+      "src": "wordlist/audios/Australia.mp3"
+    },
+    {
+      "en": "Australian",
+      "ge": "australisch",
+      "src": "wordlist/audios/australian.mp3"
+    },
+    {
+      "en": "avenue",
+      "ge": "(breite) Straße, Allee",
+      "src": "wordlist/audios/avenue.mp3"
+    },
+    {
+      "en": "average",
+      "ge": "durchschnittlich",
+      "src": "wordlist/audios/average.mp3"
+    },
+    {
+      "en": "away",
+      "ge": "weg",
+      "src": "wordlist/audios/away.mp3"
+    },
+    {
+      "en": "awesome",
+      "ge": "beeindruckend",
+      "src": "wordlist/audios/awesome.mp3"
+    },
+    {
+      "en": "awful",
+      "ge": "schrecklich, scheußlich",
+      "src": "wordlist/audios/awful.mp3"
+    },
+    {
+      "en": "axe",
+      "ge": "Axt",
+      "src": "wordlist/audios/axe.mp3"
+    },
+    {
+      "en": "back",
+      "ge": "zurück; Rücken",
+      "src": "wordlist/audios/back.mp3"
+    },
+    {
+      "en": "back garden",
+      "ge": "Garten hinterm Haus",
+      "src": "wordlist/audios/back_garden.mp3"
+    },
+    {
+      "en": "backache",
+      "ge": "Rückenschmerzen",
+      "src": "wordlist/audios/backache.mp3"
+    },
+    {
+      "en": "backpack",
+      "ge": "Rucksack",
+      "src": "wordlist/audios/backpack.mp3"
+    },
+    {
+      "en": "backwards",
+      "ge": "rückwärts",
+      "src": "wordlist/audios/backwards.mp3"
+    },
+    {
+      "en": "bad",
+      "ge": "schlecht, böse",
+      "src": "wordlist/audios/bad.mp3"
+    },
+    {
+      "en": "bag",
+      "ge": "Tasche",
+      "src": "wordlist/audios/bag.mp3"
+    },
+    {
+      "en": "ball",
+      "ge": "Ball",
+      "src": "wordlist/audios/ball.mp3"
+    },
+    {
+      "en": "balloon",
+      "ge": "Ballon",
+      "src": "wordlist/audios/balloon.mp3"
+    },
+    {
+      "en": "bank",
+      "ge": "Bank",
+      "src": "wordlist/audios/bank.mp3"
+    },
+    {
+      "en": "basket",
+      "ge": "Korb",
+      "src": "wordlist/audios/basket.mp3"
+    },
+    {
+      "en": "basketball",
+      "ge": "Basketball",
+      "src": "wordlist/audios/basketball.mp3"
+    },
+    {
+      "en": "bat",
+      "ge": "Fledermaus",
+      "src": "wordlist/audios/bat.mp3"
+    },
+    {
+      "en": "bath",
+      "ge": "Bad",
+      "src": "wordlist/audios/bath.mp3"
+    },
+    {
+      "en": "bathroom",
+      "ge": "Bad, Badezimmer",
+      "src": "wordlist/audios/bathroom.mp3"
+    },
+    {
+      "en": "battery",
+      "ge": "Batterie",
+      "src": "wordlist/audios/battery.mp3"
+    },
+    {
+      "en": "to be",
+      "ge": "sein",
+      "src": "wordlist/audios/to_be.mp3"
+    },
+    {
+      "en": "beach",
+      "ge": "Strand",
+      "src": "wordlist/audios/beach.mp3"
+    },
+    {
+      "en": "bear",
+      "ge": "Bär",
+      "src": "wordlist/audios/bear.mp3"
+    },
+    {
+      "en": "beast",
+      "ge": "Bestie",
+      "src": "wordlist/audios/beast.mp3"
+    },
+    {
+      "en": "to beat",
+      "ge": "schlagen",
+      "src": "wordlist/audios/to_beat.mp3"
+    },
+    {
+      "en": "beautiful",
+      "ge": "schön",
+      "src": "wordlist/audios/beautiful.mp3"
+    },
+    {
+      "en": "because",
+      "ge": "weil",
+      "src": "wordlist/audios/because.mp3"
+    },
+    {
+      "en": "to become",
+      "ge": "werden",
+      "src": "wordlist/audios/to_become.mp3"
+    },
+    {
+      "en": "bed",
+      "ge": "Bett",
+      "src": "wordlist/audios/bed.mp3"
+    },
+    {
+      "en": "bedroom",
+      "ge": "Schlafzimmer",
+      "src": "wordlist/audios/bedroom.mp3"
+    },
+    {
+      "en": "bedside table",
+      "ge": "Nachttisch",
+      "src": "wordlist/audios/bedside_table.mp3"
+    },
+    {
+      "en": "beef",
+      "ge": "Rindfleisch",
+      "src": "wordlist/audios/beef.mp3"
+    },
+    {
+      "en": "before",
+      "ge": "bevor; zuvor; vor",
+      "src": "wordlist/audios/before.mp3"
+    },
+    {
+      "en": "to begin",
+      "ge": "beginnen",
+      "src": "wordlist/audios/to_begin.mp3"
+    },
+    {
+      "en": "beginning",
+      "ge": "Anfang",
+      "src": "wordlist/audios/beginning.mp3"
+    },
+    {
+      "en": "behaviour",
+      "ge": "Verhalten",
+      "src": "wordlist/audios/behaviour.mp3"
+    },
+    {
+      "en": "behind",
+      "ge": "hinter",
+      "src": "wordlist/audios/behind.mp3"
+    },
+    {
+      "en": "to believe",
+      "ge": "glauben",
+      "src": "wordlist/audios/to_believe.mp3"
+    },
+    {
+      "en": "Believe me!",
+      "ge": "Glaub mir!",
+      "src": "wordlist/audios/Believe_me.mp3"
+    },
+    {
+      "en": "below",
+      "ge": "unten; darunter",
+      "src": "wordlist/audios/below.mp3"
+    },
+    {
+      "en": "belt",
+      "ge": "Gürtel",
+      "src": "wordlist/audios/belt.mp3"
+    },
+    {
+      "en": "between",
+      "ge": "zwischen",
+      "src": "wordlist/audios/between.mp3"
+    },
+    {
+      "en": "bicycle lane",
+      "ge": "Radweg",
+      "src": "wordlist/audios/bicycle_lane.mp3"
+    },
+    {
+      "en": "big",
+      "ge": "groß",
+      "src": "wordlist/audios/big.mp3"
+    },
+    {
+      "en": "bike",
+      "ge": "Fahrrad",
+      "src": "wordlist/audios/bike.mp3"
+    },
+    {
+      "en": "bike tour",
+      "ge": "Fahrradtour",
+      "src": "wordlist/audios/bike_tour.mp3"
+    },
+    {
+      "en": "billion",
+      "ge": "Milliarde",
+      "src": "wordlist/audios/billion.mp3"
+    },
+    {
+      "en": "binoculars (pl)",
+      "ge": "Fernglas",
+      "src": "wordlist/audios/binoculars.mp3"
+    },
+    {
+      "en": "bird",
+      "ge": "Vogel",
+      "src": "wordlist/audios/bird.mp3"
+    },
+    {
+      "en": "birthday",
+      "ge": "Geburtstag",
+      "src": "wordlist/audios/birthday.mp3"
+    },
+    {
+      "en": "a bit",
+      "ge": "ein bisschen",
+      "src": "wordlist/audios/a_bit.mp3"
+    },
+    {
+      "en": "to bite",
+      "ge": "beißen",
+      "src": "wordlist/audios/to_bite.mp3"
+    },
+    {
+      "en": "black",
+      "ge": "schwarz",
+      "src": "wordlist/audios/black.mp3"
+    },
+    {
+      "en": "blood",
+      "ge": "Blut",
+      "src": "wordlist/audios/blood.mp3"
+    },
+    {
+      "en": "blue",
+      "ge": "blau",
+      "src": "wordlist/audios/blue.mp3"
+    },
+    {
+      "en": "blue whale ",
+      "ge": "Blauwal",
+      "src": "wordlist/audios/blue_whale.mp3"
+    },
+    {
+      "en": "boat",
+      "ge": "Boot",
+      "src": "wordlist/audios/boat.mp3"
+    },
+    {
+      "en": "bone",
+      "ge": "Knochen",
+      "src": "wordlist/audios/bone.mp3"
+    },
+    {
+      "en": "book",
+      "ge": "Buch",
+      "src": "wordlist/audios/book.mp3"
+    },
+    {
+      "en": "to book",
+      "ge": "buchen",
+      "src": "wordlist/audios/to_book.mp3"
+    },
+    {
+      "en": "boots",
+      "ge": "Stiefel",
+      "src": "wordlist/audios/boots.mp3"
+    },
+    {
+      "en": "to be bored",
+      "ge": "gelangweilt sein",
+      "src": "wordlist/audios/to_be_bored.mp3"
+    },
+    {
+      "en": "boring",
+      "ge": "langweilig",
+      "src": "wordlist/audios/boring.mp3"
+    },
+    {
+      "en": "born",
+      "ge": "geboren",
+      "src": "wordlist/audios/born.mp3"
+    },
+    {
+      "en": "to borrow",
+      "ge": "(sich) ausleihen/borgen",
+      "src": "wordlist/audios/to_borrow.mp3"
+    },
+    {
+      "en": "boss",
+      "ge": "Chef/Chefin",
+      "src": "wordlist/audios/boss.mp3"
+    },
+    {
+      "en": "both",
+      "ge": "beide",
+      "src": "wordlist/audios/both.mp3"
+    },
+    {
+      "en": "to bother",
+      "ge": "stören",
+      "src": "wordlist/audios/to_bother.mp3"
+    },
+    {
+      "en": "bottle",
+      "ge": "Flasche",
+      "src": "wordlist/audios/bottle.mp3"
+    },
+    {
+      "en": "bottom",
+      "ge": "hier: unterer/untere/unteres",
+      "src": "wordlist/audios/bottom.mp3"
+    },
+    {
+      "en": "bowl",
+      "ge": "Schüssel",
+      "src": "wordlist/audios/bowl.mp3"
+    },
+    {
+      "en": "box",
+      "ge": "Box, Schachtel",
+      "src": "wordlist/audios/box.mp3"
+    },
+    {
+      "en": "boxer",
+      "ge": "Boxer/Boxerin",
+      "src": "wordlist/audios/boxer.mp3"
+    },
+    {
+      "en": "boy",
+      "ge": "Junge",
+      "src": "wordlist/audios/boy.mp3"
+    },
+    {
+      "en": "brave",
+      "ge": "tapfer, mutig",
+      "src": "wordlist/audios/brave.mp3"
+    },
+    {
+      "en": "Brazilian",
+      "ge": "brasilianisch",
+      "src": "wordlist/audios/Brazilian.mp3"
+    },
+    {
+      "en": "to break",
+      "ge": "brechen, kaputt machen",
+      "src": "wordlist/audios/to_break.mp3"
+    },
+    {
+      "en": "breakfast",
+      "ge": "Frühstück",
+      "src": "wordlist/audios/breakfast.mp3"
+    },
+    {
+      "en": "to breathe",
+      "ge": "atmen",
+      "src": "wordlist/audios/to_breathe.mp3"
+    },
+    {
+      "en": "bridge",
+      "ge": "Brücke",
+      "src": "wordlist/audios/bridge.mp3"
+    },
+    {
+      "en": "bright",
+      "ge": "hell",
+      "src": "wordlist/audios/bright.mp3"
+    },
+    {
+      "en": "brilliant",
+      "ge": "brillant, hervorragend",
+      "src": "wordlist/audios/brilliant.mp3"
+    },
+    {
+      "en": "to bring",
+      "ge": "(mit-)bringen",
+      "src": "wordlist/audios/to_bring.mp3"
+    },
+    {
+      "en": "British",
+      "ge": "britisch",
+      "src": "wordlist/audios/british.mp3"
+    },
+    {
+      "en": "broad",
+      "ge": "breit",
+      "src": "wordlist/audios/broad.mp3"
+    },
+    {
+      "en": "brochure",
+      "ge": "Broschüre",
+      "src": "wordlist/audios/brochure.mp3"
+    },
+    {
+      "en": "broken",
+      "ge": "kaputt; gebrochen",
+      "src": "wordlist/audios/broken.mp3"
+    },
+    {
+      "en": "brother",
+      "ge": "Bruder",
+      "src": "wordlist/audios/brother.mp3"
+    },
+    {
+      "en": "brown",
+      "ge": "braun",
+      "src": "wordlist/audios/brown.mp3"
+    },
+    {
+      "en": "to brush ",
+      "ge": "(ab-)bürsten",
+      "src": "wordlist/audios/to_brush.mp3"
+    },
+    {
+      "en": "budgie",
+      "ge": "Wellensittich",
+      "src": "wordlist/audios/budgie.mp3"
+    },
+    {
+      "en": "to build",
+      "ge": "bauen",
+      "src": "wordlist/audios/to_build.mp3"
+    },
+    {
+      "en": "building",
+      "ge": "Gebäude",
+      "src": "wordlist/audios/building.mp3"
+    },
+    {
+      "en": "to bully",
+      "ge": "tyrannisieren, mobben",
+      "src": "wordlist/audios/to_bully.mp3"
+    },
+    {
+      "en": "bumblebee bat",
+      "ge": "Hummelfledermaus",
+      "src": "wordlist/audios/bumblebee_bat.mp3"
+    },
+    {
+      "en": "to burn",
+      "ge": "(ver-)brennen",
+      "src": "wordlist/audios/to_burn.mp3"
+    },
+    {
+      "en": "bus",
+      "ge": "Bus",
+      "src": "wordlist/audios/bus.mp3"
+    },
+    {
+      "en": "bus stop",
+      "ge": "Bushaltestelle",
+      "src": "wordlist/audios/bus_stop.mp3"
+    },
+    {
+      "en": "but",
+      "ge": "aber",
+      "src": "wordlist/audios/but.mp3"
+    },
+    {
+      "en": "button",
+      "ge": "Knopf, Taste",
+      "src": "wordlist/audios/button.mp3"
+    },
+    {
+      "en": "to buy",
+      "ge": "kaufen",
+      "src": "wordlist/audios/to_buy.mp3"
+    },
+    {
+      "en": "by",
+      "ge": "an; bei; mit",
+      "src": "wordlist/audios/by.mp3"
+    },
+    {
+      "en": "bye",
+      "ge": "(auf) Wiedersehen, tschau, tschüss",
+      "src": "wordlist/audios/bye.mp3"
+    },
+    {
+      "en": "(a) cup (of)",
+      "ge": "eine Tasse",
+      "src": "wordlist/audios/a_cup_of.mp3"
+    },
+    {
+      "en": "cabbage",
+      "ge": "Kraut, Kohl",
+      "src": "wordlist/audios/cabbage.mp3"
+    },
+    {
+      "en": "cable",
+      "ge": "Kabel",
+      "src": "wordlist/audios/cable.mp3"
+    },
+    {
+      "en": "cage",
+      "ge": "Käfig",
+      "src": "wordlist/audios/cage.mp3"
+    },
+    {
+      "en": "cake",
+      "ge": "Kuchen",
+      "src": "wordlist/audios/cake.mp3"
+    },
+    {
+      "en": "calendar",
+      "ge": "Kalender",
+      "src": "wordlist/audios/calendar.mp3"
+    },
+    {
+      "en": "California",
+      "ge": "Kalifornien",
+      "src": "wordlist/audios/California.mp3"
+    },
+    {
+      "en": "to call",
+      "ge": "hier: nennen; (an-)rufen",
+      "src": "wordlist/audios/to_call.mp3"
+    },
+    {
+      "en": "Call to action!",
+      "ge": "Aufruf zum Handeln",
+      "src": "wordlist/audios/call_to_action.mp3"
+    },
+    {
+      "en": "calm",
+      "ge": "ruhig",
+      "src": "wordlist/audios/calm.mp3"
+    },
+    {
+      "en": "Calm down! ",
+      "ge": "Beruhige dich!",
+      "src": "wordlist/audios/calm_down.mp3"
+    },
+    {
+      "en": "camel",
+      "ge": "Kamel",
+      "src": "wordlist/audios/camel.mp3"
+    },
+    {
+      "en": "camera",
+      "ge": "Kamera, Fotoapparat",
+      "src": "wordlist/audios/camera.mp3"
+    },
+    {
+      "en": "camp",
+      "ge": "Camp, Zeltlager",
+      "src": "wordlist/audios/camp.mp3"
+    },
+    {
+      "en": "campfire",
+      "ge": "Lagerfeuer",
+      "src": "wordlist/audios/campfire.mp3"
+    },
+    {
+      "en": "can",
+      "ge": "können",
+      "src": "wordlist/audios/can.mp3"
+    },
+    {
+      "en": "candle",
+      "ge": "Kerze",
+      "src": "wordlist/audios/candle.mp3"
+    },
+    {
+      "en": "canoe",
+      "ge": "Kanu",
+      "src": "wordlist/audios/canoe.mp3"
+    },
+    {
+      "en": "canoeing",
+      "ge": "Kanufahren",
+      "src": "wordlist/audios/canoeing.mp3"
+    },
+    {
+      "en": "can’t (cannot)",
+      "ge": "nicht können",
+      "src": "wordlist/audios/cant_cannot.mp3"
+    },
+    {
+      "en": "cape",
+      "ge": "Umhang",
+      "src": "wordlist/audios/cape.mp3"
+    },
+    {
+      "en": "capital",
+      "ge": "Hauptstadt",
+      "src": "wordlist/audios/capital.mp3"
+    },
+    {
+      "en": "car",
+      "ge": "Auto",
+      "src": "wordlist/audios/car.mp3"
+    },
+    {
+      "en": "card",
+      "ge": "Karte",
+      "src": "wordlist/audios/card.mp3"
+    },
+    {
+      "en": "to care",
+      "ge": "sich kümmern",
+      "src": "wordlist/audios/to_care.mp3"
+    },
+    {
+      "en": "career",
+      "ge": "Karriere",
+      "src": "wordlist/audios/career.mp3"
+    },
+    {
+      "en": "careful",
+      "ge": "vorsichtig",
+      "src": "wordlist/audios/careful.mp3"
+    },
+    {
+      "en": "carpet",
+      "ge": "Teppich",
+      "src": "wordlist/audios/carpet.mp3"
+    },
+    {
+      "en": "carrot",
+      "ge": "Karotte",
+      "src": "wordlist/audios/carrot.mp3"
+    },
+    {
+      "en": "to carry",
+      "ge": "tragen, (Krankheit) übertragen",
+      "src": "wordlist/audios/to_carry.mp3"
+    },
+    {
+      "en": "cartoon (story)",
+      "ge": "Zeichentrick(-geschichte)",
+      "src": "wordlist/audios/cartoon_story.mp3"
+    },
+    {
+      "en": "castle",
+      "ge": "Schloss",
+      "src": "wordlist/audios/castle.mp3"
+    },
+    {
+      "en": "cat",
+      "ge": "Katze",
+      "src": "wordlist/audios/cat.mp3"
+    },
+    {
+      "en": "to catch",
+      "ge": "fangen; festnehmen",
+      "src": "wordlist/audios/to_catch.mp3"
+    },
+    {
+      "en": "category",
+      "ge": "Kategorie",
+      "src": "wordlist/audios/category.mp3"
+    },
+    {
+      "en": "to celebrate",
+      "ge": "feiern",
+      "src": "wordlist/audios/to_celebrate.mp3"
+    },
+    {
+      "en": "cellar",
+      "ge": "Keller",
+      "src": "wordlist/audios/cellar.mp3"
+    },
+    {
+      "en": "Celsius",
+      "ge": "Celsius",
+      "src": "wordlist/audios/celsius.mp3"
+    },
+    {
+      "en": "centimetre",
+      "ge": "Zentimeter",
+      "src": "wordlist/audios/centimetre.mp3"
+    },
+    {
+      "en": "Central Asia",
+      "ge": "Zentralasien",
+      "src": "wordlist/audios/central_asia.mp3"
+    },
+    {
+      "en": "centre",
+      "ge": "Zentrum",
+      "src": "wordlist/audios/centre.mp3"
+    },
+    {
+      "en": "century",
+      "ge": "Jahrhundert",
+      "src": "wordlist/audios/century.mp3"
+    },
+    {
+      "en": "certain",
+      "ge": "sicher, gewiss",
+      "src": "wordlist/audios/certain.mp3"
+    },
+    {
+      "en": "certainly",
+      "ge": "sicherlich, bestimmt",
+      "src": "wordlist/audios/certainly.mp3"
+    },
+    {
+      "en": "chair",
+      "ge": "Stuhl",
+      "src": "wordlist/audios/chair.mp3"
+    },
+    {
+      "en": "challenge",
+      "ge": "Herausforderung",
+      "src": "wordlist/audios/challenge.mp3"
+    },
+    {
+      "en": "champion",
+      "ge": "Meister/Meisterin; Champion",
+      "src": "wordlist/audios/champion.mp3"
+    },
+    {
+      "en": "chance",
+      "ge": "Chance, Gelegenheit",
+      "src": "wordlist/audios/chance.mp3"
+    },
+    {
+      "en": "chant",
+      "ge": "Sprechgesang",
+      "src": "wordlist/audios/chant.mp3"
+    },
+    {
+      "en": "to change",
+      "ge": "(sich) (ver-)ändern",
+      "src": "wordlist/audios/to_change.mp3"
+    },
+    {
+      "en": "to change trains",
+      "ge": "umsteigen (Zug)",
+      "src": "wordlist/audios/to_change_trains.mp3"
+    },
+    {
+      "en": "to change one’s mind",
+      "ge": "seine Meinung ändern",
+      "src": "wordlist/audios/change_one_s_mind.mp3"
+    },
+    {
+      "en": "character",
+      "ge": "Charakter, Figur",
+      "src": "wordlist/audios/character.mp3"
+    },
+    {
+      "en": "chart",
+      "ge": "Diagramm",
+      "src": "wordlist/audios/chart.mp3"
+    },
+    {
+      "en": "to chase",
+      "ge": "verfolgen, jagen",
+      "src": "wordlist/audios/to_chase.mp3"
+    },
+    {
+      "en": "chat",
+      "ge": "Chat, Unterhaltung",
+      "src": "wordlist/audios/chat.mp3"
+    },
+    {
+      "en": "to chat",
+      "ge": "chatten, plaudern",
+      "src": "wordlist/audios/to_chat.mp3"
+    },
+    {
+      "en": "cheap",
+      "ge": "billig",
+      "src": "wordlist/audios/cheap.mp3"
+    },
+    {
+      "en": "to check",
+      "ge": "überprüfen, kontrollieren",
+      "src": "wordlist/audios/to_check.mp3"
+    },
+    {
+      "en": "cheese",
+      "ge": "Käse",
+      "src": "wordlist/audios/cheese.mp3"
+    },
+    {
+      "en": "cheetah",
+      "ge": "Gepard",
+      "src": "wordlist/audios/cheetah.mp3"
+    },
+    {
+      "en": "chef",
+      "ge": "Koch/Köchin",
+      "src": "wordlist/audios/chef.mp3"
+    },
+    {
+      "en": "chemist’s",
+      "ge": "Apotheke, Drogerie",
+      "src": "wordlist/audios/chemists.mp3"
+    },
+    {
+      "en": "chest",
+      "ge": "Brust(korb)",
+      "src": "wordlist/audios/chest.mp3"
+    },
+    {
+      "en": "chicken",
+      "ge": "Huhn",
+      "src": "wordlist/audios/chicken.mp3"
+    },
+    {
+      "en": "child (pl children)",
+      "ge": "Kind",
+      "src": "wordlist/audios/child_children.mp3"
+    },
+    {
+      "en": "chimpanzee",
+      "ge": "Schimpanse",
+      "src": "wordlist/audios/chimpanzee.mp3"
+    },
+    {
+      "en": "chips",
+      "ge": "Pommes frites",
+      "src": "wordlist/audios/chips.mp3"
+    },
+    {
+      "en": "chocolate",
+      "ge": "Schokolade",
+      "src": "wordlist/audios/chocolate.mp3"
+    },
+    {
+      "en": "choice",
+      "ge": "Alternative, Wahlmöglichkeit",
+      "src": "wordlist/audios/choice.mp3"
+    },
+    {
+      "en": "to choose",
+      "ge": "(aus-)wählen",
+      "src": "wordlist/audios/to_choose.mp3"
+    },
+    {
+      "en": "church",
+      "ge": "Kirche",
+      "src": "wordlist/audios/church.mp3"
+    },
+    {
+      "en": "cinema",
+      "ge": "Kino",
+      "src": "wordlist/audios/cinema.mp3"
+    },
+    {
+      "en": "to circle",
+      "ge": "einkreisen",
+      "src": "wordlist/audios/to_circle.mp3"
+    },
+    {
+      "en": "city",
+      "ge": "(Groß-)Stadt",
+      "src": "wordlist/audios/city.mp3"
+    },
+    {
+      "en": "class",
+      "ge": "(Schul-)Klasse",
+      "src": "wordlist/audios/class.mp3"
+    },
+    {
+      "en": "classroom",
+      "ge": "Klassenzimmer",
+      "src": "wordlist/audios/classroom.mp3"
+    },
+    {
+      "en": "to clean",
+      "ge": "sauber machen, putzen",
+      "src": "wordlist/audios/to_clean.mp3"
+    },
+    {
+      "en": "to clean out",
+      "ge": "ausmisten",
+      "src": "wordlist/audios/to_clean_out.mp3"
+    },
+    {
+      "en": "clean",
+      "ge": "sauber",
+      "src": "wordlist/audios/clean.mp3"
+    },
+    {
+      "en": "cleaning lady",
+      "ge": "Raumpflegerin",
+      "src": "wordlist/audios/cleaning_lady.mp3"
+    },
+    {
+      "en": "to clear up ",
+      "ge": "(auf-)klären; hier: sich aufhellen",
+      "src": "wordlist/audios/to_clear_up.mp3"
+    },
+    {
+      "en": "clever",
+      "ge": "klug, schlau",
+      "src": "wordlist/audios/clever.mp3"
+    },
+    {
+      "en": "to click",
+      "ge": "klicken",
+      "src": "wordlist/audios/to_click.mp3"
+    },
+    {
+      "en": "climate",
+      "ge": "Klima",
+      "src": "wordlist/audios/climate.mp3"
+    },
+    {
+      "en": "climate change",
+      "ge": "Klimawandel",
+      "src": "wordlist/audios/climate_change.mp3"
+    },
+    {
+      "en": "to climb",
+      "ge": "klettern; steigen",
+      "src": "wordlist/audios/to_climb.mp3"
+    },
+    {
+      "en": "clock tower",
+      "ge": "Uhrturm",
+      "src": "wordlist/audios/clock_tower.mp3"
+    },
+    {
+      "en": "close",
+      "ge": "nahe",
+      "src": "wordlist/audios/close.mp3"
+    },
+    {
+      "en": "to close",
+      "ge": "schließen, zumachen",
+      "src": "wordlist/audios/to_close.mp3"
+    },
+    {
+      "en": "closer",
+      "ge": "näher heran",
+      "src": "wordlist/audios/closer.mp3"
+    },
+    {
+      "en": "clothes",
+      "ge": "Kleidung",
+      "src": "wordlist/audios/clothes.mp3"
+    },
+    {
+      "en": "cloud",
+      "ge": "Wolke",
+      "src": "wordlist/audios/cloud.mp3"
+    },
+    {
+      "en": "cloudy",
+      "ge": "wolkig",
+      "src": "wordlist/audios/cloudy.mp3"
+    },
+    {
+      "en": "coast",
+      "ge": "Küste",
+      "src": "wordlist/audios/coast.mp3"
+    },
+    {
+      "en": "coat",
+      "ge": "Mantel",
+      "src": "wordlist/audios/coat.mp3"
+    },
+    {
+      "en": "coin",
+      "ge": "Münze, Geldstück",
+      "src": "wordlist/audios/coin.mp3"
+    },
+    {
+      "en": "cold",
+      "ge": "kalt",
+      "src": "wordlist/audios/cold.mp3"
+    },
+    {
+      "en": "to collect",
+      "ge": "sammeln",
+      "src": "wordlist/audios/to_collect.mp3"
+    },
+    {
+      "en": "colour",
+      "ge": "Farbe",
+      "src": "wordlist/audios/colour.mp3"
+    },
+    {
+      "en": "colourful",
+      "ge": "bunt, farbenfroh",
+      "src": "wordlist/audios/colourful.mp3"
+    },
+    {
+      "en": "to come ",
+      "ge": "kommen",
+      "src": "wordlist/audios/to_come.mp3"
+    },
+    {
+      "en": "Come on!",
+      "ge": "Komm(t) jetzt!, Mach(t) schon!",
+      "src": "wordlist/audios/Come_on.mp3"
+    },
+    {
+      "en": "to come over",
+      "ge": "vorbeikommen",
+      "src": "wordlist/audios/to_come_over.mp3"
+    },
+    {
+      "en": "comfortable",
+      "ge": "bequem",
+      "src": "wordlist/audios/comfortable.mp3"
+    },
+    {
+      "en": "commander",
+      "ge": "Kommandant/Kommandantin",
+      "src": "wordlist/audios/commander.mp3"
+    },
+    {
+      "en": "comment",
+      "ge": "Kommentar",
+      "src": "wordlist/audios/comment.mp3"
+    },
+    {
+      "en": "to comment ",
+      "ge": "kommentieren",
+      "src": "wordlist/audios/to_comment.mp3"
+    },
+    {
+      "en": "communication",
+      "ge": "Kommunikation",
+      "src": "wordlist/audios/communication.mp3"
+    },
+    {
+      "en": "to compare",
+      "ge": "vergleichen",
+      "src": "wordlist/audios/to_compare.mp3"
+    },
+    {
+      "en": "competency",
+      "ge": "Kompetenz",
+      "src": "wordlist/audios/competency.mp3"
+    },
+    {
+      "en": "competition",
+      "ge": "Wettbewerb",
+      "src": "wordlist/audios/competition.mp3"
+    },
+    {
+      "en": "to complain",
+      "ge": "sich beschweren",
+      "src": "wordlist/audios/to_complain.mp3"
+    },
+    {
+      "en": "complaint",
+      "ge": "Beschwerde",
+      "src": "wordlist/audios/complaint.mp3"
+    },
+    {
+      "en": "to complete",
+      "ge": "vervollständigen",
+      "src": "wordlist/audios/to_complete.mp3"
+    },
+    {
+      "en": "completely",
+      "ge": "vollständig",
+      "src": "wordlist/audios/completely.mp3"
+    },
+    {
+      "en": "compliment",
+      "ge": "Kompliment",
+      "src": "wordlist/audios/compliment.mp3"
+    },
+    {
+      "en": "compression",
+      "ge": "Kompression; Pressen; Druck",
+      "src": "wordlist/audios/compression.mp3"
+    },
+    {
+      "en": "concert",
+      "ge": "Konzert",
+      "src": "wordlist/audios/concert.mp3"
+    },
+    {
+      "en": "conference",
+      "ge": "Konferenz, Tagung",
+      "src": "wordlist/audios/conference.mp3"
+    },
+    {
+      "en": "confused",
+      "ge": "verwirrt",
+      "src": "wordlist/audios/confused.mp3"
+    },
+    {
+      "en": "confusing",
+      "ge": "verwirrend",
+      "src": "wordlist/audios/confusing.mp3"
+    },
+    {
+      "en": "congratulations",
+      "ge": "Glückwunsch!",
+      "src": "wordlist/audios/congratulations.mp3"
+    },
+    {
+      "en": "to connect",
+      "ge": "verbinden; anschließen",
+      "src": "wordlist/audios/to_connect.mp3"
+    },
+    {
+      "en": "console",
+      "ge": "Konsole",
+      "src": "wordlist/audios/console.mp3"
+    },
+    {
+      "en": "consumer",
+      "ge": "Konsument/Konsumentin",
+      "src": "wordlist/audios/consumer.mp3"
+    },
+    {
+      "en": "consumer rights",
+      "ge": "Verbraucherrechte",
+      "src": "wordlist/audios/consumer_rights.mp3"
+    },
+    {
+      "en": "to contact",
+      "ge": "kontaktieren",
+      "src": "wordlist/audios/to_contact.mp3"
+    },
+    {
+      "en": "to continue",
+      "ge": "weitermachen; andauern",
+      "src": "wordlist/audios/to_continue.mp3"
+    },
+    {
+      "en": "control",
+      "ge": "Kontrolle",
+      "src": "wordlist/audios/control.mp3"
+    },
+    {
+      "en": "conversation",
+      "ge": "Unterhaltung, Gespräch",
+      "src": "wordlist/audios/conversation.mp3"
+    },
+    {
+      "en": "to convert",
+      "ge": "umwandeln",
+      "src": "wordlist/audios/to_convert.mp3"
+    },
+    {
+      "en": "to cook",
+      "ge": "kochen",
+      "src": "wordlist/audios/to_cook.mp3"
+    },
+    {
+      "en": "cooker",
+      "ge": "Herd",
+      "src": "wordlist/audios/cooker.mp3"
+    },
+    {
+      "en": "cool",
+      "ge": "cool; kühl",
+      "src": "wordlist/audios/cool.mp3"
+    },
+    {
+      "en": "coral snake",
+      "ge": "Korallenschlange",
+      "src": "wordlist/audios/coral_snake.mp3"
+    },
+    {
+      "en": "corner",
+      "ge": "Ecke",
+      "src": "wordlist/audios/corner.mp3"
+    },
+    {
+      "en": "correct",
+      "ge": "richtig, korrekt",
+      "src": "wordlist/audios/correct.mp3"
+    },
+    {
+      "en": "to correct",
+      "ge": "korrigieren",
+      "src": "wordlist/audios/to_correct.mp3"
+    },
+    {
+      "en": "to cost",
+      "ge": "kosten",
+      "src": "wordlist/audios/to_cost.mp3"
+    },
+    {
+      "en": "costume",
+      "ge": "Kostüm, Verkleidung",
+      "src": "wordlist/audios/costume.mp3"
+    },
+    {
+      "en": "cotton",
+      "ge": "Baumwolle",
+      "src": "wordlist/audios/cotton.mp3"
+    },
+    {
+      "en": "could",
+      "ge": "könnte/n, könntest",
+      "src": "wordlist/audios/could.mp3"
+    },
+    {
+      "en": "couldn’t (could not)",
+      "ge": "könnte/n nicht; konnte/n nicht",
+      "src": "wordlist/audios/couldn_t_could_not.mp3"
+    },
+    {
+      "en": "to count",
+      "ge": "zählen",
+      "src": "wordlist/audios/to_count.mp3"
+    },
+    {
+      "en": "country",
+      "ge": "Land; Staat",
+      "src": "wordlist/audios/country.mp3"
+    },
+    {
+      "en": "countryside",
+      "ge": "Land, ländliche Gegend",
+      "src": "wordlist/audios/countryside.mp3"
+    },
+    {
+      "en": "courage",
+      "ge": "Mut, Tapferkeit",
+      "src": "wordlist/audios/courage.mp3"
+    },
+    {
+      "en": "cousin",
+      "ge": "Cousin/Cousine",
+      "src": "wordlist/audios/cousin.mp3"
+    },
+    {
+      "en": "cover",
+      "ge": "Umschlag; Titelseite",
+      "src": "wordlist/audios/cover.mp3"
+    },
+    {
+      "en": "to cover (up)",
+      "ge": "zudecken, verdecken",
+      "src": "wordlist/audios/to_cover_up.mp3"
+    },
+    {
+      "en": "cow",
+      "ge": "Kuh",
+      "src": "wordlist/audios/cow.mp3"
+    },
+    {
+      "en": "CPR",
+      "ge": "Herz-Lungen-Reanimation (Wiederbelebung)",
+      "src": "wordlist/audios/cpr.mp3"
+    },
+    {
+      "en": "crane",
+      "ge": "Kran",
+      "src": "wordlist/audios/crane.mp3"
+    },
+    {
+      "en": "to crash ",
+      "ge": "zu Bruch fahren",
+      "src": "wordlist/audios/to_crash.mp3"
+    },
+    {
+      "en": "to crawl",
+      "ge": "kriechen, krabbeln",
+      "src": "wordlist/audios/to_crawl.mp3"
+    },
+    {
+      "en": "crazy",
+      "ge": "verrückt",
+      "src": "wordlist/audios/crazy.mp3"
+    },
+    {
+      "en": "to create",
+      "ge": "erstellen, entwerfen",
+      "src": "wordlist/audios/to_create.mp3"
+    },
+    {
+      "en": "creature",
+      "ge": "Kreatur, Lebewesen",
+      "src": "wordlist/audios/creature.mp3"
+    },
+    {
+      "en": "crew",
+      "ge": "Besatzung",
+      "src": "wordlist/audios/crew.mp3"
+    },
+    {
+      "en": "cricket",
+      "ge": "Kricket",
+      "src": "wordlist/audios/cricket.mp3"
+    },
+    {
+      "en": "crocodile",
+      "ge": "Krokodil",
+      "src": "wordlist/audios/crocodile.mp3"
+    },
+    {
+      "en": "to cross",
+      "ge": "überqueren",
+      "src": "wordlist/audios/to_cross.mp3"
+    },
+    {
+      "en": "cruise ship",
+      "ge": "Kreuzfahrtschiff",
+      "src": "wordlist/audios/cruise_ship.mp3"
+    },
+    {
+      "en": "cry",
+      "ge": "Schrei",
+      "src": "wordlist/audios/cry.mp3"
+    },
+    {
+      "en": "to cry",
+      "ge": "weinen; schreien",
+      "src": "wordlist/audios/to_cry.mp3"
+    },
+    {
+      "en": "cupboard",
+      "ge": "(Geschirr-)Schrank",
+      "src": "wordlist/audios/cupboard.mp3"
+    },
+    {
+      "en": "cure",
+      "ge": "Heilmittel",
+      "src": "wordlist/audios/cure.mp3"
+    },
+    {
+      "en": "to cure",
+      "ge": "heilen",
+      "src": "wordlist/audios/to_cure.mp3"
+    },
+    {
+      "en": "curry",
+      "ge": "Curry",
+      "src": "wordlist/audios/curry.mp3"
+    },
+    {
+      "en": "curtain",
+      "ge": "Vorhang",
+      "src": "wordlist/audios/curtain.mp3"
+    },
+    {
+      "en": "customer",
+      "ge": "Kunde/Kundin",
+      "src": "wordlist/audios/customer.mp3"
+    },
+    {
+      "en": "to cut",
+      "ge": "schneiden",
+      "src": "wordlist/audios/to_cut.mp3"
+    },
+    {
+      "en": "cute",
+      "ge": "niedlich, süß",
+      "src": "wordlist/audios/cute.mp3"
+    },
+    {
+      "en": "to cut down",
+      "ge": "fällen",
+      "src": "wordlist/audios/to_cut_down.mp3"
+    },
+    {
+      "en": "to cut off",
+      "ge": "abschneiden",
+      "src": "wordlist/audios/to_cut_off.mp3"
+    },
+    {
+      "en": "to cycle",
+      "ge": "Rad fahren",
+      "src": "wordlist/audios/to_cycle.mp3"
+    },
+    {
+      "en": "cycle helmet",
+      "ge": "Fahrradhelm",
+      "src": "wordlist/audios/cycle_helmet.mp3"
+    },
+    {
+      "en": "dad",
+      "ge": "Papa",
+      "src": "wordlist/audios/dad.mp3"
+    },
+    {
+      "en": "daily",
+      "ge": "täglich",
+      "src": "wordlist/audios/daily.mp3"
+    },
+    {
+      "en": "daily routine",
+      "ge": "tägliche Routine, Alltag",
+      "src": "wordlist/audios/daily_routine.mp3"
+    },
+    {
+      "en": "to dance",
+      "ge": "tanzen",
+      "src": "wordlist/audios/to_dance.mp3"
+    },
+    {
+      "en": "danger",
+      "ge": "Gefahr",
+      "src": "wordlist/audios/danger.mp3"
+    },
+    {
+      "en": "dangerous",
+      "ge": "gefährlich",
+      "src": "wordlist/audios/dangerous.mp3"
+    },
+    {
+      "en": "dark",
+      "ge": "dunkel; Dunkelheit",
+      "src": "wordlist/audios/dark.mp3"
+    },
+    {
+      "en": "date",
+      "ge": "Datum; Verabredung",
+      "src": "wordlist/audios/date.mp3"
+    },
+    {
+      "en": "daughter",
+      "ge": "Tochter",
+      "src": "wordlist/audios/daughter.mp3"
+    },
+    {
+      "en": "day",
+      "ge": "Tag",
+      "src": "wordlist/audios/day.mp3"
+    },
+    {
+      "en": "dead",
+      "ge": "tot",
+      "src": "wordlist/audios/dead.mp3"
+    },
+    {
+      "en": "dear",
+      "ge": "lieber/liebe",
+      "src": "wordlist/audios/dear.mp3"
+    },
+    {
+      "en": "to decide",
+      "ge": "entscheiden",
+      "src": "wordlist/audios/to_decide.mp3"
+    },
+    {
+      "en": "decision",
+      "ge": "Entscheidung",
+      "src": "wordlist/audios/decision.mp3"
+    },
+    {
+      "en": "deep",
+      "ge": "tief",
+      "src": "wordlist/audios/deep.mp3"
+    },
+    {
+      "en": "degree",
+      "ge": "Grad (°)",
+      "src": "wordlist/audios/degree.mp3"
+    },
+    {
+      "en": "to delete",
+      "ge": "löschen",
+      "src": "wordlist/audios/to_delete.mp3"
+    },
+    {
+      "en": "delicious",
+      "ge": "köstlich",
+      "src": "wordlist/audios/delicious.mp3"
+    },
+    {
+      "en": "delivery",
+      "ge": "Lieferung",
+      "src": "wordlist/audios/delivery.mp3"
+    },
+    {
+      "en": "democracy",
+      "ge": "Demokratie",
+      "src": "wordlist/audios/democracy.mp3"
+    },
+    {
+      "en": "demon",
+      "ge": "Dämon",
+      "src": "wordlist/audios/demon.mp3"
+    },
+    {
+      "en": "dentist",
+      "ge": "Zahnarzt/Zahnärztin",
+      "src": "wordlist/audios/dentist.mp3"
+    },
+    {
+      "en": "to describe",
+      "ge": "beschreiben",
+      "src": "wordlist/audios/to_describe.mp3"
+    },
+    {
+      "en": "desert",
+      "ge": "Wüste",
+      "src": "wordlist/audios/desert.mp3"
+    },
+    {
+      "en": "design and technology",
+      "ge": "Design und Technologie",
+      "src": "wordlist/audios/design_and_technology.mp3"
+    },
+    {
+      "en": "desk",
+      "ge": "Schreibtisch",
+      "src": "wordlist/audios/desk.mp3"
+    },
+    {
+      "en": "dessert",
+      "ge": "Nachtisch, Nachspeise",
+      "src": "wordlist/audios/dessert.mp3"
+    },
+    {
+      "en": "to destroy",
+      "ge": "zerstören",
+      "src": "wordlist/audios/to_destroy.mp3"
+    },
+    {
+      "en": "detail",
+      "ge": "Detail",
+      "src": "wordlist/audios/detail.mp3"
+    },
+    {
+      "en": "dialogue",
+      "ge": "Gespräch, Dialog",
+      "src": "wordlist/audios/dialogue.mp3"
+    },
+    {
+      "en": "to die",
+      "ge": "sterben",
+      "src": "wordlist/audios/to_die.mp3"
+    },
+    {
+      "en": "to die out",
+      "ge": "aussterben",
+      "src": "wordlist/audios/to_die_out.mp3"
+    },
+    {
+      "en": "difference",
+      "ge": "Unterschied",
+      "src": "wordlist/audios/difference.mp3"
+    },
+    {
+      "en": "different",
+      "ge": "verschieden/e; anders",
+      "src": "wordlist/audios/different.mp3"
+    },
+    {
+      "en": "difficult",
+      "ge": "schwierig",
+      "src": "wordlist/audios/difficult.mp3"
+    },
+    {
+      "en": "dinner",
+      "ge": "Abendessen",
+      "src": "wordlist/audios/dinner.mp3"
+    },
+    {
+      "en": "direction",
+      "ge": "Richtung",
+      "src": "wordlist/audios/direction.mp3"
+    },
+    {
+      "en": "director",
+      "ge": "Direktor/Direktorin",
+      "src": "wordlist/audios/director.mp3"
+    },
+    {
+      "en": "dirty",
+      "ge": "dreckig, schmutzig",
+      "src": "wordlist/audios/dirty.mp3"
+    },
+    {
+      "en": "to disagree with sb",
+      "ge": "jdm. nicht zustimmen, nicht übereinstimmen",
+      "src": "wordlist/audios/to_disagree_with_sb.mp3"
+    },
+    {
+      "en": "to disappear",
+      "ge": "verschwinden",
+      "src": "wordlist/audios/to_disappear.mp3"
+    },
+    {
+      "en": "disappointment",
+      "ge": "Enttäuschung",
+      "src": "wordlist/audios/disappointment.mp3"
+    },
+    {
+      "en": "to discuss",
+      "ge": "besprechen, diskutieren",
+      "src": "wordlist/audios/to_discuss.mp3"
+    },
+    {
+      "en": "discussion",
+      "ge": "Diskussion",
+      "src": "wordlist/audios/discussion.mp3"
+    },
+    {
+      "en": "disgusting",
+      "ge": "ekelhaft",
+      "src": "wordlist/audios/disgusting.mp3"
+    },
+    {
+      "en": "disk",
+      "ge": "Scheibe",
+      "src": "wordlist/audios/disk.mp3"
+    },
+    {
+      "en": "dislike",
+      "ge": "Abneigung, Missfallen",
+      "src": "wordlist/audios/dislike.mp3"
+    },
+    {
+      "en": "distance",
+      "ge": "Abstand, Distanz",
+      "src": "wordlist/audios/distance.mp3"
+    },
+    {
+      "en": "ditch",
+      "ge": "Graben",
+      "src": "wordlist/audios/ditch.mp3"
+    },
+    {
+      "en": "diving mask",
+      "ge": "Tauchermaske",
+      "src": "wordlist/audios/diving_mask.mp3"
+    },
+    {
+      "en": "divorced",
+      "ge": "geschieden",
+      "src": "wordlist/audios/divorced.mp3"
+    },
+    {
+      "en": "to do",
+      "ge": "tun",
+      "src": "wordlist/audios/to_do.mp3"
+    },
+    {
+      "en": "to do homework",
+      "ge": "Hausaufgaben machen",
+      "src": "wordlist/audios/to_do_homework.mp3"
+    },
+    {
+      "en": "to do nothing ",
+      "ge": "nichts tun",
+      "src": "wordlist/audios/to_do_nothing.mp3"
+    },
+    {
+      "en": "doctor",
+      "ge": "Arzt/Ärztin",
+      "src": "wordlist/audios/doctor.mp3"
+    },
+    {
+      "en": "dog",
+      "ge": "Hund",
+      "src": "wordlist/audios/dog.mp3"
+    },
+    {
+      "en": "dolphin",
+      "ge": "Delfin",
+      "src": "wordlist/audios/dolphin.mp3"
+    },
+    {
+      "en": "done",
+      "ge": "fertig",
+      "src": "wordlist/audios/done.mp3"
+    },
+    {
+      "en": "Don’t worry!",
+      "ge": "Mach dir keine Sorgen!",
+      "src": "wordlist/audios/dont_worry.mp3"
+    },
+    {
+      "en": "door",
+      "ge": "Tür",
+      "src": "wordlist/audios/door.mp3"
+    },
+    {
+      "en": "dos and don’ts",
+      "ge": "Dinge, die man tun und lassen sollte; Verhaltensregeln",
+      "src": "wordlist/audios/dos_and_don_ts.mp3"
+    },
+    {
+      "en": "down",
+      "ge": "nieder; hinunter",
+      "src": "wordlist/audios/down.mp3"
+    },
+    {
+      "en": "Down Under ",
+      "ge": "Australien und Neuseeland",
+      "src": "wordlist/audios/down_under.mp3"
+    },
+    {
+      "en": "to download",
+      "ge": "herunterladen",
+      "src": "wordlist/audios/to_download.mp3"
+    },
+    {
+      "en": "to draw",
+      "ge": "malen, zeichnen",
+      "src": "wordlist/audios/to_draw.mp3"
+    },
+    {
+      "en": "dream",
+      "ge": "Traum",
+      "src": "wordlist/audios/dream.mp3"
+    },
+    {
+      "en": "to dream",
+      "ge": "träumen",
+      "src": "wordlist/audios/to_dream.mp3"
+    },
+    {
+      "en": "dream team",
+      "ge": "Traumteam",
+      "src": "wordlist/audios/dream_team.mp3"
+    },
+    {
+      "en": "dress",
+      "ge": "Kleid",
+      "src": "wordlist/audios/dress.mp3"
+    },
+    {
+      "en": "drink",
+      "ge": "Getränk",
+      "src": "wordlist/audios/drink.mp3"
+    },
+    {
+      "en": "to drink",
+      "ge": "trinken",
+      "src": "wordlist/audios/to_drink.mp3"
+    },
+    {
+      "en": "to drip",
+      "ge": "tropfen",
+      "src": "wordlist/audios/to_drip.mp3"
+    },
+    {
+      "en": "drive",
+      "ge": "Fahrt",
+      "src": "wordlist/audios/drive.mp3"
+    },
+    {
+      "en": "to drive ",
+      "ge": "fahren",
+      "src": "wordlist/audios/to_drive.mp3"
+    },
+    {
+      "en": "to drop",
+      "ge": "fallen (lassen)",
+      "src": "wordlist/audios/to_drop.mp3"
+    },
+    {
+      "en": "dry",
+      "ge": "trocken",
+      "src": "wordlist/audios/dry.mp3"
+    },
+    {
+      "en": "to dry ",
+      "ge": "trocknen",
+      "src": "wordlist/audios/to_dry.mp3"
+    },
+    {
+      "en": "dumpling",
+      "ge": "Knödel; Kloß",
+      "src": "wordlist/audios/dumpling.mp3"
+    },
+    {
+      "en": "during",
+      "ge": "während",
+      "src": "wordlist/audios/during.mp3"
+    },
+    {
+      "en": "each",
+      "ge": "jeder/jede/jedes",
+      "src": "wordlist/audios/each.mp3"
+    },
+    {
+      "en": "eagle",
+      "ge": "Adler",
+      "src": "wordlist/audios/eagle.mp3"
+    },
+    {
+      "en": "earache",
+      "ge": "Ohrenschmerzen",
+      "src": "wordlist/audios/earache.mp3"
+    },
+    {
+      "en": "early",
+      "ge": "früh",
+      "src": "wordlist/audios/early.mp3"
+    },
+    {
+      "en": "to earn",
+      "ge": "verdienen",
+      "src": "wordlist/audios/to_earn.mp3"
+    },
+    {
+      "en": "Earth",
+      "ge": "Erde",
+      "src": "wordlist/audios/earth.mp3"
+    },
+    {
+      "en": "Earthling",
+      "ge": "Erdenbürger/ Erdenbürgerin",
+      "src": "wordlist/audios/earthling.mp3"
+    },
+    {
+      "en": "east",
+      "ge": "östlich, Ost-; Osten",
+      "src": "wordlist/audios/east.mp3"
+    },
+    {
+      "en": "easy",
+      "ge": "einfach",
+      "src": "wordlist/audios/easy.mp3"
+    },
+    {
+      "en": "to eat",
+      "ge": "essen",
+      "src": "wordlist/audios/to_eat.mp3"
+    },
+    {
+      "en": "to eat out",
+      "ge": "auswärts essen",
+      "src": "wordlist/audios/to_eat_out.mp3"
+    },
+    {
+      "en": "education",
+      "ge": "(Aus-)Bildung",
+      "src": "wordlist/audios/education.mp3"
+    },
+    {
+      "en": "egg",
+      "ge": "Ei",
+      "src": "wordlist/audios/egg.mp3"
+    },
+    {
+      "en": "either",
+      "ge": "beide; entweder",
+      "src": "wordlist/audios/either.mp3"
+    },
+    {
+      "en": "electricity",
+      "ge": "Elektrizität",
+      "src": "wordlist/audios/electricity.mp3"
+    },
+    {
+      "en": "elephant",
+      "ge": "Elephant",
+      "src": "wordlist/audios/elephant.mp3"
+    },
+    {
+      "en": "else",
+      "ge": "sonst, anders",
+      "src": "wordlist/audios/else.mp3"
+    },
+    {
+      "en": "embarrassed",
+      "ge": "verlegen, beschämt",
+      "src": "wordlist/audios/embarrassed.mp3"
+    },
+    {
+      "en": "embarrassing",
+      "ge": "peinlich, unangenehm",
+      "src": "wordlist/audios/embarrassing.mp3"
+    },
+    {
+      "en": "emperor penguin",
+      "ge": "Kaiserpinguin",
+      "src": "wordlist/audios/emperor_penguin.mp3"
+    },
+    {
+      "en": "to end",
+      "ge": "beenden",
+      "src": "wordlist/audios/to_end.mp3"
+    },
+    {
+      "en": "ending",
+      "ge": "Ende, Schluss",
+      "src": "wordlist/audios/ending.mp3"
+    },
+    {
+      "en": "England",
+      "ge": "England",
+      "src": "wordlist/audios/England.mp3"
+    },
+    {
+      "en": "English",
+      "ge": "Englisch, englisch",
+      "src": "wordlist/audios/English.mp3"
+    },
+    {
+      "en": "to enjoy",
+      "ge": "genießen",
+      "src": "wordlist/audios/to_enjoy.mp3"
+    },
+    {
+      "en": "enough",
+      "ge": "genügend, genug",
+      "src": "wordlist/audios/enough.mp3"
+    },
+    {
+      "en": "to entertain",
+      "ge": "unterhalten",
+      "src": "wordlist/audios/to_entertain.mp3"
+    },
+    {
+      "en": "episode",
+      "ge": "Folge, Episode",
+      "src": "wordlist/audios/episode.mp3"
+    },
+    {
+      "en": "equipment",
+      "ge": "Ausrüstung",
+      "src": "wordlist/audios/equipment.mp3"
+    },
+    {
+      "en": "to escape",
+      "ge": "(ent-)fliehen; entkommen",
+      "src": "wordlist/audios/to_escape.mp3"
+    },
+    {
+      "en": "estuarine crocodile",
+      "ge": "Salzwasserkrokodil",
+      "src": "wordlist/audios/Estuarine_crocodile.mp3"
+    },
+    {
+      "en": "Europe",
+      "ge": "Europa",
+      "src": "wordlist/audios/europe.mp3"
+    },
+    {
+      "en": "even",
+      "ge": "sogar, noch",
+      "src": "wordlist/audios/even.mp3"
+    },
+    {
+      "en": "evening",
+      "ge": "Abend",
+      "src": "wordlist/audios/evening.mp3"
+    },
+    {
+      "en": "event",
+      "ge": "Veranstaltung",
+      "src": "wordlist/audios/event.mp3"
+    },
+    {
+      "en": "ever",
+      "ge": "jemals, je",
+      "src": "wordlist/audios/ever.mp3"
+    },
+    {
+      "en": "every",
+      "ge": "jeder/jede/jedes",
+      "src": "wordlist/audios/every.mp3"
+    },
+    {
+      "en": "everybody",
+      "ge": "jeder/jede; alle",
+      "src": "wordlist/audios/everybody.mp3"
+    },
+    {
+      "en": "everyone",
+      "ge": "jeder/jede; alle",
+      "src": "wordlist/audios/everyone.mp3"
+    },
+    {
+      "en": "everything",
+      "ge": "alles",
+      "src": "wordlist/audios/everything.mp3"
+    },
+    {
+      "en": "everywhere",
+      "ge": "überall",
+      "src": "wordlist/audios/everywhere.mp3"
+    },
+    {
+      "en": "evidence",
+      "ge": "Beweis",
+      "src": "wordlist/audios/evidence.mp3"
+    },
+    {
+      "en": "evil",
+      "ge": "das Böse",
+      "src": "wordlist/audios/evil.mp3"
+    },
+    {
+      "en": "exactly",
+      "ge": "genau",
+      "src": "wordlist/audios/exactly.mp3"
+    },
+    {
+      "en": "for example",
+      "ge": "zum Beispiel",
+      "src": "wordlist/audios/for_example.mp3"
+    },
+    {
+      "en": "excellent",
+      "ge": "ausgezeichnet",
+      "src": "wordlist/audios/excellent.mp3"
+    },
+    {
+      "en": "exciting",
+      "ge": "aufregend, spannend",
+      "src": "wordlist/audios/exciting.mp3"
+    },
+    {
+      "en": "excuse",
+      "ge": "Ausrede",
+      "src": "wordlist/audios/excuse_1.mp3"
+    },
+    {
+      "en": "exercise",
+      "ge": "Übung; Bewegung",
+      "src": "wordlist/audios/exercise.mp3"
+    },
+    {
+      "en": "to exercise",
+      "ge": "trainieren, Sport machen",
+      "src": "wordlist/audios/to_exercise.mp3"
+    },
+    {
+      "en": "exhibition",
+      "ge": "Ausstellung",
+      "src": "wordlist/audios/exhibition.mp3"
+    },
+    {
+      "en": "expectation",
+      "ge": "Erwartung",
+      "src": "wordlist/audios/expectation.mp3"
+    },
+    {
+      "en": "expensive",
+      "ge": "teuer",
+      "src": "wordlist/audios/expensive.mp3"
+    },
+    {
+      "en": "expert",
+      "ge": "Experte/Expertin",
+      "src": "wordlist/audios/expert.mp3"
+    },
+    {
+      "en": "to explain",
+      "ge": "erklären",
+      "src": "wordlist/audios/to_explain.mp3"
+    },
+    {
+      "en": "to express",
+      "ge": "ausdrücken",
+      "src": "wordlist/audios/to_express.mp3"
+    },
+    {
+      "en": "to extend",
+      "ge": "erweitern",
+      "src": "wordlist/audios/to_extend.mp3"
+    },
+    {
+      "en": "extinct",
+      "ge": "ausgestorben",
+      "src": "wordlist/audios/extinct.mp3"
+    },
+    {
+      "en": "extra",
+      "ge": "mehr; besonders; Extra",
+      "src": "wordlist/audios/extra.mp3"
+    },
+    {
+      "en": "extreme",
+      "ge": "extrem",
+      "src": "wordlist/audios/extreme.mp3"
+    },
+    {
+      "en": "eye",
+      "ge": "Auge",
+      "src": "wordlist/audios/eye.mp3"
+    },
+    {
+      "en": "face",
+      "ge": "Gesicht",
+      "src": "wordlist/audios/face.mp3"
+    },
+    {
+      "en": "fact",
+      "ge": "Fakt, Tatsache",
+      "src": "wordlist/audios/fact.mp3"
+    },
+    {
+      "en": "fact file",
+      "ge": "Steckbrief",
+      "src": "wordlist/audios/fact_file.mp3"
+    },
+    {
+      "en": "to fail",
+      "ge": "scheitern",
+      "src": "wordlist/audios/to_fail.mp3"
+    },
+    {
+      "en": "fair",
+      "ge": "fair, gerecht",
+      "src": "wordlist/audios/fair.mp3"
+    },
+    {
+      "en": "fake",
+      "ge": "gefälscht",
+      "src": "wordlist/audios/fake.mp3"
+    },
+    {
+      "en": "to fall",
+      "ge": "fallen",
+      "src": "wordlist/audios/to_fall.mp3"
+    },
+    {
+      "en": "to fall asleep",
+      "ge": "einschlafen",
+      "src": "wordlist/audios/to_fall_asleep.mp3"
+    },
+    {
+      "en": "false",
+      "ge": "falsch",
+      "src": "wordlist/audios/false.mp3"
+    },
+    {
+      "en": "family",
+      "ge": "Familie",
+      "src": "wordlist/audios/family.mp3"
+    },
+    {
+      "en": "famous",
+      "ge": "berühmt",
+      "src": "wordlist/audios/famous.mp3"
+    },
+    {
+      "en": "fancy dress",
+      "ge": "Verkleidung, Kostüm",
+      "src": "wordlist/audios/fancy_dress.mp3"
+    },
+    {
+      "en": "fantastic",
+      "ge": "fantastisch",
+      "src": "wordlist/audios/fantastic.mp3"
+    },
+    {
+      "en": "far",
+      "ge": "weit",
+      "src": "wordlist/audios/far.mp3"
+    },
+    {
+      "en": "far away",
+      "ge": "weit weg",
+      "src": "wordlist/audios/far_away.mp3"
+    },
+    {
+      "en": "Farewell!",
+      "ge": "Lebe wohl!",
+      "src": "wordlist/audios/farewell.mp3"
+    },
+    {
+      "en": "farm",
+      "ge": "Bauernhof",
+      "src": "wordlist/audios/farm.mp3"
+    },
+    {
+      "en": "farmer",
+      "ge": "Bauer/Bäuerin",
+      "src": "wordlist/audios/farmer.mp3"
+    },
+    {
+      "en": "fast",
+      "ge": "schnell",
+      "src": "wordlist/audios/fast.mp3"
+    },
+    {
+      "en": "father",
+      "ge": "Vater",
+      "src": "wordlist/audios/father.mp3"
+    },
+    {
+      "en": "fault",
+      "ge": "Schuld",
+      "src": "wordlist/audios/fault.mp3"
+    },
+    {
+      "en": "favourite",
+      "ge": "Lieblings-",
+      "src": "wordlist/audios/favourite.mp3"
+    },
+    {
+      "en": "to have got a fear of sth.",
+      "ge": "Angst vor etwas haben",
+      "src": "wordlist/audios/to_have_got_a_fear_of_sth.mp3"
+    },
+    {
+      "en": "fear",
+      "ge": "Furcht, Angst",
+      "src": "wordlist/audios/fear.mp3"
+    },
+    {
+      "en": "to fear",
+      "ge": "fürchten",
+      "src": "wordlist/audios/to_fear.mp3"
+    },
+    {
+      "en": "to feed",
+      "ge": "füttern",
+      "src": "wordlist/audios/to_feed.mp3"
+    },
+    {
+      "en": "to feel",
+      "ge": "fühlen",
+      "src": "wordlist/audios/to_feel.mp3"
+    },
+    {
+      "en": "feeling",
+      "ge": "Gefühl",
+      "src": "wordlist/audios/feeling.mp3"
+    },
+    {
+      "en": "fellow",
+      "ge": "Kollege/Kollegin",
+      "src": "wordlist/audios/fellow.mp3"
+    },
+    {
+      "en": "female",
+      "ge": "weiblich; Weibchen (Tierwelt)",
+      "src": "wordlist/audios/female.mp3"
+    },
+    {
+      "en": "a few ",
+      "ge": "ein paar; einige",
+      "src": "wordlist/audios/a_few.mp3"
+    },
+    {
+      "en": "field",
+      "ge": "Feld; Spielfeld",
+      "src": "wordlist/audios/field.mp3"
+    },
+    {
+      "en": "fight",
+      "ge": "Kampf",
+      "src": "wordlist/audios/fight.mp3"
+    },
+    {
+      "en": "to fight",
+      "ge": "kämpfen",
+      "src": "wordlist/audios/to_fight.mp3"
+    },
+    {
+      "en": "file",
+      "ge": "Datei",
+      "src": "wordlist/audios/file.mp3"
+    },
+    {
+      "en": "final",
+      "ge": "letzter/letzte; End-",
+      "src": "wordlist/audios/final.mp3"
+    },
+    {
+      "en": "finally",
+      "ge": "schließlich; endlich",
+      "src": "wordlist/audios/finally.mp3"
+    },
+    {
+      "en": "to find",
+      "ge": "finden",
+      "src": "wordlist/audios/to_find.mp3"
+    },
+    {
+      "en": "to find out",
+      "ge": "herausfinden",
+      "src": "wordlist/audios/to_find_out.mp3"
+    },
+    {
+      "en": "fine",
+      "ge": "gut, fein",
+      "src": "wordlist/audios/fine.mp3"
+    },
+    {
+      "en": "finger",
+      "ge": "Finger",
+      "src": "wordlist/audios/finger.mp3"
+    },
+    {
+      "en": "to finish",
+      "ge": "aufhören, beenden; vervollständigen",
+      "src": "wordlist/audios/to_finish.mp3"
+    },
+    {
+      "en": "fire",
+      "ge": "Feuer",
+      "src": "wordlist/audios/fire.mp3"
+    },
+    {
+      "en": "first",
+      "ge": "erster/erste/erstes",
+      "src": "wordlist/audios/first.mp3"
+    },
+    {
+      "en": "first aid",
+      "ge": "erste Hilfe",
+      "src": "wordlist/audios/first_aid.mp3"
+    },
+    {
+      "en": "fish (pl fish)",
+      "ge": "Fisch",
+      "src": "wordlist/audios/fish.mp3"
+    },
+    {
+      "en": "fisherman (pl -men)",
+      "ge": "Fischer",
+      "src": "wordlist/audios/fishermen.mp3"
+    },
+    {
+      "en": "to fix a problem",
+      "ge": "ein Problem lösen",
+      "src": "wordlist/audios/to_fix_a_problem.mp3"
+    },
+    {
+      "en": "flash of light",
+      "ge": "Lichtblitz",
+      "src": "wordlist/audios/flash_of_light.mp3"
+    },
+    {
+      "en": "flat",
+      "ge": "Wohnung",
+      "src": "wordlist/audios/flat.mp3"
+    },
+    {
+      "en": "flipper",
+      "ge": "Flosse",
+      "src": "wordlist/audios/flipper.mp3"
+    },
+    {
+      "en": "to float",
+      "ge": "schweben; treiben",
+      "src": "wordlist/audios/to_float.mp3"
+    },
+    {
+      "en": "flood",
+      "ge": "Flut",
+      "src": "wordlist/audios/flood.mp3"
+    },
+    {
+      "en": "floor",
+      "ge": "Boden; Stockwerk",
+      "src": "wordlist/audios/floor.mp3"
+    },
+    {
+      "en": "flower",
+      "ge": "Blume",
+      "src": "wordlist/audios/flower.mp3"
+    },
+    {
+      "en": "to fly",
+      "ge": "fliegen",
+      "src": "wordlist/audios/to_fly.mp3"
+    },
+    {
+      "en": "fog",
+      "ge": "Nebel",
+      "src": "wordlist/audios/fog.mp3"
+    },
+    {
+      "en": "foggy",
+      "ge": "neblig",
+      "src": "wordlist/audios/foggy.mp3"
+    },
+    {
+      "en": "to follow",
+      "ge": "folgen",
+      "src": "wordlist/audios/to_follow.mp3"
+    },
+    {
+      "en": "food",
+      "ge": "Essen",
+      "src": "wordlist/audios/food.mp3"
+    },
+    {
+      "en": "fool",
+      "ge": "Dummkopf, Narr",
+      "src": "wordlist/audios/fool.mp3"
+    },
+    {
+      "en": "foot (pl feet)",
+      "ge": "Fuß",
+      "src": "wordlist/audios/foot_feet.mp3"
+    },
+    {
+      "en": "football",
+      "ge": "Fußball",
+      "src": "wordlist/audios/football.mp3"
+    },
+    {
+      "en": "for",
+      "ge": "für",
+      "src": "wordlist/audios/for.mp3"
+    },
+    {
+      "en": "forecast",
+      "ge": "Vorhersage",
+      "src": "wordlist/audios/forecast.mp3"
+    },
+    {
+      "en": "foreign language",
+      "ge": "Fremdsprache",
+      "src": "wordlist/audios/foreign_language.mp3"
+    },
+    {
+      "en": "forest",
+      "ge": "Wald",
+      "src": "wordlist/audios/forest.mp3"
+    },
+    {
+      "en": "forever",
+      "ge": "für immer",
+      "src": "wordlist/audios/forever.mp3"
+    },
+    {
+      "en": "to forget",
+      "ge": "vergessen",
+      "src": "wordlist/audios/to_forget.mp3"
+    },
+    {
+      "en": "to forgive",
+      "ge": "vergeben",
+      "src": "wordlist/audios/to_forgive.mp3"
+    },
+    {
+      "en": "formula",
+      "ge": "Formel",
+      "src": "wordlist/audios/formula.mp3"
+    },
+    {
+      "en": "forward",
+      "ge": "vorwärts",
+      "src": "wordlist/audios/forward.mp3"
+    },
+    {
+      "en": "fountain",
+      "ge": "(Spring-)Brunnen",
+      "src": "wordlist/audios/fountain.mp3"
+    },
+    {
+      "en": "fox (pl foxes)",
+      "ge": "Fuchs",
+      "src": "wordlist/audios/fox_foxes.mp3"
+    },
+    {
+      "en": "France",
+      "ge": "Frankreich",
+      "src": "wordlist/audios/France.mp3"
+    },
+    {
+      "en": "to free ",
+      "ge": "befreien",
+      "src": "wordlist/audios/to_free.mp3"
+    },
+    {
+      "en": "free time",
+      "ge": "Freizeit",
+      "src": "wordlist/audios/free_time.mp3"
+    },
+    {
+      "en": "freedom of speech",
+      "ge": "Redefreiheit",
+      "src": "wordlist/audios/freedom_of_speech.mp3"
+    },
+    {
+      "en": "French",
+      "ge": "Französisch, französisch",
+      "src": "wordlist/audios/French.mp3"
+    },
+    {
+      "en": "Friday",
+      "ge": "Freitag",
+      "src": "wordlist/audios/friday.mp3"
+    },
+    {
+      "en": "fridge",
+      "ge": "Kühlschrank",
+      "src": "wordlist/audios/fridge.mp3"
+    },
+    {
+      "en": "friend",
+      "ge": "Freund/Freundin",
+      "src": "wordlist/audios/friend.mp3"
+    },
+    {
+      "en": "friendly",
+      "ge": "freundlich",
+      "src": "wordlist/audios/friendly.mp3"
+    },
+    {
+      "en": "friendship",
+      "ge": "Freundschaft",
+      "src": "wordlist/audios/friendship.mp3"
+    },
+    {
+      "en": "to frighten sb.",
+      "ge": "jdn. erschrecken",
+      "src": "wordlist/audios/to_frighten_sb.mp3"
+    },
+    {
+      "en": "frog",
+      "ge": "Frosch",
+      "src": "wordlist/audios/frog.mp3"
+    },
+    {
+      "en": "from",
+      "ge": "von, aus",
+      "src": "wordlist/audios/from.mp3"
+    },
+    {
+      "en": "front window",
+      "ge": "Vorderfenster, Frontscheibe",
+      "src": "wordlist/audios/front_window.mp3"
+    },
+    {
+      "en": "fruit",
+      "ge": "Obst",
+      "src": "wordlist/audios/fruit.mp3"
+    },
+    {
+      "en": "fun",
+      "ge": "Spaß",
+      "src": "wordlist/audios/fun.mp3"
+    },
+    {
+      "en": "funfair",
+      "ge": "Jahrmarkt",
+      "src": "wordlist/audios/funfair.mp3"
+    },
+    {
+      "en": "funny",
+      "ge": "lustig, komisch",
+      "src": "wordlist/audios/funny.mp3"
+    },
+    {
+      "en": "furious",
+      "ge": "wütend",
+      "src": "wordlist/audios/furious.mp3"
+    },
+    {
+      "en": "furniture",
+      "ge": "Möbel",
+      "src": "wordlist/audios/furniture.mp3"
+    },
+    {
+      "en": "future",
+      "ge": "Zukunft",
+      "src": "wordlist/audios/future.mp3"
+    },
+    {
+      "en": "game",
+      "ge": "Spiel",
+      "src": "wordlist/audios/game.mp3"
+    },
+    {
+      "en": "garage",
+      "ge": "Garage",
+      "src": "wordlist/audios/garage.mp3"
+    },
+    {
+      "en": "garden",
+      "ge": "Garten",
+      "src": "wordlist/audios/garden.mp3"
+    },
+    {
+      "en": "gas",
+      "ge": "Gas",
+      "src": "wordlist/audios/gas.mp3"
+    },
+    {
+      "en": "gate",
+      "ge": "Tor",
+      "src": "wordlist/audios/gate.mp3"
+    },
+    {
+      "en": "gear",
+      "ge": "Ausrüstung",
+      "src": "wordlist/audios/gear.mp3"
+    },
+    {
+      "en": "generally",
+      "ge": "im Allgemeinen",
+      "src": "wordlist/audios/generally.mp3"
+    },
+    {
+      "en": "geography",
+      "ge": "Erdkunde, Geografie",
+      "src": "wordlist/audios/geography.mp3"
+    },
+    {
+      "en": "German",
+      "ge": "Deutsch; deutsch",
+      "src": "wordlist/audios/german.mp3"
+    },
+    {
+      "en": "to get",
+      "ge": "holen; bekommen; werden",
+      "src": "wordlist/audios/to_get.mp3"
+    },
+    {
+      "en": "to get dressed",
+      "ge": "sich anziehen",
+      "src": "wordlist/audios/to_get_dressed.mp3"
+    },
+    {
+      "en": "to get fit",
+      "ge": "fit werden",
+      "src": "wordlist/audios/to_get_fit.mp3"
+    },
+    {
+      "en": "to get home",
+      "ge": "heimkommen",
+      "src": "wordlist/audios/to_get_home.mp3"
+    },
+    {
+      "en": "to get up",
+      "ge": "aufstehen",
+      "src": "wordlist/audios/to_get_up.mp3"
+    },
+    {
+      "en": "to get into trouble",
+      "ge": "in Schwierigkeiten geraten",
+      "src": "wordlist/audios/to_get_into_trouble.mp3"
+    },
+    {
+      "en": "ghost",
+      "ge": "Geist",
+      "src": "wordlist/audios/ghost.mp3"
+    },
+    {
+      "en": "giraffe",
+      "ge": "Giraffe",
+      "src": "wordlist/audios/giraffe.mp3"
+    },
+    {
+      "en": "girl",
+      "ge": "Mädchen",
+      "src": "wordlist/audios/girl.mp3"
+    },
+    {
+      "en": "girlfriend",
+      "ge": "feste Freundin",
+      "src": "wordlist/audios/girlfriend.mp3"
+    },
+    {
+      "en": "to give",
+      "ge": "geben",
+      "src": "wordlist/audios/to_give.mp3"
+    },
+    {
+      "en": "to give up",
+      "ge": "aufgeben",
+      "src": "wordlist/audios/to_give_up.mp3"
+    },
+    {
+      "en": "to give way ",
+      "ge": "Platz machen",
+      "src": "wordlist/audios/to_give_way.mp3"
+    },
+    {
+      "en": "glad",
+      "ge": "froh",
+      "src": "wordlist/audios/glad.mp3"
+    },
+    {
+      "en": "glass",
+      "ge": "Glas",
+      "src": "wordlist/audios/glass.mp3"
+    },
+    {
+      "en": "glasses (pl)",
+      "ge": "Brille",
+      "src": "wordlist/audios/glasses.mp3"
+    },
+    {
+      "en": "goalie (informal)",
+      "ge": "Tormann/Torfrau",
+      "src": "wordlist/audios/goalie.mp3"
+    },
+    {
+      "en": "to go for a walk",
+      "ge": "einen Spaziergang machen",
+      "src": "wordlist/audios/to_go_for_a_walk.mp3"
+    },
+    {
+      "en": "to go past ",
+      "ge": "vorbeigehen",
+      "src": "wordlist/audios/to_go_past.mp3"
+    },
+    {
+      "en": "to go straight on",
+      "ge": "geradeaus weitergehen",
+      "src": "wordlist/audios/to_go_straight_on.mp3"
+    },
+    {
+      "en": "to go to bed",
+      "ge": "zu Bett gehen",
+      "src": "wordlist/audios/to_go_to_bed.mp3"
+    },
+    {
+      "en": "to go to school",
+      "ge": "zur Schule gehen",
+      "src": "wordlist/audios/to_go_to_school.mp3"
+    },
+    {
+      "en": "god",
+      "ge": "Gott",
+      "src": "wordlist/audios/god.mp3"
+    },
+    {
+      "en": "gold",
+      "ge": "Gold",
+      "src": "wordlist/audios/gold.mp3"
+    },
+    {
+      "en": "golden",
+      "ge": "aus Gold, golden",
+      "src": "wordlist/audios/golden.mp3"
+    },
+    {
+      "en": "goldfish",
+      "ge": "Goldfisch",
+      "src": "wordlist/audios/goldfish.mp3"
+    },
+    {
+      "en": "golf",
+      "ge": "Golf",
+      "src": "wordlist/audios/golf.mp3"
+    },
+    {
+      "en": "good",
+      "ge": "gut",
+      "src": "wordlist/audios/good.mp3"
+    },
+    {
+      "en": "to be good at sth.",
+      "ge": "etw. gut können, gut in etw. sein",
+      "src": "wordlist/audios/to_be_good_at_sth.mp3"
+    },
+    {
+      "en": "to be good company",
+      "ge": "gute Gesellschaft sein",
+      "src": "wordlist/audios/to_be_good_company.mp3"
+    },
+    {
+      "en": "goodbye",
+      "ge": "auf Wiedersehen, tschüss",
+      "src": "wordlist/audios/goodbye.mp3"
+    },
+    {
+      "en": "grandma",
+      "ge": "Oma, Omi",
+      "src": "wordlist/audios/grandma.mp3"
+    },
+    {
+      "en": "grandmother",
+      "ge": "Großmutter",
+      "src": "wordlist/audios/grandmother.mp3"
+    },
+    {
+      "en": "grandpa",
+      "ge": "Opa, Opi",
+      "src": "wordlist/audios/grandpa.mp3"
+    },
+    {
+      "en": "grandparents",
+      "ge": "Großeltern",
+      "src": "wordlist/audios/grandparents.mp3"
+    },
+    {
+      "en": "grape",
+      "ge": "Traube",
+      "src": "wordlist/audios/grape.mp3"
+    },
+    {
+      "en": "grass",
+      "ge": "Gras",
+      "src": "wordlist/audios/grass.mp3"
+    },
+    {
+      "en": "graveyard",
+      "ge": "Friedhof",
+      "src": "wordlist/audios/graveyard.mp3"
+    },
+    {
+      "en": "great",
+      "ge": "großartig; riesig",
+      "src": "wordlist/audios/great.mp3"
+    },
+    {
+      "en": "green",
+      "ge": "grün",
+      "src": "wordlist/audios/green.mp3"
+    },
+    {
+      "en": "ground",
+      "ge": "(Erd-)Boden, Erde",
+      "src": "wordlist/audios/ground.mp3"
+    },
+    {
+      "en": "group",
+      "ge": "Gruppe",
+      "src": "wordlist/audios/group.mp3"
+    },
+    {
+      "en": "to grow up",
+      "ge": "erwachsen werden",
+      "src": "wordlist/audios/to_grow_up.mp3"
+    },
+    {
+      "en": "to guess",
+      "ge": "(er-)raten",
+      "src": "wordlist/audios/to_guess.mp3"
+    },
+    {
+      "en": "guest",
+      "ge": "Gast",
+      "src": "wordlist/audios/guest.mp3"
+    },
+    {
+      "en": "guide",
+      "ge": "Reiseführer/Reiseführerin",
+      "src": "wordlist/audios/guide.mp3"
+    },
+    {
+      "en": "guinea pig",
+      "ge": "Meerschweinchen",
+      "src": "wordlist/audios/guinea_pig.mp3"
+    },
+    {
+      "en": "gun",
+      "ge": "(Schuss-)Waffe",
+      "src": "wordlist/audios/gun.mp3"
+    },
+    {
+      "en": "guys (informal)",
+      "ge": "Leute",
+      "src": "wordlist/audios/guys.mp3"
+    },
+    {
+      "en": "gym",
+      "ge": "Turnhalle; Fitnesscenter",
+      "src": "wordlist/audios/gym.mp3"
+    },
+    {
+      "en": "hairy",
+      "ge": "haarig, stark behaart",
+      "src": "wordlist/audios/hairy.mp3"
+    },
+    {
+      "en": "half (pl halves)",
+      "ge": "Hälfte",
+      "src": "wordlist/audios/half_halves.mp3"
+    },
+    {
+      "en": "half an hour",
+      "ge": "eine halbe Stunde",
+      "src": "wordlist/audios/half_an_hour.mp3"
+    },
+    {
+      "en": "hall",
+      "ge": "Flur, Eingangsbereich",
+      "src": "wordlist/audios/hall.mp3"
+    },
+    {
+      "en": "ham",
+      "ge": "Schinken",
+      "src": "wordlist/audios/ham.mp3"
+    },
+    {
+      "en": "hammock",
+      "ge": "Hängematte",
+      "src": "wordlist/audios/hammock.mp3"
+    },
+    {
+      "en": "hand",
+      "ge": "Hand",
+      "src": "wordlist/audios/hand.mp3"
+    },
+    {
+      "en": "to hang on",
+      "ge": "durchhalten; hier: warten",
+      "src": "wordlist/audios/to_hang_on.mp3"
+    },
+    {
+      "en": "to happen ",
+      "ge": "geschehen",
+      "src": "wordlist/audios/to_happen.mp3"
+    },
+    {
+      "en": "happy",
+      "ge": "glücklich, fröhlich",
+      "src": "wordlist/audios/happy.mp3"
+    },
+    {
+      "en": "hard",
+      "ge": "hart; schwierig",
+      "src": "wordlist/audios/hard.mp3"
+    },
+    {
+      "en": "hat",
+      "ge": "Hut",
+      "src": "wordlist/audios/hat.mp3"
+    },
+    {
+      "en": "haunted",
+      "ge": "heimgesucht (von einem Spuk)",
+      "src": "wordlist/audios/haunted.mp3"
+    },
+    {
+      "en": "Have a nice day!",
+      "ge": "Hab(t) einen schönen Tag!",
+      "src": "wordlist/audios/have_a_nice_day.mp3"
+    },
+    {
+      "en": "to have food",
+      "ge": "Essen zu sich nehmen",
+      "src": "wordlist/audios/to_have_food.mp3"
+    },
+    {
+      "en": "to have a party",
+      "ge": "eine Party veranstalten",
+      "src": "wordlist/audios/to_have_a_party.mp3"
+    },
+    {
+      "en": "to have breakfast",
+      "ge": "frühstücken",
+      "src": "wordlist/audios/to_have_breakfast.mp3"
+    },
+    {
+      "en": "to have dinner",
+      "ge": "zu Abend essen",
+      "src": "wordlist/audios/to_have_dinner.mp3"
+    },
+    {
+      "en": "to have room",
+      "ge": "Platz haben",
+      "src": "wordlist/audios/to_have_room.mp3"
+    },
+    {
+      "en": "he",
+      "ge": "er",
+      "src": "wordlist/audios/he.mp3"
+    },
+    {
+      "en": "head",
+      "ge": "Kopf",
+      "src": "wordlist/audios/head.mp3"
+    },
+    {
+      "en": "headache",
+      "ge": "Kopfschmerzen",
+      "src": "wordlist/audios/headache.mp3"
+    },
+    {
+      "en": "headteacher",
+      "ge": "Schulleiter/Schulleiterin, Schuldirektor/Schuldirektorin",
+      "src": "wordlist/audios/headteacher.mp3"
+    },
+    {
+      "en": "to hear",
+      "ge": "hören",
+      "src": "wordlist/audios/to_hear.mp3"
+    },
+    {
+      "en": "heavy",
+      "ge": "schwer",
+      "src": "wordlist/audios/heavy.mp3"
+    },
+    {
+      "en": "heavy rain",
+      "ge": "starker Regen",
+      "src": "wordlist/audios/heavy_rain.mp3"
+    },
+    {
+      "en": "helmet",
+      "ge": "Helm",
+      "src": "wordlist/audios/helmet.mp3"
+    },
+    {
+      "en": "help",
+      "ge": "Hilfe",
+      "src": "wordlist/audios/help.mp3"
+    },
+    {
+      "en": "to help",
+      "ge": "helfen",
+      "src": "wordlist/audios/to_help.mp3"
+    },
+    {
+      "en": "helpful",
+      "ge": "hilfsbereit",
+      "src": "wordlist/audios/helpful.mp3"
+    },
+    {
+      "en": "her",
+      "ge": "sie; ihr/ihre",
+      "src": "wordlist/audios/her.mp3"
+    },
+    {
+      "en": "here",
+      "ge": "hier; her",
+      "src": "wordlist/audios/here.mp3"
+    },
+    {
+      "en": "Here you are. ",
+      "ge": "Hier, bitte., Bitte schön.",
+      "src": "wordlist/audios/here_you_are.mp3"
+    },
+    {
+      "en": "hero, heroine",
+      "ge": "Held, Heldin",
+      "src": "wordlist/audios/hero_heroine.mp3"
+    },
+    {
+      "en": "hers",
+      "ge": "ihrer/ihre/ihres",
+      "src": "wordlist/audios/hers.mp3"
+    },
+    {
+      "en": "herself",
+      "ge": "sich selbst, ihr selbst",
+      "src": "wordlist/audios/herself.mp3"
+    },
+    {
+      "en": "to hide",
+      "ge": "(sich) verstecken",
+      "src": "wordlist/audios/to_hide.mp3"
+    },
+    {
+      "en": "high",
+      "ge": "hoch",
+      "src": "wordlist/audios/high.mp3"
+    },
+    {
+      "en": "hiking holiday",
+      "ge": "Wanderurlaub",
+      "src": "wordlist/audios/hiking_holiday.mp3"
+    },
+    {
+      "en": "hill",
+      "ge": "Hügel",
+      "src": "wordlist/audios/hill.mp3"
+    },
+    {
+      "en": "him",
+      "ge": "ihm, ihn",
+      "src": "wordlist/audios/him.mp3"
+    },
+    {
+      "en": "to hire ",
+      "ge": "mieten, ausleihen",
+      "src": "wordlist/audios/to_hire.mp3"
+    },
+    {
+      "en": "his",
+      "ge": "sein/seine",
+      "src": "wordlist/audios/his.mp3"
+    },
+    {
+      "en": "history",
+      "ge": "Geschichte",
+      "src": "wordlist/audios/history.mp3"
+    },
+    {
+      "en": "to hit",
+      "ge": "schlagen",
+      "src": "wordlist/audios/to_hit.mp3"
+    },
+    {
+      "en": "hoax",
+      "ge": "Streich, Trick",
+      "src": "wordlist/audios/hoax.mp3"
+    },
+    {
+      "en": "hobby (pl hobbies)",
+      "ge": "Hobby",
+      "src": "wordlist/audios/hobby_hobbies.mp3"
+    },
+    {
+      "en": "to hold",
+      "ge": "(ab-)halten",
+      "src": "wordlist/audios/to_hold.mp3"
+    },
+    {
+      "en": "hole",
+      "ge": "Loch",
+      "src": "wordlist/audios/hole.mp3"
+    },
+    {
+      "en": "holiday",
+      "ge": "Urlaub, Ferien",
+      "src": "wordlist/audios/holiday.mp3"
+    },
+    {
+      "en": "home",
+      "ge": "Zuhause; zu Hause",
+      "src": "wordlist/audios/home.mp3"
+    },
+    {
+      "en": "homework (pl) ",
+      "ge": "Hausaufgaben",
+      "src": "wordlist/audios/homework_no_pl.mp3"
+    },
+    {
+      "en": "honestly",
+      "ge": "ehrlich; wirklich",
+      "src": "wordlist/audios/honestly.mp3"
+    },
+    {
+      "en": "hope",
+      "ge": "Hoffnung",
+      "src": "wordlist/audios/hope.mp3"
+    },
+    {
+      "en": "to hope",
+      "ge": "hoffen",
+      "src": "wordlist/audios/to_hope.mp3"
+    },
+    {
+      "en": "hopefully",
+      "ge": "hoffentlich",
+      "src": "wordlist/audios/hopefully.mp3"
+    },
+    {
+      "en": "horn",
+      "ge": "Horn",
+      "src": "wordlist/audios/horn.mp3"
+    },
+    {
+      "en": "horrible",
+      "ge": "schrecklich",
+      "src": "wordlist/audios/horrible.mp3"
+    },
+    {
+      "en": "horror",
+      "ge": "Horror",
+      "src": "wordlist/audios/horror.mp3"
+    },
+    {
+      "en": "horse",
+      "ge": "Pferd",
+      "src": "wordlist/audios/horse.mp3"
+    },
+    {
+      "en": "hospital",
+      "ge": "Krankenhaus",
+      "src": "wordlist/audios/hospital.mp3"
+    },
+    {
+      "en": "hot",
+      "ge": "heiß",
+      "src": "wordlist/audios/hot.mp3"
+    },
+    {
+      "en": "hot chocolate",
+      "ge": "heiße Schokolade, heißer Kakao",
+      "src": "wordlist/audios/hot_chocolate.mp3"
+    },
+    {
+      "en": "hotel",
+      "ge": "Hotel",
+      "src": "wordlist/audios/hotel.mp3"
+    },
+    {
+      "en": "hotel owner",
+      "ge": "Hotelbesitzer/Hotelbesitzerin",
+      "src": "wordlist/audios/hotel_owner.mp3"
+    },
+    {
+      "en": "hour",
+      "ge": "Stunde",
+      "src": "wordlist/audios/hour.mp3"
+    },
+    {
+      "en": "house",
+      "ge": "Haus",
+      "src": "wordlist/audios/house.mp3"
+    },
+    {
+      "en": "household chores",
+      "ge": "Haushaltsarbeiten",
+      "src": "wordlist/audios/household_chores.mp3"
+    },
+    {
+      "en": "how",
+      "ge": "wie",
+      "src": "wordlist/audios/how.mp3"
+    },
+    {
+      "en": "however",
+      "ge": "allerdings, hingegen",
+      "src": "wordlist/audios/however.mp3"
+    },
+    {
+      "en": "How much?",
+      "ge": "Wie viel?",
+      "src": "wordlist/audios/how_much.mp3"
+    },
+    {
+      "en": "to hug",
+      "ge": "umarmen",
+      "src": "wordlist/audios/to_hug.mp3"
+    },
+    {
+      "en": "huge",
+      "ge": "riesig",
+      "src": "wordlist/audios/huge.mp3"
+    },
+    {
+      "en": "human",
+      "ge": "Mensch",
+      "src": "wordlist/audios/human.mp3"
+    },
+    {
+      "en": "hundred",
+      "ge": "hundert",
+      "src": "wordlist/audios/hundred.mp3"
+    },
+    {
+      "en": "hungry",
+      "ge": "hungrig",
+      "src": "wordlist/audios/hungry.mp3"
+    },
+    {
+      "en": "to hunt ",
+      "ge": "jagen",
+      "src": "wordlist/audios/to_hunt.mp3"
+    },
+    {
+      "en": "to hurry",
+      "ge": "sich beeilen",
+      "src": "wordlist/audios/to_hurry.mp3"
+    },
+    {
+      "en": "to hurt",
+      "ge": "wehtun, schmerzen",
+      "src": "wordlist/audios/to_hurt.mp3"
+    },
+    {
+      "en": "husband",
+      "ge": "Ehemann",
+      "src": "wordlist/audios/husband.mp3"
+    },
+    {
+      "en": "I",
+      "ge": "ich",
+      "src": "wordlist/audios/I.mp3"
+    },
+    {
+      "en": "I promise.",
+      "ge": "Ich verspreche.",
+      "src": "wordlist/audios/i_promise.mp3"
+    },
+    {
+      "en": "ice cream ",
+      "ge": "Eiscreme",
+      "src": "wordlist/audios/ice_cream.mp3"
+    },
+    {
+      "en": "ice skating",
+      "ge": "Eislaufen",
+      "src": "wordlist/audios/ice_skating.mp3"
+    },
+    {
+      "en": "idea",
+      "ge": "Idee, Einfall",
+      "src": "wordlist/audios/idea.mp3"
+    },
+    {
+      "en": "ideal",
+      "ge": "ideal",
+      "src": "wordlist/audios/ideal.mp3"
+    },
+    {
+      "en": "if",
+      "ge": "wenn; falls",
+      "src": "wordlist/audios/if.mp3"
+    },
+    {
+      "en": "ill",
+      "ge": "krank",
+      "src": "wordlist/audios/ill.mp3"
+    },
+    {
+      "en": "I’m (I am)",
+      "ge": "Ich bin; Ich heiße",
+      "src": "wordlist/audios/I_am_Im.mp3"
+    },
+    {
+      "en": "I’m off now.",
+      "ge": "Ich bin jetzt weg.",
+      "src": "wordlist/audios/im_off_now.mp3"
+    },
+    {
+      "en": "to imagine",
+      "ge": "sich vorstellen",
+      "src": "wordlist/audios/to_imagine.mp3"
+    },
+    {
+      "en": "important",
+      "ge": "wichtig",
+      "src": "wordlist/audios/important.mp3"
+    },
+    {
+      "en": "in",
+      "ge": "in",
+      "src": "wordlist/audios/in.mp3"
+    },
+    {
+      "en": "to include",
+      "ge": "beinhalten",
+      "src": "wordlist/audios/to_include.mp3"
+    },
+    {
+      "en": "in front of",
+      "ge": "vor",
+      "src": "wordlist/audios/in_front_of.mp3"
+    },
+    {
+      "en": "to injure",
+      "ge": "verletzen",
+      "src": "wordlist/audios/to_injure.mp3"
+    },
+    {
+      "en": "italics",
+      "ge": "Kursivschrift",
+      "src": "wordlist/audios/italics.mp3"
+    },
+    {
+      "en": "to interrupt ",
+      "ge": "unterbrechen",
+      "src": "wordlist/audios/to_interrupt.mp3"
+    },
+    {
+      "en": "in pairs",
+      "ge": "zu zweit",
+      "src": "wordlist/audios/in_pairs.mp3"
+    },
+    {
+      "en": "in that case",
+      "ge": "in diesem Fall",
+      "src": "wordlist/audios/in_that_case.mp3"
+    },
+    {
+      "en": "inch (pl inches)",
+      "ge": "Zoll (= 2,54 cm)",
+      "src": "wordlist/audios/inch_inches.mp3"
+    },
+    {
+      "en": "incredible",
+      "ge": "unglaublich",
+      "src": "wordlist/audios/incredible.mp3"
+    },
+    {
+      "en": "indeed",
+      "ge": "in der Tat",
+      "src": "wordlist/audios/indeed.mp3"
+    },
+    {
+      "en": "Indian Ocean",
+      "ge": "Indischer Ozean",
+      "src": "wordlist/audios/indian_ocean.mp3"
+    },
+    {
+      "en": "information technology (IT)",
+      "ge": "Informatik",
+      "src": "wordlist/audios/informationa_technology_it.mp3"
+    },
+    {
+      "en": "inscription",
+      "ge": "Aufschrift, Inschrift",
+      "src": "wordlist/audios/inscription.mp3"
+    },
+    {
+      "en": "insect",
+      "ge": "Insekt",
+      "src": "wordlist/audios/insect.mp3"
+    },
+    {
+      "en": "inside",
+      "ge": "in, innerhalb",
+      "src": "wordlist/audios/inside.mp3"
+    },
+    {
+      "en": "instead",
+      "ge": "stattdessen",
+      "src": "wordlist/audios/instead.mp3"
+    },
+    {
+      "en": "intelligent",
+      "ge": "intelligent",
+      "src": "wordlist/audios/intelligent.mp3"
+    },
+    {
+      "en": "interest",
+      "ge": "Interesse",
+      "src": "wordlist/audios/interest.mp3"
+    },
+    {
+      "en": "interesting",
+      "ge": "interessant",
+      "src": "wordlist/audios/interesting.mp3"
+    },
+    {
+      "en": "internet",
+      "ge": "Internet",
+      "src": "wordlist/audios/internet.mp3"
+    },
+    {
+      "en": "interview",
+      "ge": "Interview",
+      "src": "wordlist/audios/interview.mp3"
+    },
+    {
+      "en": "into",
+      "ge": "in (… hinein)",
+      "src": "wordlist/audios/into.mp3"
+    },
+    {
+      "en": "to introduce",
+      "ge": "(sich/jdn.) vorstellen",
+      "src": "wordlist/audios/to_introduce.mp3"
+    },
+    {
+      "en": "investigation",
+      "ge": "Untersuchung, Ermittlung",
+      "src": "wordlist/audios/investigation.mp3"
+    },
+    {
+      "en": "invitation",
+      "ge": "Einladung",
+      "src": "wordlist/audios/invitation.mp3"
+    },
+    {
+      "en": "to invite",
+      "ge": "einladen",
+      "src": "wordlist/audios/to_invite.mp3"
+    },
+    {
+      "en": "Ireland",
+      "ge": "Irland",
+      "src": "wordlist/audios/Ireland.mp3"
+    },
+    {
+      "en": "island",
+      "ge": "Insel",
+      "src": "wordlist/audios/island.mp3"
+    },
+    {
+      "en": "it",
+      "ge": "es",
+      "src": "wordlist/audios/it.mp3"
+    },
+    {
+      "en": "Italian",
+      "ge": "Italiener/Italienerin; italienisch",
+      "src": "wordlist/audios/italian.mp3"
+    },
+    {
+      "en": "Italy",
+      "ge": "Italien",
+      "src": "wordlist/audios/Italy.mp3"
+    },
+    {
+      "en": "jacket",
+      "ge": "Jacke",
+      "src": "wordlist/audios/jacket.mp3"
+    },
+    {
+      "en": "jeans ",
+      "ge": "Jeanshose",
+      "src": "wordlist/audios/jeans.mp3"
+    },
+    {
+      "en": "job ",
+      "ge": "Beruf, Arbeit; Aufgabe",
+      "src": "wordlist/audios/job.mp3"
+    },
+    {
+      "en": "to join ",
+      "ge": "beitreten, mitmachen",
+      "src": "wordlist/audios/to_join.mp3"
+    },
+    {
+      "en": "joke ",
+      "ge": "Witz",
+      "src": "wordlist/audios/joke.mp3"
+    },
+    {
+      "en": "juice ",
+      "ge": "Saft",
+      "src": "wordlist/audios/juice.mp3"
+    },
+    {
+      "en": "July ",
+      "ge": "Juli",
+      "src": "wordlist/audios/July.mp3"
+    },
+    {
+      "en": "to jump ",
+      "ge": "hüpfen; springen",
+      "src": "wordlist/audios/to_jump.mp3"
+    },
+    {
+      "en": "June ",
+      "ge": "Juni",
+      "src": "wordlist/audios/June.mp3"
+    },
+    {
+      "en": "jungle ",
+      "ge": "Dschungel",
+      "src": "wordlist/audios/jungle.mp3"
+    },
+    {
+      "en": "junior ",
+      "ge": "Junioren-, Jugend",
+      "src": "wordlist/audios/junior.mp3"
+    },
+    {
+      "en": "just",
+      "ge": "gerade eben",
+      "src": "wordlist/audios/just.mp3"
+    },
+    {
+      "en": "to be keen on",
+      "ge": "sich begeistern für",
+      "src": "wordlist/audios/to_be_keen_on.mp3"
+    },
+    {
+      "en": "to keep",
+      "ge": "(be-)halten",
+      "src": "wordlist/audios/to_keep.mp3"
+    },
+    {
+      "en": "to keep someone company",
+      "ge": "jdm. Gesellschaft leisten",
+      "src": "wordlist/audios/to_keep_someone_company.mp3"
+    },
+    {
+      "en": "key",
+      "ge": "Schlüssel",
+      "src": "wordlist/audios/key.mp3"
+    },
+    {
+      "en": "to kick",
+      "ge": "treten, kicken",
+      "src": "wordlist/audios/to_kick.mp3"
+    },
+    {
+      "en": "kid",
+      "ge": "Kind",
+      "src": "wordlist/audios/kid.mp3"
+    },
+    {
+      "en": "to kidnap",
+      "ge": "entführen",
+      "src": "wordlist/audios/to_kidnap.mp3"
+    },
+    {
+      "en": "to kill",
+      "ge": "töten",
+      "src": "wordlist/audios/to_kill.mp3"
+    },
+    {
+      "en": "kilo",
+      "ge": "Kilo",
+      "src": "wordlist/audios/kilo.mp3"
+    },
+    {
+      "en": "kilometre",
+      "ge": "Kilometer",
+      "src": "wordlist/audios/kilometre.mp3"
+    },
+    {
+      "en": "kind",
+      "ge": "freundlich, liebenswürdig",
+      "src": "wordlist/audios/kind.mp3"
+    },
+    {
+      "en": "king",
+      "ge": "König",
+      "src": "wordlist/audios/king.mp3"
+    },
+    {
+      "en": "kiss",
+      "ge": "Kuss",
+      "src": "wordlist/audios/kiss.mp3"
+    },
+    {
+      "en": "kitchen",
+      "ge": "Küche",
+      "src": "wordlist/audios/kitchen.mp3"
+    },
+    {
+      "en": "knee",
+      "ge": "Knie",
+      "src": "wordlist/audios/knee.mp3"
+    },
+    {
+      "en": "knife (pl knives)",
+      "ge": "Messer",
+      "src": "wordlist/audios/knife_pl_knives.mp3"
+    },
+    {
+      "en": "knight",
+      "ge": "Ritter",
+      "src": "wordlist/audios/knight.mp3"
+    },
+    {
+      "en": "to knock",
+      "ge": "klopfen",
+      "src": "wordlist/audios/to_knock.mp3"
+    },
+    {
+      "en": "to know",
+      "ge": "wissen; kennen",
+      "src": "wordlist/audios/to_know.mp3"
+    },
+    {
+      "en": "a lot of",
+      "ge": "viel/e, eine Menge",
+      "src": "wordlist/audios/a_lot_of.mp3"
+    },
+    {
+      "en": "ladybird",
+      "ge": "Marienkäfer",
+      "src": "wordlist/audios/ladybird.mp3"
+    },
+    {
+      "en": "lake",
+      "ge": "See",
+      "src": "wordlist/audios/lake.mp3"
+    },
+    {
+      "en": "lamb",
+      "ge": "Lamm",
+      "src": "wordlist/audios/lamb.mp3"
+    },
+    {
+      "en": "lamb chops",
+      "ge": "Lammkotletts",
+      "src": "wordlist/audios/lamb_chops.mp3"
+    },
+    {
+      "en": "lamp",
+      "ge": "Lampe",
+      "src": "wordlist/audios/lamp.mp3"
+    },
+    {
+      "en": "lamp post",
+      "ge": "Laternenmast",
+      "src": "wordlist/audios/lamp_post.mp3"
+    },
+    {
+      "en": "language",
+      "ge": "Sprache",
+      "src": "wordlist/audios/language.mp3"
+    },
+    {
+      "en": "laptop",
+      "ge": "Laptop",
+      "src": "wordlist/audios/laptop.mp3"
+    },
+    {
+      "en": "large",
+      "ge": "groß",
+      "src": "wordlist/audios/large.mp3"
+    },
+    {
+      "en": "last",
+      "ge": "letzer/letzte/letztes",
+      "src": "wordlist/audios/last.mp3"
+    },
+    {
+      "en": "to last",
+      "ge": "(an-)dauern",
+      "src": "wordlist/audios/to_last.mp3"
+    },
+    {
+      "en": "late",
+      "ge": "(zu) spät",
+      "src": "wordlist/audios/late.mp3"
+    },
+    {
+      "en": "to laugh",
+      "ge": "lachen",
+      "src": "wordlist/audios/to_laugh.mp3"
+    },
+    {
+      "en": "leaflet",
+      "ge": "Broschüre",
+      "src": "wordlist/audios/leaflet.mp3"
+    },
+    {
+      "en": "to learn ",
+      "ge": "lernen; herausfinden",
+      "src": "wordlist/audios/to_learn.mp3"
+    },
+    {
+      "en": "least",
+      "ge": "wenigster/wenigste/wenigstes",
+      "src": "wordlist/audios/least.mp3"
+    },
+    {
+      "en": "leather",
+      "ge": "Leder",
+      "src": "wordlist/audios/leather.mp3"
+    },
+    {
+      "en": "to leave",
+      "ge": "verlassen, weggehen",
+      "src": "wordlist/audios/to_leave.mp3"
+    },
+    {
+      "en": "leech (pl leeches)",
+      "ge": "Blutegel",
+      "src": "wordlist/audios/leech_leeches.mp3"
+    },
+    {
+      "en": "left",
+      "ge": "übrig; links",
+      "src": "wordlist/audios/left.mp3"
+    },
+    {
+      "en": "left-hand",
+      "ge": "linker/linke/linkes",
+      "src": "wordlist/audios/left_hand.mp3"
+    },
+    {
+      "en": "leg",
+      "ge": "Bein",
+      "src": "wordlist/audios/leg.mp3"
+    },
+    {
+      "en": "length",
+      "ge": "Länge",
+      "src": "wordlist/audios/length.mp3"
+    },
+    {
+      "en": "leopard",
+      "ge": "Leopard",
+      "src": "wordlist/audios/leopard.mp3"
+    },
+    {
+      "en": "less",
+      "ge": "weniger",
+      "src": "wordlist/audios/less.mp3"
+    },
+    {
+      "en": "lesson",
+      "ge": "Unterrichtsstunde",
+      "src": "wordlist/audios/lesson.mp3"
+    },
+    {
+      "en": "letter",
+      "ge": "Brief; Buchstabe",
+      "src": "wordlist/audios/letter.mp3"
+    },
+    {
+      "en": "library",
+      "ge": "Bibliothek, Bücherei",
+      "src": "wordlist/audios/library.mp3"
+    },
+    {
+      "en": "lie",
+      "ge": "Lüge",
+      "src": "wordlist/audios/lie.mp3"
+    },
+    {
+      "en": "to lie",
+      "ge": "liegen; sich legen",
+      "src": "wordlist/audios/to_lie.mp3"
+    },
+    {
+      "en": "life (pl lives)",
+      "ge": "Leben",
+      "src": "wordlist/audios/life_pl_lives.mp3"
+    },
+    {
+      "en": "life jacket ",
+      "ge": "Schwimmweste",
+      "src": "wordlist/audios/life_jacket.mp3"
+    },
+    {
+      "en": "light",
+      "ge": "hell; leicht; Licht",
+      "src": "wordlist/audios/light.mp3"
+    },
+    {
+      "en": "lights",
+      "ge": "hier: Verkehrsampel",
+      "src": "wordlist/audios/lights.mp3"
+    },
+    {
+      "en": "to like",
+      "ge": "mögen",
+      "src": "wordlist/audios/to_like.mp3"
+    },
+    {
+      "en": "lion",
+      "ge": "Löwe",
+      "src": "wordlist/audios/lion.mp3"
+    },
+    {
+      "en": "Lisbon",
+      "ge": "Lissabon",
+      "src": "wordlist/audios/Lisbon.mp3"
+    },
+    {
+      "en": "list",
+      "ge": "Liste",
+      "src": "wordlist/audios/list.mp3"
+    },
+    {
+      "en": "to listen (to)",
+      "ge": "zuhören",
+      "src": "wordlist/audios/to_listen_to.mp3"
+    },
+    {
+      "en": "listener",
+      "ge": "Zuhörer/Zuhörerin",
+      "src": "wordlist/audios/listener.mp3"
+    },
+    {
+      "en": "litter tray",
+      "ge": "Katzenklo",
+      "src": "wordlist/audios/litter_tray.mp3"
+    },
+    {
+      "en": "little",
+      "ge": "klein",
+      "src": "wordlist/audios/little.mp3"
+    },
+    {
+      "en": "to live",
+      "ge": "leben",
+      "src": "wordlist/audios/to_live.mp3"
+    },
+    {
+      "en": "living room",
+      "ge": "Wohnzimmer",
+      "src": "wordlist/audios/living_room.mp3"
+    },
+    {
+      "en": "lobby",
+      "ge": "Lobby, Vorhalle",
+      "src": "wordlist/audios/lobby.mp3"
+    },
+    {
+      "en": "local",
+      "ge": "lokal, ortsansässig, einheimisch",
+      "src": "wordlist/audios/local.mp3"
+    },
+    {
+      "en": "to lock",
+      "ge": "abschließen, zusperren",
+      "src": "wordlist/audios/to_lock.mp3"
+    },
+    {
+      "en": "long",
+      "ge": "lang",
+      "src": "wordlist/audios/long.mp3"
+    },
+    {
+      "en": "to look (at)",
+      "ge": "betrachten, ansehen",
+      "src": "wordlist/audios/to_look_at.mp3"
+    },
+    {
+      "en": "to look for",
+      "ge": "suchen nach",
+      "src": "wordlist/audios/to_look_for.mp3"
+    },
+    {
+      "en": "lord",
+      "ge": "Herr",
+      "src": "wordlist/audios/Lord.mp3"
+    },
+    {
+      "en": "to lose",
+      "ge": "verlieren",
+      "src": "wordlist/audios/to_lose.mp3"
+    },
+    {
+      "en": "lost",
+      "ge": "verloren",
+      "src": "wordlist/audios/lost.mp3"
+    },
+    {
+      "en": "lots of",
+      "ge": "viel/e, jede Menge",
+      "src": "wordlist/audios/lots_of.mp3"
+    },
+    {
+      "en": "loud",
+      "ge": "laut",
+      "src": "wordlist/audios/loud.mp3"
+    },
+    {
+      "en": "to love",
+      "ge": "lieben, mögen",
+      "src": "wordlist/audios/to_love.mp3"
+    },
+    {
+      "en": "lovely",
+      "ge": "großartig, reizend, nett",
+      "src": "wordlist/audios/lovely.mp3"
+    },
+    {
+      "en": "luck",
+      "ge": "Glück",
+      "src": "wordlist/audios/luck.mp3"
+    },
+    {
+      "en": "to be lucky",
+      "ge": "Glück haben",
+      "src": "wordlist/audios/to_be_lucky.mp3"
+    },
+    {
+      "en": "lunch",
+      "ge": "Mittagessen",
+      "src": "wordlist/audios/lunch.mp3"
+    },
+    {
+      "en": "lunchtime",
+      "ge": "Mittagspause",
+      "src": "wordlist/audios/lunchtime.mp3"
+    },
+    {
+      "en": "machine",
+      "ge": "Maschine",
+      "src": "wordlist/audios/machine.mp3"
+    },
+    {
+      "en": "mad",
+      "ge": "böse, wütend",
+      "src": "wordlist/audios/mad.mp3"
+    },
+    {
+      "en": "to be mad about sth.",
+      "ge": "verrückt nach etwas sein",
+      "src": "wordlist/audios/to_be_mad_about_sth.mp3"
+    },
+    {
+      "en": "magazine",
+      "ge": "Zeitschrift, Magazin",
+      "src": "wordlist/audios/magazine.mp3"
+    },
+    {
+      "en": "main course",
+      "ge": "Hauptgericht",
+      "src": "wordlist/audios/main_course.mp3"
+    },
+    {
+      "en": "to make",
+      "ge": "machen",
+      "src": "wordlist/audios/to_make.mp3"
+    },
+    {
+      "en": "to make sure",
+      "ge": "sich versichern",
+      "src": "wordlist/audios/to_make_sure.mp3"
+    },
+    {
+      "en": "malaria",
+      "ge": "Malaria",
+      "src": "wordlist/audios/malaria.mp3"
+    },
+    {
+      "en": "male",
+      "ge": "männlich; Männchen (Tierwelt)",
+      "src": "wordlist/audios/male.mp3"
+    },
+    {
+      "en": "mammal",
+      "ge": "Säugetier",
+      "src": "wordlist/audios/mammal.mp3"
+    },
+    {
+      "en": "man (pl men)",
+      "ge": "Mann",
+      "src": "wordlist/audios/man_pl_men.mp3"
+    },
+    {
+      "en": "to manage",
+      "ge": "etwas schaffen",
+      "src": "wordlist/audios/to_manage.mp3"
+    },
+    {
+      "en": "many",
+      "ge": "viele",
+      "src": "wordlist/audios/many.mp3"
+    },
+    {
+      "en": "map",
+      "ge": "(Land-)Karte",
+      "src": "wordlist/audios/map.mp3"
+    },
+    {
+      "en": "March",
+      "ge": "März",
+      "src": "wordlist/audios/March.mp3"
+    },
+    {
+      "en": "market",
+      "ge": "Markt",
+      "src": "wordlist/audios/market.mp3"
+    },
+    {
+      "en": "Mars",
+      "ge": "Mars",
+      "src": "wordlist/audios/mars.mp3"
+    },
+    {
+      "en": "mascot",
+      "ge": "Maskottchen",
+      "src": "wordlist/audios/mascot.mp3"
+    },
+    {
+      "en": "to mash",
+      "ge": "zerdrücken, zerstampfen",
+      "src": "wordlist/audios/to_mash.mp3"
+    },
+    {
+      "en": "mask",
+      "ge": "Maske",
+      "src": "wordlist/audios/mask.mp3"
+    },
+    {
+      "en": "master",
+      "ge": "Meister/Meisterin",
+      "src": "wordlist/audios/master.mp3"
+    },
+    {
+      "en": "match",
+      "ge": "Match, Spiel",
+      "src": "wordlist/audios/match.mp3"
+    },
+    {
+      "en": "material",
+      "ge": "Material",
+      "src": "wordlist/audios/material.mp3"
+    },
+    {
+      "en": "maths",
+      "ge": "Mathe(matik)",
+      "src": "wordlist/audios/maths.mp3"
+    },
+    {
+      "en": "It doesn’t matter.",
+      "ge": "Das ist nicht wichtig.",
+      "src": "wordlist/audios/It_doesnt_matter.mp3"
+    },
+    {
+      "en": "maximum",
+      "ge": "Maximum",
+      "src": "wordlist/audios/maximum.mp3"
+    },
+    {
+      "en": "Mayan",
+      "ge": "Maya-",
+      "src": "wordlist/audios/mayan.mp3"
+    },
+    {
+      "en": "maybe",
+      "ge": "vielleicht",
+      "src": "wordlist/audios/maybe.mp3"
+    },
+    {
+      "en": "me",
+      "ge": "mir; mich",
+      "src": "wordlist/audios/me.mp3"
+    },
+    {
+      "en": "Me too.",
+      "ge": "Ich auch.",
+      "src": "wordlist/audios/me_too.mp3"
+    },
+    {
+      "en": "meal",
+      "ge": "Mahlzeit, Essen",
+      "src": "wordlist/audios/meal.mp3"
+    },
+    {
+      "en": "to mean",
+      "ge": "meinen; bedeuten",
+      "src": "wordlist/audios/to_mean.mp3"
+    },
+    {
+      "en": "meaning",
+      "ge": "Bedeutung",
+      "src": "wordlist/audios/meaning.mp3"
+    },
+    {
+      "en": "meat",
+      "ge": "Fleisch",
+      "src": "wordlist/audios/meat.mp3"
+    },
+    {
+      "en": "medicine",
+      "ge": "Medizin",
+      "src": "wordlist/audios/medicine.mp3"
+    },
+    {
+      "en": "to meet",
+      "ge": "(sich) treffen, kennenlernen",
+      "src": "wordlist/audios/to_meet.mp3"
+    },
+    {
+      "en": "member",
+      "ge": "Mitglied",
+      "src": "wordlist/audios/member.mp3"
+    },
+    {
+      "en": "memory",
+      "ge": "Erinnerung",
+      "src": "wordlist/audios/memory.mp3"
+    },
+    {
+      "en": "to mention",
+      "ge": "erwähnen",
+      "src": "wordlist/audios/to_mention.mp3"
+    },
+    {
+      "en": "menu",
+      "ge": "Speisekarte",
+      "src": "wordlist/audios/menu.mp3"
+    },
+    {
+      "en": "mess",
+      "ge": "Unordnung, Durcheinander",
+      "src": "wordlist/audios/mess.mp3"
+    },
+    {
+      "en": "message",
+      "ge": "Nachricht",
+      "src": "wordlist/audios/message.mp3"
+    },
+    {
+      "en": "metal",
+      "ge": "Metall",
+      "src": "wordlist/audios/metal.mp3"
+    },
+    {
+      "en": "metallic",
+      "ge": "metallisch",
+      "src": "wordlist/audios/metallic.mp3"
+    },
+    {
+      "en": "meteorologist",
+      "ge": "Meteorologe/Meteorologin",
+      "src": "wordlist/audios/meteorologist.mp3"
+    },
+    {
+      "en": "metre",
+      "ge": "Meter",
+      "src": "wordlist/audios/metre.mp3"
+    },
+    {
+      "en": "Mexico",
+      "ge": "Mexiko",
+      "src": "wordlist/audios/mexico.mp3"
+    },
+    {
+      "en": "microphone",
+      "ge": "Mikrofon",
+      "src": "wordlist/audios/microphone.mp3"
+    },
+    {
+      "en": "middle",
+      "ge": "Mitte",
+      "src": "wordlist/audios/middle.mp3"
+    },
+    {
+      "en": "midnight",
+      "ge": "Mitternacht",
+      "src": "wordlist/audios/midnight.mp3"
+    },
+    {
+      "en": "might",
+      "ge": "könnte; vielleicht (tun, sein)",
+      "src": "wordlist/audios/might.mp3"
+    },
+    {
+      "en": "mild",
+      "ge": "mild",
+      "src": "wordlist/audios/mild.mp3"
+    },
+    {
+      "en": "mile",
+      "ge": "Meile",
+      "src": "wordlist/audios/mile.mp3"
+    },
+    {
+      "en": "milk snake",
+      "ge": "Dreiecksnatter",
+      "src": "wordlist/audios/milk_snake.mp3"
+    },
+    {
+      "en": "million",
+      "ge": "Million",
+      "src": "wordlist/audios/million.mp3"
+    },
+    {
+      "en": "mind map",
+      "ge": "Mindmap, Gedankenkarte",
+      "src": "wordlist/audios/mindmap.mp3"
+    },
+    {
+      "en": "mine",
+      "ge": "meiner/meine/meines",
+      "src": "wordlist/audios/mine.mp3"
+    },
+    {
+      "en": "mineral water",
+      "ge": "Mineralwasser",
+      "src": "wordlist/audios/mineral_water.mp3"
+    },
+    {
+      "en": "minute",
+      "ge": "Minute",
+      "src": "wordlist/audios/minute.mp3"
+    },
+    {
+      "en": "missing",
+      "ge": "fehlend; verschollen",
+      "src": "wordlist/audios/missing.mp3"
+    },
+    {
+      "en": "to miss",
+      "ge": "vermissen; verpassen",
+      "src": "wordlist/audios/to_miss.mp3"
+    },
+    {
+      "en": "mission",
+      "ge": "Auftrag, Mission",
+      "src": "wordlist/audios/mission.mp3"
+    },
+    {
+      "en": "mistake",
+      "ge": "Fehler",
+      "src": "wordlist/audios/mistake.mp3"
+    },
+    {
+      "en": "to mix",
+      "ge": "vermischen",
+      "src": "wordlist/audios/to_mix.mp3"
+    },
+    {
+      "en": "mobile phone",
+      "ge": "Handy",
+      "src": "wordlist/audios/mobile_phone.mp3"
+    },
+    {
+      "en": "modern",
+      "ge": "modern",
+      "src": "wordlist/audios/modern.mp3"
+    },
+    {
+      "en": "moment",
+      "ge": "Moment",
+      "src": "wordlist/audios/moment.mp3"
+    },
+    {
+      "en": "Monday",
+      "ge": "Montag",
+      "src": "wordlist/audios/Monday.mp3"
+    },
+    {
+      "en": "money",
+      "ge": "Geld",
+      "src": "wordlist/audios/money.mp3"
+    },
+    {
+      "en": "Mongolian",
+      "ge": "mongolisch",
+      "src": "wordlist/audios/Mongolian.mp3"
+    },
+    {
+      "en": "monster",
+      "ge": "Monster",
+      "src": "wordlist/audios/monster.mp3"
+    },
+    {
+      "en": "month",
+      "ge": "Monat",
+      "src": "wordlist/audios/month.mp3"
+    },
+    {
+      "en": "moon",
+      "ge": "Mond",
+      "src": "wordlist/audios/moon.mp3"
+    },
+    {
+      "en": "more",
+      "ge": "mehr",
+      "src": "wordlist/audios/more.mp3"
+    },
+    {
+      "en": "morning",
+      "ge": "Morgen",
+      "src": "wordlist/audios/morning.mp3"
+    },
+    {
+      "en": "to morph",
+      "ge": "sich verwandeln",
+      "src": "wordlist/audios/to_morph.mp3"
+    },
+    {
+      "en": "(the) most",
+      "ge": "am meisten; die meisten",
+      "src": "wordlist/audios/the_most.mp3"
+    },
+    {
+      "en": "most of the time",
+      "ge": "die meiste Zeit",
+      "src": "wordlist/audios/most_of_the_time.mp3"
+    },
+    {
+      "en": "mosquito",
+      "ge": "Stechmücke, Moskito",
+      "src": "wordlist/audios/mosquito.mp3"
+    },
+    {
+      "en": "mother",
+      "ge": "Mutter",
+      "src": "wordlist/audios/mother.mp3"
+    },
+    {
+      "en": "motorway",
+      "ge": "Autobahn",
+      "src": "wordlist/audios/motorway.mp3"
+    },
+    {
+      "en": "mountain",
+      "ge": "Berg",
+      "src": "wordlist/audios/mountain.mp3"
+    },
+    {
+      "en": "mountain biking",
+      "ge": "Mountainbiken",
+      "src": "wordlist/audios/mountain_biking.mp3"
+    },
+    {
+      "en": "mouse (pl mice)",
+      "ge": "Maus",
+      "src": "wordlist/audios/mouse_pl_mice.mp3"
+    },
+    {
+      "en": "mouth",
+      "ge": "Mund",
+      "src": "wordlist/audios/mouth.mp3"
+    },
+    {
+      "en": "to move",
+      "ge": "(sich) bewegen",
+      "src": "wordlist/audios/to_move.mp3"
+    },
+    {
+      "en": "moveable",
+      "ge": "beweglich",
+      "src": "wordlist/audios/moveable.mp3"
+    },
+    {
+      "en": "movie",
+      "ge": "Film",
+      "src": "wordlist/audios/movie.mp3"
+    },
+    {
+      "en": "Mr",
+      "ge": "Herr (Anrede)",
+      "src": "wordlist/audios/mister.mp3"
+    },
+    {
+      "en": "Mrs",
+      "ge": "Frau (Anrede)",
+      "src": "wordlist/audios/misses.mp3"
+    },
+    {
+      "en": "much",
+      "ge": "viel",
+      "src": "wordlist/audios/much.mp3"
+    },
+    {
+      "en": "muddy",
+      "ge": "schlammig",
+      "src": "wordlist/audios/muddy.mp3"
+    },
+    {
+      "en": "mum",
+      "ge": "Mama, Mutti",
+      "src": "wordlist/audios/mum.mp3"
+    },
+    {
+      "en": "museum",
+      "ge": "Museum",
+      "src": "wordlist/audios/museum.mp3"
+    },
+    {
+      "en": "mushroom",
+      "ge": "Pilz",
+      "src": "wordlist/audios/mushroom.mp3"
+    },
+    {
+      "en": "music",
+      "ge": "Musik",
+      "src": "wordlist/audios/music.mp3"
+    },
+    {
+      "en": "music shop",
+      "ge": "Musikladen",
+      "src": "wordlist/audios/music_shop.mp3"
+    },
+    {
+      "en": "must",
+      "ge": "müssen",
+      "src": "wordlist/audios/must.mp3"
+    },
+    {
+      "en": "my ",
+      "ge": "mein/meine",
+      "src": "wordlist/audios/my.mp3"
+    },
+    {
+      "en": "myself ",
+      "ge": "mich selbst, mir selbst",
+      "src": "wordlist/audios/myself.mp3"
+    },
+    {
+      "en": "name",
+      "ge": "Name",
+      "src": "wordlist/audios/name.mp3"
+    },
+    {
+      "en": "narrator",
+      "ge": "Erzähler/Erzählerin",
+      "src": "wordlist/audios/narrator.mp3"
+    },
+    {
+      "en": "near",
+      "ge": "nah, in der Nähe von",
+      "src": "wordlist/audios/near.mp3"
+    },
+    {
+      "en": "nearly",
+      "ge": "fast, beinahe",
+      "src": "wordlist/audios/nearly.mp3"
+    },
+    {
+      "en": "to need",
+      "ge": "brauchen",
+      "src": "wordlist/audios/to_need.mp3"
+    },
+    {
+      "en": "negative",
+      "ge": "negativ; verneinend",
+      "src": "wordlist/audios/negative.mp3"
+    },
+    {
+      "en": "neighbour",
+      "ge": "Nachbarin, Nachbar",
+      "src": "wordlist/audios/neighbour.mp3"
+    },
+    {
+      "en": "Neither do/have I.",
+      "ge": "Ich auch nicht.",
+      "src": "wordlist/audios/neither_do_i_neither_have_i.mp3"
+    },
+    {
+      "en": "never",
+      "ge": "nie(mals)",
+      "src": "wordlist/audios/never.mp3"
+    },
+    {
+      "en": "new",
+      "ge": "neu",
+      "src": "wordlist/audios/new.mp3"
+    },
+    {
+      "en": "New Zealand",
+      "ge": "Neuseeland",
+      "src": "wordlist/audios/New_Zealand.mp3"
+    },
+    {
+      "en": "newspaper ",
+      "ge": "Zeitung",
+      "src": "wordlist/audios/newspaper.mp3"
+    },
+    {
+      "en": "next",
+      "ge": "nächster/nächste/nächstes",
+      "src": "wordlist/audios/next.mp3"
+    },
+    {
+      "en": "next to",
+      "ge": "neben",
+      "src": "wordlist/audios/next_to.mp3"
+    },
+    {
+      "en": "nice",
+      "ge": "nett; schön, angenehm",
+      "src": "wordlist/audios/nice.mp3"
+    },
+    {
+      "en": "night",
+      "ge": "Nacht",
+      "src": "wordlist/audios/night.mp3"
+    },
+    {
+      "en": "nil",
+      "ge": "null",
+      "src": "wordlist/audios/nil.mp3"
+    },
+    {
+      "en": "no",
+      "ge": "nein",
+      "src": "wordlist/audios/no.mp3"
+    },
+    {
+      "en": "No excuse.",
+      "ge": "keine Ausrede",
+      "src": "wordlist/audios/no_excuse.mp3"
+    },
+    {
+      "en": "No way!",
+      "ge": "Auf keinen Fall!",
+      "src": "wordlist/audios/No_way_.mp3"
+    },
+    {
+      "en": "nobody",
+      "ge": "niemand",
+      "src": "wordlist/audios/nobody.mp3"
+    },
+    {
+      "en": "noise",
+      "ge": "Lärm, Krach; Geräusch",
+      "src": "wordlist/audios/noise.mp3"
+    },
+    {
+      "en": "noisy",
+      "ge": "laut, geräuschvoll",
+      "src": "wordlist/audios/noisy.mp3"
+    },
+    {
+      "en": "none",
+      "ge": "keiner/keine/keines",
+      "src": "wordlist/audios/none.mp3"
+    },
+    {
+      "en": "nonsense",
+      "ge": "Unsinn",
+      "src": "wordlist/audios/nonsense.mp3"
+    },
+    {
+      "en": "north",
+      "ge": "Norden; nördlich",
+      "src": "wordlist/audios/north.mp3"
+    },
+    {
+      "en": "North America",
+      "ge": "Nordamerika",
+      "src": "wordlist/audios/north_america.mp3"
+    },
+    {
+      "en": "note ",
+      "ge": "Anmerkung, Notiz",
+      "src": "wordlist/audios/note.mp3"
+    },
+    {
+      "en": "nothing ",
+      "ge": "nichts",
+      "src": "wordlist/audios/nothing.mp3"
+    },
+    {
+      "en": "to notice ",
+      "ge": "bemerken",
+      "src": "wordlist/audios/to_notice.mp3"
+    },
+    {
+      "en": "novel",
+      "ge": "Roman",
+      "src": "wordlist/audios/novel.mp3"
+    },
+    {
+      "en": "now ",
+      "ge": "jetzt; sofort",
+      "src": "wordlist/audios/now.mp3"
+    },
+    {
+      "en": "number ",
+      "ge": "Zahl; Ziffer, Nummer",
+      "src": "wordlist/audios/number.mp3"
+    },
+    {
+      "en": "nurse ",
+      "ge": "Krankenschwester",
+      "src": "wordlist/audios/nurse.mp3"
+    },
+    {
+      "en": "object",
+      "ge": "Objekt, Gegenstand",
+      "src": "wordlist/audios/object.mp3"
+    },
+    {
+      "en": "(one) o’clock",
+      "ge": "(ein) Uhr",
+      "src": "wordlist/audios/one_o_clock.mp3"
+    },
+    {
+      "en": "ocean",
+      "ge": "Ozean",
+      "src": "wordlist/audios/ocean.mp3"
+    },
+    {
+      "en": "the odd one out",
+      "ge": "hier: das Wort, das nicht dazugehört",
+      "src": "wordlist/audios/the_odd_one_out.mp3"
+    },
+    {
+      "en": "of",
+      "ge": "von",
+      "src": "wordlist/audios/of.mp3"
+    },
+    {
+      "en": "of course",
+      "ge": "natürlich",
+      "src": "wordlist/audios/of_course.mp3"
+    },
+    {
+      "en": "off",
+      "ge": "aus; weg",
+      "src": "wordlist/audios/off.mp3"
+    },
+    {
+      "en": "offer",
+      "ge": "Angebot",
+      "src": "wordlist/audios/offer.mp3"
+    },
+    {
+      "en": "office",
+      "ge": "Büro",
+      "src": "wordlist/audios/office.mp3"
+    },
+    {
+      "en": "officer",
+      "ge": "Offizier/Offizierin; Beamter/Beamtin",
+      "src": "wordlist/audios/officer.mp3"
+    },
+    {
+      "en": "official",
+      "ge": "offiziell",
+      "src": "wordlist/audios/official.mp3"
+    },
+    {
+      "en": "often",
+      "ge": "oft, häufig",
+      "src": "wordlist/audios/often.mp3"
+    },
+    {
+      "en": "old",
+      "ge": "alt",
+      "src": "wordlist/audios/old.mp3"
+    },
+    {
+      "en": "old-fashioned",
+      "ge": "altmodisch",
+      "src": "wordlist/audios/old_fashioned.mp3"
+    },
+    {
+      "en": "olive",
+      "ge": "Olive",
+      "src": "wordlist/audios/olive.mp3"
+    },
+    {
+      "en": "on land",
+      "ge": "an Land",
+      "src": "wordlist/audios/on_land.mp3"
+    },
+    {
+      "en": "on one’s own",
+      "ge": "alleine, selbstständig",
+      "src": "wordlist/audios/on_ones_own.mp3"
+    },
+    {
+      "en": "once",
+      "ge": "einmal",
+      "src": "wordlist/audios/once.mp3"
+    },
+    {
+      "en": "once upon a time",
+      "ge": "es war einmal",
+      "src": "wordlist/audios/once_upon_a_time.mp3"
+    },
+    {
+      "en": "onion",
+      "ge": "Zwiebel",
+      "src": "wordlist/audios/onion.mp3"
+    },
+    {
+      "en": "online safety",
+      "ge": "Internetsicherheit",
+      "src": "wordlist/audios/online_safety.mp3"
+    },
+    {
+      "en": "only",
+      "ge": "nur",
+      "src": "wordlist/audios/only.mp3"
+    },
+    {
+      "en": "open",
+      "ge": "offen",
+      "src": "wordlist/audios/open.mp3"
+    },
+    {
+      "en": "to open",
+      "ge": "öffnen",
+      "src": "wordlist/audios/to_open.mp3"
+    },
+    {
+      "en": "opening",
+      "ge": "Eröffnung",
+      "src": "wordlist/audios/opening.mp3"
+    },
+    {
+      "en": "opinion",
+      "ge": "Meinung",
+      "src": "wordlist/audios/opinion.mp3"
+    },
+    {
+      "en": "opposite",
+      "ge": "gegenüber",
+      "src": "wordlist/audios/opposite.mp3"
+    },
+    {
+      "en": "optimistic",
+      "ge": "optimistisch",
+      "src": "wordlist/audios/optimistic.mp3"
+    },
+    {
+      "en": "or",
+      "ge": "oder",
+      "src": "wordlist/audios/or.mp3"
+    },
+    {
+      "en": "orange",
+      "ge": "Orange; orange",
+      "src": "wordlist/audios/orange.mp3"
+    },
+    {
+      "en": "order",
+      "ge": "Reihenfolge; Bestellung",
+      "src": "wordlist/audios/order.mp3"
+    },
+    {
+      "en": "to order",
+      "ge": "bestellen",
+      "src": "wordlist/audios/to_order.mp3"
+    },
+    {
+      "en": "to organise",
+      "ge": "organisieren",
+      "src": "wordlist/audios/to_organise.mp3"
+    },
+    {
+      "en": "ostrich",
+      "ge": "(Vogel-)Strauß",
+      "src": "wordlist/audios/ostrich.mp3"
+    },
+    {
+      "en": "other",
+      "ge": "anderer/andere/anderes",
+      "src": "wordlist/audios/other.mp3"
+    },
+    {
+      "en": "our",
+      "ge": "unser/unsere",
+      "src": "wordlist/audios/our.mp3"
+    },
+    {
+      "en": "ours",
+      "ge": "unserer/unsere/unseres",
+      "src": "wordlist/audios/ours.mp3"
+    },
+    {
+      "en": "out (of)",
+      "ge": "aus; hinaus",
+      "src": "wordlist/audios/out_of.mp3"
+    },
+    {
+      "en": "outlook",
+      "ge": "Aussicht",
+      "src": "wordlist/audios/outlook.mp3"
+    },
+    {
+      "en": "outside",
+      "ge": "außen, außerhalb",
+      "src": "wordlist/audios/outside.mp3"
+    },
+    {
+      "en": "over",
+      "ge": "über, herüber",
+      "src": "wordlist/audios/over.mp3"
+    },
+    {
+      "en": "owl",
+      "ge": "Eule",
+      "src": "wordlist/audios/owl.mp3"
+    },
+    {
+      "en": "own",
+      "ge": "eigener/eigene/eigenes",
+      "src": "wordlist/audios/own.mp3"
+    },
+    {
+      "en": "owner",
+      "ge": "Besitzer/Besitzerin",
+      "src": "wordlist/audios/owner.mp3"
+    },
+    {
+      "en": "page",
+      "ge": "Seite",
+      "src": "wordlist/audios/page.mp3"
+    },
+    {
+      "en": "pain",
+      "ge": "Schmerz",
+      "src": "wordlist/audios/pain.mp3"
+    },
+    {
+      "en": "pair",
+      "ge": "Paar",
+      "src": "wordlist/audios/pair.mp3"
+    },
+    {
+      "en": "pancakes ",
+      "ge": "Palatschinken, Pfannkuchen",
+      "src": "wordlist/audios/pancakes.mp3"
+    },
+    {
+      "en": "to panic",
+      "ge": "in Panik geraten",
+      "src": "wordlist/audios/to_panic.mp3"
+    },
+    {
+      "en": "paper",
+      "ge": "Papier; Zeitung",
+      "src": "wordlist/audios/paper.mp3"
+    },
+    {
+      "en": "paradise",
+      "ge": "Paradies",
+      "src": "wordlist/audios/paradise.mp3"
+    },
+    {
+      "en": "paragraph",
+      "ge": "Absatz; Abschnitt",
+      "src": "wordlist/audios/paragraph.mp3"
+    },
+    {
+      "en": "parents",
+      "ge": "Eltern",
+      "src": "wordlist/audios/parents_pl.mp3"
+    },
+    {
+      "en": "park",
+      "ge": "Park",
+      "src": "wordlist/audios/park.mp3"
+    },
+    {
+      "en": "parrot ",
+      "ge": "Papagei",
+      "src": "wordlist/audios/parrot.mp3"
+    },
+    {
+      "en": "part",
+      "ge": "Teil",
+      "src": "wordlist/audios/part.mp3"
+    },
+    {
+      "en": "partner",
+      "ge": "Partner/Partnerin",
+      "src": "wordlist/audios/partner.mp3"
+    },
+    {
+      "en": "party",
+      "ge": "Party, Feier",
+      "src": "wordlist/audios/party.mp3"
+    },
+    {
+      "en": "passenger",
+      "ge": "Passagier/Passagierin",
+      "src": "wordlist/audios/passenger.mp3"
+    },
+    {
+      "en": "to pass on",
+      "ge": "weitergeben",
+      "src": "wordlist/audios/to_pass_on.mp3"
+    },
+    {
+      "en": "password",
+      "ge": "Passwort",
+      "src": "wordlist/audios/password.mp3"
+    },
+    {
+      "en": "past",
+      "ge": "nach; vergangen; Vergangenheit",
+      "src": "wordlist/audios/past.mp3"
+    },
+    {
+      "en": "patient ",
+      "ge": "Patient/Patientin",
+      "src": "wordlist/audios/patient.mp3"
+    },
+    {
+      "en": "pattern",
+      "ge": "Muster",
+      "src": "wordlist/audios/pattern.mp3"
+    },
+    {
+      "en": "pause",
+      "ge": "Pause",
+      "src": "wordlist/audios/pause.mp3"
+    },
+    {
+      "en": "pea",
+      "ge": "Erbse",
+      "src": "wordlist/audios/pea.mp3"
+    },
+    {
+      "en": "peach (pl peaches)",
+      "ge": "Pfirsich",
+      "src": "wordlist/audios/peach_peaches.mp3"
+    },
+    {
+      "en": "pear",
+      "ge": "Birne",
+      "src": "wordlist/audios/pear.mp3"
+    },
+    {
+      "en": "pen",
+      "ge": "Füllfeder, Kugelschreiber",
+      "src": "wordlist/audios/pen.mp3"
+    },
+    {
+      "en": "pencil",
+      "ge": "Bleistift",
+      "src": "wordlist/audios/pencil.mp3"
+    },
+    {
+      "en": "penguin",
+      "ge": "Pinguin",
+      "src": "wordlist/audios/penguin.mp3"
+    },
+    {
+      "en": "people (pl)",
+      "ge": "Leute, Menschen",
+      "src": "wordlist/audios/people.mp3"
+    },
+    {
+      "en": "pepper",
+      "ge": "Pfeffer; Paprika",
+      "src": "wordlist/audios/pepper.mp3"
+    },
+    {
+      "en": "perfect",
+      "ge": "perfekt",
+      "src": "wordlist/audios/perfect.mp3"
+    },
+    {
+      "en": "person (pl people)",
+      "ge": "Person, Mensch",
+      "src": "wordlist/audios/person_people.mp3"
+    },
+    {
+      "en": "pet",
+      "ge": "Haustier",
+      "src": "wordlist/audios/pet.mp3"
+    },
+    {
+      "en": "phone",
+      "ge": "Telefon",
+      "src": "wordlist/audios/phone.mp3"
+    },
+    {
+      "en": "to phone",
+      "ge": "anrufen",
+      "src": "wordlist/audios/to_phone.mp3"
+    },
+    {
+      "en": "photo",
+      "ge": "Foto",
+      "src": "wordlist/audios/photo.mp3"
+    },
+    {
+      "en": "photograph",
+      "ge": "Foto(grafie)",
+      "src": "wordlist/audios/photograph.mp3"
+    },
+    {
+      "en": "phrase",
+      "ge": "Phrase",
+      "src": "wordlist/audios/phrase.mp3"
+    },
+    {
+      "en": "physical education (PE)",
+      "ge": "Sportunterricht",
+      "src": "wordlist/audios/physical_education_pe.mp3"
+    },
+    {
+      "en": "to pick up",
+      "ge": "aufheben; abholen",
+      "src": "wordlist/audios/to_pick_up.mp3"
+    },
+    {
+      "en": "picnic",
+      "ge": "Picknick",
+      "src": "wordlist/audios/picnic.mp3"
+    },
+    {
+      "en": "picture",
+      "ge": "Bild",
+      "src": "wordlist/audios/picture.mp3"
+    },
+    {
+      "en": "picture story",
+      "ge": "Bildgeschichte",
+      "src": "wordlist/audios/picture_story.mp3"
+    },
+    {
+      "en": "piece",
+      "ge": "Stück",
+      "src": "wordlist/audios/piece.mp3"
+    },
+    {
+      "en": "pig",
+      "ge": "Schwein",
+      "src": "wordlist/audios/pig.mp3"
+    },
+    {
+      "en": "pigeon",
+      "ge": "Taube",
+      "src": "wordlist/audios/pigeon.mp3"
+    },
+    {
+      "en": "pineapple",
+      "ge": "Ananas",
+      "src": "wordlist/audios/pineapple.mp3"
+    },
+    {
+      "en": "pink",
+      "ge": "pink",
+      "src": "wordlist/audios/pink.mp3"
+    },
+    {
+      "en": "pirate",
+      "ge": "Pirat/Piratin",
+      "src": "wordlist/audios/pirate.mp3"
+    },
+    {
+      "en": "place",
+      "ge": "Ort, Platz",
+      "src": "wordlist/audios/place.mp3"
+    },
+    {
+      "en": "plain",
+      "ge": "einfarbig",
+      "src": "wordlist/audios/plain.mp3"
+    },
+    {
+      "en": "plan",
+      "ge": "(Lage-)Plan",
+      "src": "wordlist/audios/plan.mp3"
+    },
+    {
+      "en": "to plan",
+      "ge": "planen",
+      "src": "wordlist/audios/to_plan.mp3"
+    },
+    {
+      "en": "planet",
+      "ge": "Planet",
+      "src": "wordlist/audios/planet.mp3"
+    },
+    {
+      "en": "plant",
+      "ge": "Pflanze",
+      "src": "wordlist/audios/plant.mp3"
+    },
+    {
+      "en": "plastic",
+      "ge": "Plastik, Kunststoff",
+      "src": "wordlist/audios/plastic.mp3"
+    },
+    {
+      "en": "plate",
+      "ge": "Teller",
+      "src": "wordlist/audios/plate.mp3"
+    },
+    {
+      "en": "platform",
+      "ge": "Plattform",
+      "src": "wordlist/audios/platform.mp3"
+    },
+    {
+      "en": "play",
+      "ge": "Theaterstück; Spiel",
+      "src": "wordlist/audios/play.mp3"
+    },
+    {
+      "en": "to play",
+      "ge": "spielen",
+      "src": "wordlist/audios/to_play.mp3"
+    },
+    {
+      "en": "player",
+      "ge": "Spieler/Spielerin",
+      "src": "wordlist/audios/player.mp3"
+    },
+    {
+      "en": "please",
+      "ge": "bitte",
+      "src": "wordlist/audios/please.mp3"
+    },
+    {
+      "en": "plenty of",
+      "ge": "eine Menge von",
+      "src": "wordlist/audios/plenty_of.mp3"
+    },
+    {
+      "en": "plum",
+      "ge": "Zwetschke",
+      "src": "wordlist/audios/plum.mp3"
+    },
+    {
+      "en": "pocket",
+      "ge": "(Hosen-)Tasche",
+      "src": "wordlist/audios/pocket.mp3"
+    },
+    {
+      "en": "poem",
+      "ge": "Gedicht",
+      "src": "wordlist/audios/poem.mp3"
+    },
+    {
+      "en": "to point (at)",
+      "ge": "zeigen (auf)",
+      "src": "wordlist/audios/to_point_at.mp3"
+    },
+    {
+      "en": "poisonous",
+      "ge": "giftig",
+      "src": "wordlist/audios/poisonous.mp3"
+    },
+    {
+      "en": "police (no pl)",
+      "ge": "Polizei",
+      "src": "wordlist/audios/police.mp3"
+    },
+    {
+      "en": "police station",
+      "ge": "Polizeiwache",
+      "src": "wordlist/audios/police_station.mp3"
+    },
+    {
+      "en": "policeman (pl -men)",
+      "ge": "Polizist",
+      "src": "wordlist/audios/policeman_men.mp3"
+    },
+    {
+      "en": "politely",
+      "ge": "höflich",
+      "src": "wordlist/audios/politely.mp3"
+    },
+    {
+      "en": "pond",
+      "ge": "Teich",
+      "src": "wordlist/audios/pond.mp3"
+    },
+    {
+      "en": "poor",
+      "ge": "arm",
+      "src": "wordlist/audios/poor.mp3"
+    },
+    {
+      "en": "Poor you!",
+      "ge": "Du Arme/r!",
+      "src": "wordlist/audios/Poor_you.mp3"
+    },
+    {
+      "en": "popcorn ",
+      "ge": "Popkorn",
+      "src": "wordlist/audios/popcorn.mp3"
+    },
+    {
+      "en": "popular",
+      "ge": "beliebt",
+      "src": "wordlist/audios/popular.mp3"
+    },
+    {
+      "en": "positive",
+      "ge": "positiv",
+      "src": "wordlist/audios/positive.mp3"
+    },
+    {
+      "en": "possible ",
+      "ge": "möglich",
+      "src": "wordlist/audios/possible.mp3"
+    },
+    {
+      "en": "to post ",
+      "ge": "posten, einen Beitrag verfassen (online)",
+      "src": "wordlist/audios/to_post.mp3"
+    },
+    {
+      "en": "post office",
+      "ge": "Postamt",
+      "src": "wordlist/audios/post_office.mp3"
+    },
+    {
+      "en": "posting",
+      "ge": "Posting, Beitrag (online)",
+      "src": "wordlist/audios/posting.mp3"
+    },
+    {
+      "en": "potato (pl potatoes)",
+      "ge": "Kartoffel",
+      "src": "wordlist/audios/potato_potatoes.mp3"
+    },
+    {
+      "en": "pound (£) ",
+      "ge": "Pfund",
+      "src": "wordlist/audios/pound.mp3"
+    },
+    {
+      "en": "to pour",
+      "ge": "einschenken, schütten",
+      "src": "wordlist/audios/to_pour.mp3"
+    },
+    {
+      "en": "power",
+      "ge": "Kraft; Macht",
+      "src": "wordlist/audios/power.mp3"
+    },
+    {
+      "en": "powerful",
+      "ge": "mächtig",
+      "src": "wordlist/audios/powerful.mp3"
+    },
+    {
+      "en": "practice",
+      "ge": "Übung",
+      "src": "wordlist/audios/practice.mp3"
+    },
+    {
+      "en": "to practise",
+      "ge": "üben",
+      "src": "wordlist/audios/to_practise.mp3"
+    },
+    {
+      "en": "prayer",
+      "ge": "Gebet",
+      "src": "wordlist/audios/prayer.mp3"
+    },
+    {
+      "en": "to prepare ",
+      "ge": "(vor-/zu-)bereiten",
+      "src": "wordlist/audios/to_prepare.mp3"
+    },
+    {
+      "en": "preposition",
+      "ge": "Präposition, Vorwort",
+      "src": "wordlist/audios/preposition.mp3"
+    },
+    {
+      "en": "present ",
+      "ge": "Geschenk",
+      "src": "wordlist/audios/present.mp3"
+    },
+    {
+      "en": "to present ",
+      "ge": "präsentieren",
+      "src": "wordlist/audios/to_present.mp3"
+    },
+    {
+      "en": "presentation",
+      "ge": "Präsentation",
+      "src": "wordlist/audios/presentation.mp3"
+    },
+    {
+      "en": "to press",
+      "ge": "drücken",
+      "src": "wordlist/audios/to_press.mp3"
+    },
+    {
+      "en": "pretty",
+      "ge": "hübsch",
+      "src": "wordlist/audios/pretty.mp3"
+    },
+    {
+      "en": "price",
+      "ge": "Preis",
+      "src": "wordlist/audios/price.mp3"
+    },
+    {
+      "en": "to print out",
+      "ge": "ausdrucken",
+      "src": "wordlist/audios/to_print_out.mp3"
+    },
+    {
+      "en": "private classes",
+      "ge": "Privatstunden",
+      "src": "wordlist/audios/private_classes.mp3"
+    },
+    {
+      "en": "probably",
+      "ge": "wahrscheinlich",
+      "src": "wordlist/audios/probably.mp3"
+    },
+    {
+      "en": "problem",
+      "ge": "Problem",
+      "src": "wordlist/audios/problem.mp3"
+    },
+    {
+      "en": "to produce",
+      "ge": "produzieren",
+      "src": "wordlist/audios/to_produce.mp3"
+    },
+    {
+      "en": "professional",
+      "ge": "professionell",
+      "src": "wordlist/audios/professional.mp3"
+    },
+    {
+      "en": "profile",
+      "ge": "Profil",
+      "src": "wordlist/audios/profile.mp3"
+    },
+    {
+      "en": "project",
+      "ge": "Projekt",
+      "src": "wordlist/audios/project.mp3"
+    },
+    {
+      "en": "to protect",
+      "ge": "(be-)schützen",
+      "src": "wordlist/audios/to_protect.mp3"
+    },
+    {
+      "en": "promise",
+      "ge": "Versprechen",
+      "src": "wordlist/audios/promise.mp3"
+    },
+    {
+      "en": "to promise",
+      "ge": "versprechen",
+      "src": "wordlist/audios/to_promise.mp3"
+    },
+    {
+      "en": "proud ",
+      "ge": "stolz",
+      "src": "wordlist/audios/proud.mp3"
+    },
+    {
+      "en": "to be proud (of)",
+      "ge": "stolz sein (auf)",
+      "src": "wordlist/audios/to_be_proud_of.mp3"
+    },
+    {
+      "en": "public ",
+      "ge": "öffentlich",
+      "src": "wordlist/audios/public.mp3"
+    },
+    {
+      "en": "pulse ",
+      "ge": "Puls",
+      "src": "wordlist/audios/pulse.mp3"
+    },
+    {
+      "en": "pumpkin ",
+      "ge": "Kürbis",
+      "src": "wordlist/audios/pumpkin.mp3"
+    },
+    {
+      "en": "pumpkin pie ",
+      "ge": "Kürbiskuchen",
+      "src": "wordlist/audios/pumpkin_pie.mp3"
+    },
+    {
+      "en": "pupil ",
+      "ge": "Schüler/Schülerin",
+      "src": "wordlist/audios/pupil.mp3"
+    },
+    {
+      "en": "purple ",
+      "ge": "violett, lila",
+      "src": "wordlist/audios/purple.mp3"
+    },
+    {
+      "en": "to push ",
+      "ge": "drücken; schieben",
+      "src": "wordlist/audios/to_push.mp3"
+    },
+    {
+      "en": "to put ",
+      "ge": "setzen, legen, stellen",
+      "src": "wordlist/audios/to_put.mp3"
+    },
+    {
+      "en": "to put on  ",
+      "ge": "anziehen",
+      "src": "wordlist/audios/to_put_on.mp3"
+    },
+    {
+      "en": "pyjamas (no pl) ",
+      "ge": "Pyjama, Schlafanzug",
+      "src": "wordlist/audios/pyjamas.mp3"
+    },
+    {
+      "en": "pyramid ",
+      "ge": "Pyramide",
+      "src": "wordlist/audios/pyramid.mp3"
+    },
+    {
+      "en": "queen",
+      "ge": "Königin",
+      "src": "wordlist/audios/queen.mp3"
+    },
+    {
+      "en": "question",
+      "ge": "Frage",
+      "src": "wordlist/audios/question.mp3"
+    },
+    {
+      "en": "quick",
+      "ge": "schnell",
+      "src": "wordlist/audios/quick.mp3"
+    },
+    {
+      "en": "quiet",
+      "ge": "leise, ruhig",
+      "src": "wordlist/audios/quiet.mp3"
+    },
+    {
+      "en": "quite",
+      "ge": "ziemlich",
+      "src": "wordlist/audios/quite.mp3"
+    },
+    {
+      "en": "quiz",
+      "ge": "Quiz",
+      "src": "wordlist/audios/quiz.mp3"
+    },
+    {
+      "en": "rabbit",
+      "ge": "Kaninchen",
+      "src": "wordlist/audios/rabbit.mp3"
+    },
+    {
+      "en": "race",
+      "ge": "Wettfahrt; Wettkampf",
+      "src": "wordlist/audios/race.mp3"
+    },
+    {
+      "en": "radiator",
+      "ge": "Heizkörper",
+      "src": "wordlist/audios/radiator.mp3"
+    },
+    {
+      "en": "railway station",
+      "ge": "Bahnhof",
+      "src": "wordlist/audios/railway_station.mp3"
+    },
+    {
+      "en": "rain",
+      "ge": "Regen",
+      "src": "wordlist/audios/rain.mp3"
+    },
+    {
+      "en": "to rain",
+      "ge": "regnen",
+      "src": "wordlist/audios/to_rain.mp3"
+    },
+    {
+      "en": "rainfall",
+      "ge": "Niederschlag",
+      "src": "wordlist/audios/rainfall.mp3"
+    },
+    {
+      "en": "rainforest",
+      "ge": "Regenwald",
+      "src": "wordlist/audios/rainforest.mp3"
+    },
+    {
+      "en": "rainy",
+      "ge": "regnerisch",
+      "src": "wordlist/audios/rainy.mp3"
+    },
+    {
+      "en": "to rank",
+      "ge": "einstufen, rangieren",
+      "src": "wordlist/audios/to_rank.mp3"
+    },
+    {
+      "en": "raspberry (pl raspberries)",
+      "ge": "Himbeere",
+      "src": "wordlist/audios/raspberry_raspberries.mp3"
+    },
+    {
+      "en": "rat",
+      "ge": "Ratte",
+      "src": "wordlist/audios/rat.mp3"
+    },
+    {
+      "en": "rather",
+      "ge": "ziemlich; eher, vielmehr",
+      "src": "wordlist/audios/rather.mp3"
+    },
+    {
+      "en": "to react",
+      "ge": "reagieren",
+      "src": "wordlist/audios/to_react.mp3"
+    },
+    {
+      "en": "to read",
+      "ge": "lesen",
+      "src": "wordlist/audios/to_read.mp3"
+    },
+    {
+      "en": "ready (for)",
+      "ge": "bereit (für); fertig",
+      "src": "wordlist/audios/ready_for.mp3"
+    },
+    {
+      "en": "real",
+      "ge": "wirklich; echt, real",
+      "src": "wordlist/audios/real.mp3"
+    },
+    {
+      "en": "really",
+      "ge": "wirklich",
+      "src": "wordlist/audios/really.mp3"
+    },
+    {
+      "en": "reason",
+      "ge": "Grund",
+      "src": "wordlist/audios/reason.mp3"
+    },
+    {
+      "en": "recipe",
+      "ge": "Rezept",
+      "src": "wordlist/audios/recipe.mp3"
+    },
+    {
+      "en": "record",
+      "ge": "Rekord",
+      "src": "wordlist/audios/record.mp3"
+    },
+    {
+      "en": "to record",
+      "ge": "aufzeichnen",
+      "src": "wordlist/audios/to_record.mp3"
+    },
+    {
+      "en": "red",
+      "ge": "rot",
+      "src": "wordlist/audios/red.mp3"
+    },
+    {
+      "en": "reed",
+      "ge": "Schilf(rohr)",
+      "src": "wordlist/audios/reed.mp3"
+    },
+    {
+      "en": "refund",
+      "ge": "Rückerstattung",
+      "src": "wordlist/audios/refund.mp3"
+    },
+    {
+      "en": "to be related to sb. ",
+      "ge": "mit jdm. verwandt sein",
+      "src": "wordlist/audios/to_be_related_to_sb.mp3"
+    },
+    {
+      "en": "to release",
+      "ge": "befreien, freilassen",
+      "src": "wordlist/audios/to_release.mp3"
+    },
+    {
+      "en": "to rise",
+      "ge": "(an-)steigen",
+      "src": "wordlist/audios/to_rise.mp3"
+    },
+    {
+      "en": "remark",
+      "ge": "Anmerkung",
+      "src": "wordlist/audios/remark.mp3"
+    },
+    {
+      "en": "to remember",
+      "ge": "sich erinnern (an)",
+      "src": "wordlist/audios/to_remember.mp3"
+    },
+    {
+      "en": "to remind sb.",
+      "ge": "jdn. erinnern",
+      "src": "wordlist/audios/to_remind_sb.mp3"
+    },
+    {
+      "en": "to repair ",
+      "ge": "reparieren",
+      "src": "wordlist/audios/to_repair.mp3"
+    },
+    {
+      "en": "to repeat",
+      "ge": "wiederholen",
+      "src": "wordlist/audios/to_repeat.mp3"
+    },
+    {
+      "en": "repetition",
+      "ge": "Wiederholung",
+      "src": "wordlist/audios/repetition.mp3"
+    },
+    {
+      "en": "reply",
+      "ge": "Antwort",
+      "src": "wordlist/audios/reply.mp3"
+    },
+    {
+      "en": "to reply ",
+      "ge": "antworten",
+      "src": "wordlist/audios/to_reply.mp3"
+    },
+    {
+      "en": "reporter",
+      "ge": "Reporter/Reporterin",
+      "src": "wordlist/audios/reporter.mp3"
+    },
+    {
+      "en": "request",
+      "ge": "Bitte, Anfrage",
+      "src": "wordlist/audios/request.mp3"
+    },
+    {
+      "en": "to rescue",
+      "ge": "retten",
+      "src": "wordlist/audios/to_rescue.mp3"
+    },
+    {
+      "en": "to respond",
+      "ge": "antworten",
+      "src": "wordlist/audios/to_respond.mp3"
+    },
+    {
+      "en": "rest",
+      "ge": "Rest",
+      "src": "wordlist/audios/rest.mp3"
+    },
+    {
+      "en": "restaurant",
+      "ge": "Restaurant",
+      "src": "wordlist/audios/restaurant.mp3"
+    },
+    {
+      "en": "result",
+      "ge": "Folge; Ergebnis",
+      "src": "wordlist/audios/result.mp3"
+    },
+    {
+      "en": "review",
+      "ge": "Rezension",
+      "src": "wordlist/audios/review.mp3"
+    },
+    {
+      "en": "revision",
+      "ge": "Wiederholung",
+      "src": "wordlist/audios/revision.mp3"
+    },
+    {
+      "en": "rhino ",
+      "ge": "Nashorn, Rhinozeros",
+      "src": "wordlist/audios/rhino.mp3"
+    },
+    {
+      "en": "rice",
+      "ge": "Reis",
+      "src": "wordlist/audios/rice.mp3"
+    },
+    {
+      "en": "rice pudding",
+      "ge": "Milchreis",
+      "src": "wordlist/audios/rice_pudding.mp3"
+    },
+    {
+      "en": "to ride",
+      "ge": "reiten; fahren",
+      "src": "wordlist/audios/to_ride.mp3"
+    },
+    {
+      "en": "ridiculous",
+      "ge": "lächerlich",
+      "src": "wordlist/audios/ridiculous.mp3"
+    },
+    {
+      "en": "right",
+      "ge": "richtig, korrekt; rechts; rechter/rechte/rechtes",
+      "src": "wordlist/audios/right.mp3"
+    },
+    {
+      "en": "river",
+      "ge": "Fluss",
+      "src": "wordlist/audios/river.mp3"
+    },
+    {
+      "en": "road",
+      "ge": "Straße",
+      "src": "wordlist/audios/road.mp3"
+    },
+    {
+      "en": "robot ",
+      "ge": "Roboter",
+      "src": "wordlist/audios/robot.mp3"
+    },
+    {
+      "en": "rock",
+      "ge": "Stein, Fels",
+      "src": "wordlist/audios/rock.mp3"
+    },
+    {
+      "en": "rock climbing",
+      "ge": "Klettern",
+      "src": "wordlist/audios/rock_climbing.mp3"
+    },
+    {
+      "en": "role",
+      "ge": "Rolle",
+      "src": "wordlist/audios/role.mp3"
+    },
+    {
+      "en": "to roll",
+      "ge": "rollen",
+      "src": "wordlist/audios/to_roll.mp3"
+    },
+    {
+      "en": "roller-skating",
+      "ge": "Rollschuhlaufen",
+      "src": "wordlist/audios/roller-skating.mp3"
+    },
+    {
+      "en": "Romania",
+      "ge": "Rumänien",
+      "src": "wordlist/audios/Romania.mp3"
+    },
+    {
+      "en": "Romanian ",
+      "ge": "rumänisch; Rumäne/Rumänin",
+      "src": "wordlist/audios/Romanian.mp3"
+    },
+    {
+      "en": "romantic",
+      "ge": "romantisch",
+      "src": "wordlist/audios/romantic.mp3"
+    },
+    {
+      "en": "Rome",
+      "ge": "Rom",
+      "src": "wordlist/audios/Rome.mp3"
+    },
+    {
+      "en": "roof",
+      "ge": "Dach",
+      "src": "wordlist/audios/roof.mp3"
+    },
+    {
+      "en": "room",
+      "ge": "Zimmer, Raum",
+      "src": "wordlist/audios/room.mp3"
+    },
+    {
+      "en": "roommate",
+      "ge": "Mitbewohner/Mitbewohnerin",
+      "src": "wordlist/audios/room_mate.mp3"
+    },
+    {
+      "en": "rope",
+      "ge": "Seil",
+      "src": "wordlist/audios/rope.mp3"
+    },
+    {
+      "en": "rose",
+      "ge": "Rose",
+      "src": "wordlist/audios/rose.mp3"
+    },
+    {
+      "en": "rotten",
+      "ge": "verfault, verdorben",
+      "src": "wordlist/audios/rotten.mp3"
+    },
+    {
+      "en": "round",
+      "ge": "rund; um … herum",
+      "src": "wordlist/audios/round.mp3"
+    },
+    {
+      "en": "route",
+      "ge": "Route, Strecke",
+      "src": "wordlist/audios/route.mp3"
+    },
+    {
+      "en": "round the corner",
+      "ge": "um die Ecke",
+      "src": "wordlist/audios/round_the_corner.mp3"
+    },
+    {
+      "en": "row",
+      "ge": "(Sitz-)Reihe",
+      "src": "wordlist/audios/row.mp3"
+    },
+    {
+      "en": "rubbish",
+      "ge": "Müll, Abfall",
+      "src": "wordlist/audios/rubbish.mp3"
+    },
+    {
+      "en": "rug",
+      "ge": "Läufer (Teppich)",
+      "src": "wordlist/audios/rug.mp3"
+    },
+    {
+      "en": "rugby practice ",
+      "ge": "Rugbytraining",
+      "src": "wordlist/audios/rugby_practice.mp3"
+    },
+    {
+      "en": "rule",
+      "ge": "Regel",
+      "src": "wordlist/audios/rule.mp3"
+    },
+    {
+      "en": "to run",
+      "ge": "laufen, rennen",
+      "src": "wordlist/audios/to_run.mp3"
+    },
+    {
+      "en": "sad",
+      "ge": "traurig",
+      "src": "wordlist/audios/sad.mp3"
+    },
+    {
+      "en": "safe",
+      "ge": "sicher",
+      "src": "wordlist/audios/safe.mp3"
+    },
+    {
+      "en": "salad",
+      "ge": "Salatteller",
+      "src": "wordlist/audios/salad.mp3"
+    },
+    {
+      "en": "the same",
+      "ge": "derselbe/dieselbe/dasselbe",
+      "src": "wordlist/audios/the_same.mp3"
+    },
+    {
+      "en": "sand",
+      "ge": "Sand",
+      "src": "wordlist/audios/sand.mp3"
+    },
+    {
+      "en": "sandwich",
+      "ge": "Sandwich, belegtes Brot",
+      "src": "wordlist/audios/sandwich.mp3"
+    },
+    {
+      "en": "Saturday",
+      "ge": "Samstag",
+      "src": "wordlist/audios/Saturday.mp3"
+    },
+    {
+      "en": "sauce",
+      "ge": "Soße",
+      "src": "wordlist/audios/sauce.mp3"
+    },
+    {
+      "en": "sausage",
+      "ge": "Wurst, Würstel",
+      "src": "wordlist/audios/sausage.mp3"
+    },
+    {
+      "en": "to save",
+      "ge": "retten",
+      "src": "wordlist/audios/to_save.mp3"
+    },
+    {
+      "en": "to say",
+      "ge": "sagen",
+      "src": "wordlist/audios/to_say.mp3"
+    },
+    {
+      "en": "scale",
+      "ge": "Skala, Maßstab",
+      "src": "wordlist/audios/scale.mp3"
+    },
+    {
+      "en": "to scare",
+      "ge": "Angst machen, erschrecken",
+      "src": "wordlist/audios/to_scare.mp3"
+    },
+    {
+      "en": "to be scared of",
+      "ge": "Angst haben vor",
+      "src": "wordlist/audios/to_be_scared_of.mp3"
+    },
+    {
+      "en": "scary",
+      "ge": "furchterregend, unheimlich",
+      "src": "wordlist/audios/scary.mp3"
+    },
+    {
+      "en": "scene",
+      "ge": "Szene",
+      "src": "wordlist/audios/scene.mp3"
+    },
+    {
+      "en": "school team",
+      "ge": "Schulmannschaft, Schulteam",
+      "src": "wordlist/audios/school_team.mp3"
+    },
+    {
+      "en": "science",
+      "ge": "Naturwissenschaft",
+      "src": "wordlist/audios/science.mp3"
+    },
+    {
+      "en": "scientist",
+      "ge": "Wissenschaftler/Wissenschaftlerin",
+      "src": "wordlist/audios/scientist.mp3"
+    },
+    {
+      "en": "to score",
+      "ge": "erreichen, erzielen (Tore)",
+      "src": "wordlist/audios/to_score.mp3"
+    },
+    {
+      "en": "Scotland",
+      "ge": "Schottland",
+      "src": "wordlist/audios/Scotland.mp3"
+    },
+    {
+      "en": "to scream",
+      "ge": "schreien; kreischen",
+      "src": "wordlist/audios/to_scream.mp3"
+    },
+    {
+      "en": "screen",
+      "ge": "Bildschirm, Leinwand",
+      "src": "wordlist/audios/screen.mp3"
+    },
+    {
+      "en": "sculpture",
+      "ge": "Skulptur",
+      "src": "wordlist/audios/sculpture.mp3"
+    },
+    {
+      "en": "sea",
+      "ge": "Meer",
+      "src": "wordlist/audios/sea.mp3"
+    },
+    {
+      "en": "sea level",
+      "ge": "Meeresspiegel",
+      "src": "wordlist/audios/sea_level.mp3"
+    },
+    {
+      "en": "to search",
+      "ge": "suchen",
+      "src": "wordlist/audios/to_search.mp3"
+    },
+    {
+      "en": "seat",
+      "ge": "Sitzplatz",
+      "src": "wordlist/audios/seat.mp3"
+    },
+    {
+      "en": "second",
+      "ge": "zweiter/zweite/zweites; Sekunde",
+      "src": "wordlist/audios/second.mp3"
+    },
+    {
+      "en": "secret",
+      "ge": "Geheimnis",
+      "src": "wordlist/audios/secret.mp3"
+    },
+    {
+      "en": "to see ",
+      "ge": "sehen",
+      "src": "wordlist/audios/to_see.mp3"
+    },
+    {
+      "en": "to sell",
+      "ge": "verkaufen",
+      "src": "wordlist/audios/to_sell.mp3"
+    },
+    {
+      "en": "to send ",
+      "ge": "senden, schicken",
+      "src": "wordlist/audios/to_send.mp3"
+    },
+    {
+      "en": "sense of humour",
+      "ge": "Sinn für Humor",
+      "src": "wordlist/audios/sense_of_humour.mp3"
+    },
+    {
+      "en": "sentence",
+      "ge": "Satz",
+      "src": "wordlist/audios/sentence.mp3"
+    },
+    {
+      "en": "series",
+      "ge": "Serie; Reihe",
+      "src": "wordlist/audios/series.mp3"
+    },
+    {
+      "en": "serious",
+      "ge": "ernst(haft)",
+      "src": "wordlist/audios/serious.mp3"
+    },
+    {
+      "en": "servant",
+      "ge": "Diener/Dienerin",
+      "src": "wordlist/audios/servant.mp3"
+    },
+    {
+      "en": "to serve",
+      "ge": "servieren",
+      "src": "wordlist/audios/to_serve.mp3"
+    },
+    {
+      "en": "to set a record",
+      "ge": "einen Rekord aufstellen",
+      "src": "wordlist/audios/to_set_a_record.mp3"
+    },
+    {
+      "en": "several",
+      "ge": "einige, mehrere",
+      "src": "wordlist/audios/several.mp3"
+    },
+    {
+      "en": "shadow ",
+      "ge": "Schatten",
+      "src": "wordlist/audios/shadow.mp3"
+    },
+    {
+      "en": "shall",
+      "ge": "sollen; wollen",
+      "src": "wordlist/audios/shall.mp3"
+    },
+    {
+      "en": "to share",
+      "ge": "teilen",
+      "src": "wordlist/audios/to_share.mp3"
+    },
+    {
+      "en": "shark",
+      "ge": "Hai",
+      "src": "wordlist/audios/shark.mp3"
+    },
+    {
+      "en": "sheep (pl sheep)",
+      "ge": "Schaf",
+      "src": "wordlist/audios/sheep.mp3"
+    },
+    {
+      "en": "shepherd",
+      "ge": "Schäfer/Schäferin",
+      "src": "wordlist/audios/shepherd.mp3"
+    },
+    {
+      "en": "to shine",
+      "ge": "scheinen",
+      "src": "wordlist/audios/to_shine.mp3"
+    },
+    {
+      "en": "ship",
+      "ge": "Schiff",
+      "src": "wordlist/audios/ship.mp3"
+    },
+    {
+      "en": "shirt",
+      "ge": "Hemd",
+      "src": "wordlist/audios/shirt.mp3"
+    },
+    {
+      "en": "shoe",
+      "ge": "Schuh",
+      "src": "wordlist/audios/shoe.mp3"
+    },
+    {
+      "en": "shop",
+      "ge": "Geschäft, Laden",
+      "src": "wordlist/audios/shop.mp3"
+    },
+    {
+      "en": "to do the shopping",
+      "ge": "Einkäufe erledigen",
+      "src": "wordlist/audios/to_do_the_shopping.mp3"
+    },
+    {
+      "en": "shopping centre",
+      "ge": "Einkaufszentrum",
+      "src": "wordlist/audios/shopping_centre.mp3"
+    },
+    {
+      "en": "short",
+      "ge": "kurz; klein",
+      "src": "wordlist/audios/short.mp3"
+    },
+    {
+      "en": "should",
+      "ge": "sollte/n, solltest",
+      "src": "wordlist/audios/should.mp3"
+    },
+    {
+      "en": "to shout",
+      "ge": "rufen",
+      "src": "wordlist/audios/to_shout.mp3"
+    },
+    {
+      "en": "to show",
+      "ge": "zeigen",
+      "src": "wordlist/audios/to_show.mp3"
+    },
+    {
+      "en": "sick",
+      "ge": "übel; krank",
+      "src": "wordlist/audios/sick.mp3"
+    },
+    {
+      "en": "side",
+      "ge": "Seite",
+      "src": "wordlist/audios/side.mp3"
+    },
+    {
+      "en": "sign",
+      "ge": "Zeichen; Schild",
+      "src": "wordlist/audios/sign.mp3"
+    },
+    {
+      "en": "signal",
+      "ge": "Signal; Zeichen",
+      "src": "wordlist/audios/signal.mp3"
+    },
+    {
+      "en": "silly",
+      "ge": "dumm, albern",
+      "src": "wordlist/audios/silly.mp3"
+    },
+    {
+      "en": "simple",
+      "ge": "einfach",
+      "src": "wordlist/audios/simple.mp3"
+    },
+    {
+      "en": "simply",
+      "ge": "einfach",
+      "src": "wordlist/audios/simply.mp3"
+    },
+    {
+      "en": "since",
+      "ge": "seit",
+      "src": "wordlist/audios/since.mp3"
+    },
+    {
+      "en": "to sing",
+      "ge": "singen",
+      "src": "wordlist/audios/to_sing.mp3"
+    },
+    {
+      "en": "sink",
+      "ge": "Waschbecken, Spüle",
+      "src": "wordlist/audios/sink.mp3"
+    },
+    {
+      "en": "sir",
+      "ge": "Herr",
+      "src": "wordlist/audios/sir.mp3"
+    },
+    {
+      "en": "sister",
+      "ge": "Schwester",
+      "src": "wordlist/audios/sister.mp3"
+    },
+    {
+      "en": "to sit",
+      "ge": "sitzen",
+      "src": "wordlist/audios/to_sit.mp3"
+    },
+    {
+      "en": "situation",
+      "ge": "Situation, Lage",
+      "src": "wordlist/audios/situation.mp3"
+    },
+    {
+      "en": "to skateboard",
+      "ge": "skateboarden",
+      "src": "wordlist/audios/to_skateboard.mp3"
+    },
+    {
+      "en": "sketch",
+      "ge": "Sketch",
+      "src": "wordlist/audios/sketch.mp3"
+    },
+    {
+      "en": "to ski",
+      "ge": "skifahren",
+      "src": "wordlist/audios/to_ski.mp3"
+    },
+    {
+      "en": "skin",
+      "ge": "Haut",
+      "src": "wordlist/audios/skin.mp3"
+    },
+    {
+      "en": "skirt ",
+      "ge": "Rock",
+      "src": "wordlist/audios/skirt.mp3"
+    },
+    {
+      "en": "sky",
+      "ge": "Himmel",
+      "src": "wordlist/audios/sky.mp3"
+    },
+    {
+      "en": "to sleep",
+      "ge": "schlafen",
+      "src": "wordlist/audios/to_sleep.mp3"
+    },
+    {
+      "en": "slice",
+      "ge": "Scheibe",
+      "src": "wordlist/audios/slice.mp3"
+    },
+    {
+      "en": "to slide",
+      "ge": "rutschen",
+      "src": "wordlist/audios/to_slide.mp3"
+    },
+    {
+      "en": "slipper ",
+      "ge": "Hausschuh",
+      "src": "wordlist/audios/slipper.mp3"
+    },
+    {
+      "en": "slow ",
+      "ge": "langsam",
+      "src": "wordlist/audios/slow.mp3"
+    },
+    {
+      "en": "small",
+      "ge": "klein",
+      "src": "wordlist/audios/small.mp3"
+    },
+    {
+      "en": "small talk ",
+      "ge": "Small Talk, Plauderei",
+      "src": "wordlist/audios/small_talk.mp3"
+    },
+    {
+      "en": "smart ",
+      "ge": "schlau",
+      "src": "wordlist/audios/smart.mp3"
+    },
+    {
+      "en": "smell ",
+      "ge": "Geruch",
+      "src": "wordlist/audios/smell.mp3"
+    },
+    {
+      "en": "to smell ",
+      "ge": "riechen",
+      "src": "wordlist/audios/to_smell.mp3"
+    },
+    {
+      "en": "to smile ",
+      "ge": "lächeln",
+      "src": "wordlist/audios/to_smile.mp3"
+    },
+    {
+      "en": "snake ",
+      "ge": "Schlange",
+      "src": "wordlist/audios/snake.mp3"
+    },
+    {
+      "en": "to snorkel ",
+      "ge": "schnorcheln",
+      "src": "wordlist/audios/to_snorkel.mp3"
+    },
+    {
+      "en": "snow ",
+      "ge": "Schnee",
+      "src": "wordlist/audios/snow.mp3"
+    },
+    {
+      "en": "to snowboard ",
+      "ge": "snowboarden",
+      "src": "wordlist/audios/to_snowboard.mp3"
+    },
+    {
+      "en": "snowy",
+      "ge": "verschneit",
+      "src": "wordlist/audios/snowy.mp3"
+    },
+    {
+      "en": "social media ",
+      "ge": "soziale Medien",
+      "src": "wordlist/audios/social_media.mp3"
+    },
+    {
+      "en": "So do I.",
+      "ge": "Ich auch.",
+      "src": "wordlist/audios/so_do_i.mp3"
+    },
+    {
+      "en": "sofa",
+      "ge": "Couch, Sofa",
+      "src": "wordlist/audios/sofa.mp3"
+    },
+    {
+      "en": "sold out",
+      "ge": "ausverkauft",
+      "src": "wordlist/audios/sold_out.mp3"
+    },
+    {
+      "en": "some",
+      "ge": "einige; etwas",
+      "src": "wordlist/audios/some.mp3"
+    },
+    {
+      "en": "somebody",
+      "ge": "jemand",
+      "src": "wordlist/audios/somebody.mp3"
+    },
+    {
+      "en": "someone",
+      "ge": "jemand",
+      "src": "wordlist/audios/someone.mp3"
+    },
+    {
+      "en": "something",
+      "ge": "etwas",
+      "src": "wordlist/audios/something.mp3"
+    },
+    {
+      "en": "sometimes ",
+      "ge": "manchmal",
+      "src": "wordlist/audios/sometimes.mp3"
+    },
+    {
+      "en": "somewhere",
+      "ge": "irgendwo",
+      "src": "wordlist/audios/somewhere.mp3"
+    },
+    {
+      "en": "son",
+      "ge": "Sohn",
+      "src": "wordlist/audios/son.mp3"
+    },
+    {
+      "en": "song",
+      "ge": "Lied",
+      "src": "wordlist/audios/song.mp3"
+    },
+    {
+      "en": "soon",
+      "ge": "bald",
+      "src": "wordlist/audios/soon.mp3"
+    },
+    {
+      "en": "Sorry!",
+      "ge": "Tut mir leid!, Entschuldigung!",
+      "src": "wordlist/audios/sorry.mp3"
+    },
+    {
+      "en": "sort (of)",
+      "ge": "Sorte, Art (von)",
+      "src": "wordlist/audios/sort_of.mp3"
+    },
+    {
+      "en": "to sound",
+      "ge": "klingen",
+      "src": "wordlist/audios/to_sound.mp3"
+    },
+    {
+      "en": "soup",
+      "ge": "Suppe",
+      "src": "wordlist/audios/soup.mp3"
+    },
+    {
+      "en": "south",
+      "ge": "südlich, Süd-; Süden",
+      "src": "wordlist/audios/south.mp3"
+    },
+    {
+      "en": "South African",
+      "ge": "südafrikanisch",
+      "src": "wordlist/audios/south_african.mp3"
+    },
+    {
+      "en": "South East Asia",
+      "ge": "Südostasien",
+      "src": "wordlist/audios/South_East_Asia.mp3"
+    },
+    {
+      "en": "South Sudan",
+      "ge": "Südsudan",
+      "src": "wordlist/audios/south_sudan.mp3"
+    },
+    {
+      "en": "southeast",
+      "ge": "südost",
+      "src": "wordlist/audios/southeast.mp3"
+    },
+    {
+      "en": "space",
+      "ge": "Weltall; Platz",
+      "src": "wordlist/audios/space.mp3"
+    },
+    {
+      "en": "space centre ",
+      "ge": "Raumfahrtzentrum",
+      "src": "wordlist/audios/space_centre.mp3"
+    },
+    {
+      "en": "spaceship",
+      "ge": "Raumschiff",
+      "src": "wordlist/audios/spaceship.mp3"
+    },
+    {
+      "en": "spacesuit",
+      "ge": "Weltraumanzug",
+      "src": "wordlist/audios/spacesuit.mp3"
+    },
+    {
+      "en": "Spain",
+      "ge": "Spanien",
+      "src": "wordlist/audios/spain.mp3"
+    },
+    {
+      "en": "to sparkle",
+      "ge": "sprudeln",
+      "src": "wordlist/audios/to_sparkle.mp3"
+    },
+    {
+      "en": "to speak",
+      "ge": "sprechen",
+      "src": "wordlist/audios/to_speak.mp3"
+    },
+    {
+      "en": "special",
+      "ge": "speziell, besonders",
+      "src": "wordlist/audios/special.mp3"
+    },
+    {
+      "en": "speed",
+      "ge": "Geschwindigkeit, Tempo",
+      "src": "wordlist/audios/speed.mp3"
+    },
+    {
+      "en": "to speed",
+      "ge": "rasen, flitzen",
+      "src": "wordlist/audios/to_speed.mp3"
+    },
+    {
+      "en": "to spell",
+      "ge": "buchstabieren",
+      "src": "wordlist/audios/to_spell.mp3"
+    },
+    {
+      "en": "to spend",
+      "ge": "ausgeben (Geld); verbringen (Zeit)",
+      "src": "wordlist/audios/to_spend.mp3"
+    },
+    {
+      "en": "spontaneous",
+      "ge": "spontan",
+      "src": "wordlist/audios/spontaneous.mp3"
+    },
+    {
+      "en": "spoon ",
+      "ge": "Löffel",
+      "src": "wordlist/audios/spoon.mp3"
+    },
+    {
+      "en": "sport(s) ",
+      "ge": "Sport",
+      "src": "wordlist/audios/sport.mp3"
+    },
+    {
+      "en": "sports centre",
+      "ge": "Sportzentrum",
+      "src": "wordlist/audios/sports_centre.mp3"
+    },
+    {
+      "en": "sportsman (pl -men)",
+      "ge": "Sportler",
+      "src": "wordlist/audios/sportsman_sportsmen.mp3"
+    },
+    {
+      "en": "sportswoman (pl -women)",
+      "ge": "Sportlerin",
+      "src": "wordlist/audios/sportswoman_sportswomen.mp3"
+    },
+    {
+      "en": "spotted ",
+      "ge": "gepunktet",
+      "src": "wordlist/audios/spotted.mp3"
+    },
+    {
+      "en": "spring",
+      "ge": "Frühling",
+      "src": "wordlist/audios/spring.mp3"
+    },
+    {
+      "en": "square",
+      "ge": "Platz",
+      "src": "wordlist/audios/square.mp3"
+    },
+    {
+      "en": "staircase ",
+      "ge": "Treppenhaus",
+      "src": "wordlist/audios/staircase.mp3"
+    },
+    {
+      "en": "stairs ",
+      "ge": "Treppe",
+      "src": "wordlist/audios/stairs.mp3"
+    },
+    {
+      "en": "to stand ",
+      "ge": "stehen",
+      "src": "wordlist/audios/to_stand.mp3"
+    },
+    {
+      "en": "star ",
+      "ge": "Stern",
+      "src": "wordlist/audios/star.mp3"
+    },
+    {
+      "en": "star chart ",
+      "ge": "Sterndiagramm",
+      "src": "wordlist/audios/star_chart.mp3"
+    },
+    {
+      "en": "to start ",
+      "ge": "starten, beginnen",
+      "src": "wordlist/audios/to_start.mp3"
+    },
+    {
+      "en": "starter ",
+      "ge": "Vorspeise",
+      "src": "wordlist/audios/starter.mp3"
+    },
+    {
+      "en": "station ",
+      "ge": "Bahnhof; Station",
+      "src": "wordlist/audios/station.mp3"
+    },
+    {
+      "en": "statue ",
+      "ge": "Statue",
+      "src": "wordlist/audios/statue.mp3"
+    },
+    {
+      "en": "to stay (at home) ",
+      "ge": "(zu Hause) bleiben",
+      "src": "wordlist/audios/to_stay_at_home.mp3"
+    },
+    {
+      "en": "step ",
+      "ge": "Schritt; Stufe",
+      "src": "wordlist/audios/step.mp3"
+    },
+    {
+      "en": "stew",
+      "ge": "Eintopf",
+      "src": "wordlist/audios/stew.mp3"
+    },
+    {
+      "en": "sticker",
+      "ge": "Aufkleber, Etikett",
+      "src": "wordlist/audios/sticker.mp3"
+    },
+    {
+      "en": "still ",
+      "ge": "(immer) noch",
+      "src": "wordlist/audios/still.mp3"
+    },
+    {
+      "en": "stilt",
+      "ge": "Pfahl",
+      "src": "wordlist/audios/stilt.mp3"
+    },
+    {
+      "en": "stomach ache ",
+      "ge": "Magen-/Bauchschmerzen",
+      "src": "wordlist/audios/stomachache.mp3"
+    },
+    {
+      "en": "stone ",
+      "ge": "Stein",
+      "src": "wordlist/audios/stone.mp3"
+    },
+    {
+      "en": "stop ",
+      "ge": "Halt, Haltestelle",
+      "src": "wordlist/audios/stop.mp3"
+    },
+    {
+      "en": "to stop ",
+      "ge": "aufhören, stoppen",
+      "src": "wordlist/audios/to_stop.mp3"
+    },
+    {
+      "en": "storm ",
+      "ge": "Sturm",
+      "src": "wordlist/audios/storm.mp3"
+    },
+    {
+      "en": "story ",
+      "ge": "Geschichte, Erzählung",
+      "src": "wordlist/audios/story.mp3"
+    },
+    {
+      "en": "straight ahead",
+      "ge": "genau vor, geradeaus",
+      "src": "wordlist/audios/straight_ahead.mp3"
+    },
+    {
+      "en": "straightaway",
+      "ge": "sofort",
+      "src": "wordlist/audios/straightaway.mp3"
+    },
+    {
+      "en": "strange ",
+      "ge": "komisch, sonderbar",
+      "src": "wordlist/audios/strange.mp3"
+    },
+    {
+      "en": "strap",
+      "ge": "Band, Riemen",
+      "src": "wordlist/audios/strap.mp3"
+    },
+    {
+      "en": "strategy ",
+      "ge": "Strategie",
+      "src": "wordlist/audios/strategy.mp3"
+    },
+    {
+      "en": "strawberry",
+      "ge": "Erdbeere",
+      "src": "wordlist/audios/strawberry.mp3"
+    },
+    {
+      "en": "street",
+      "ge": "Straße",
+      "src": "wordlist/audios/street.mp3"
+    },
+    {
+      "en": "striped",
+      "ge": "gestreift",
+      "src": "wordlist/audios/striped.mp3"
+    },
+    {
+      "en": "to stroke ",
+      "ge": "streicheln",
+      "src": "wordlist/audios/to_stroke.mp3"
+    },
+    {
+      "en": "strong",
+      "ge": "stark",
+      "src": "wordlist/audios/strong.mp3"
+    },
+    {
+      "en": "stuck ",
+      "ge": "festsitzen",
+      "src": "wordlist/audios/stuck.mp3"
+    },
+    {
+      "en": "student ",
+      "ge": "Student/Studentin; Schüler/Schülerin",
+      "src": "wordlist/audios/student.mp3"
+    },
+    {
+      "en": "to study ",
+      "ge": "studieren, lernen",
+      "src": "wordlist/audios/to_study.mp3"
+    },
+    {
+      "en": "stuff",
+      "ge": "Zeug, Kram",
+      "src": "wordlist/audios/stuff.mp3"
+    },
+    {
+      "en": "stupid ",
+      "ge": "dumm, blöd",
+      "src": "wordlist/audios/stupid.mp3"
+    },
+    {
+      "en": "subject",
+      "ge": "(Schul-)Fach; Betreff",
+      "src": "wordlist/audios/subject.mp3"
+    },
+    {
+      "en": "success ",
+      "ge": "Erfolg",
+      "src": "wordlist/audios/success.mp3"
+    },
+    {
+      "en": "such",
+      "ge": "solch, derartig",
+      "src": "wordlist/audios/such.mp3"
+    },
+    {
+      "en": "suddenly ",
+      "ge": "plötzlich, auf einmal",
+      "src": "wordlist/audios/suddenly.mp3"
+    },
+    {
+      "en": "to suggest  ",
+      "ge": "vorschlagen",
+      "src": "wordlist/audios/to_suggest.mp3"
+    },
+    {
+      "en": "suggestion",
+      "ge": "Vorschlag",
+      "src": "wordlist/audios/suggestion.mp3"
+    },
+    {
+      "en": "summary ",
+      "ge": "Zusammenfassung",
+      "src": "wordlist/audios/summary.mp3"
+    },
+    {
+      "en": "summer ",
+      "ge": "Sommer",
+      "src": "wordlist/audios/summer.mp3"
+    },
+    {
+      "en": "sun ",
+      "ge": "Sonne",
+      "src": "wordlist/audios/sun.mp3"
+    },
+    {
+      "en": "Sunday ",
+      "ge": "Sonntag",
+      "src": "wordlist/audios/sunday.mp3"
+    },
+    {
+      "en": "sunny",
+      "ge": "sonnig",
+      "src": "wordlist/audios/sunny.mp3"
+    },
+    {
+      "en": "sunshine ",
+      "ge": "Sonnenschein",
+      "src": "wordlist/audios/sunshine.mp3"
+    },
+    {
+      "en": "super ",
+      "ge": "super",
+      "src": "wordlist/audios/super.mp3"
+    },
+    {
+      "en": "superheroine",
+      "ge": "Superheldin",
+      "src": "wordlist/audios/superheroine.mp3"
+    },
+    {
+      "en": "superlative ",
+      "ge": "Superlativ",
+      "src": "wordlist/audios/superlative.mp3"
+    },
+    {
+      "en": "supermarket ",
+      "ge": "Supermarkt",
+      "src": "wordlist/audios/supermarket.mp3"
+    },
+    {
+      "en": "supper ",
+      "ge": "Abendessen",
+      "src": "wordlist/audios/supper.mp3"
+    },
+    {
+      "en": "sure",
+      "ge": "sicher",
+      "src": "wordlist/audios/sure.mp3"
+    },
+    {
+      "en": "surprise  ",
+      "ge": "Überraschung",
+      "src": "wordlist/audios/surprise.mp3"
+    },
+    {
+      "en": "to swallow",
+      "ge": "(hinunter-)schlucken",
+      "src": "wordlist/audios/to_swallow.mp3"
+    },
+    {
+      "en": "to swap ",
+      "ge": "(ver-)tauschen",
+      "src": "wordlist/audios/to_swap.mp3"
+    },
+    {
+      "en": "to sweep ",
+      "ge": "kehren, fegen",
+      "src": "wordlist/audios/to_sweep.mp3"
+    },
+    {
+      "en": "sweets (pl)",
+      "ge": "Süßigkeiten",
+      "src": "wordlist/audios/sweets.mp3"
+    },
+    {
+      "en": "to swim",
+      "ge": "schwimmen",
+      "src": "wordlist/audios/to_swim.mp3"
+    },
+    {
+      "en": "to switch off ",
+      "ge": "ausschalten",
+      "src": "wordlist/audios/to_switch_off.mp3"
+    },
+    {
+      "en": "to switch on ",
+      "ge": "an-/einschalten",
+      "src": "wordlist/audios/to_switch_on.mp3"
+    },
+    {
+      "en": "symptom ",
+      "ge": "Symptom",
+      "src": "wordlist/audios/symptom.mp3"
+    },
+    {
+      "en": "table",
+      "ge": "Tisch",
+      "src": "wordlist/audios/table.mp3"
+    },
+    {
+      "en": "table tennis",
+      "ge": "Tischtennis",
+      "src": "wordlist/audios/table_tennis.mp3"
+    },
+    {
+      "en": "to tackle",
+      "ge": "attackieren (im Sport)",
+      "src": "wordlist/audios/to_tackle.mp3"
+    },
+    {
+      "en": "taipan snake",
+      "ge": "Taipan",
+      "src": "wordlist/audios/taipan_snake.mp3"
+    },
+    {
+      "en": "to take",
+      "ge": "(mit-)nehmen",
+      "src": "wordlist/audios/to_take.mp3"
+    },
+    {
+      "en": "to take a rest",
+      "ge": "sich ausruhen",
+      "src": "wordlist/audios/to_take_a_rest.mp3"
+    },
+    {
+      "en": "to take it easy",
+      "ge": "sich entspannen",
+      "src": "wordlist/audios/to_take_it_easy.mp3"
+    },
+    {
+      "en": "to take notes",
+      "ge": "Notizen machen",
+      "src": "wordlist/audios/to_take_notes.mp3"
+    },
+    {
+      "en": "to take out",
+      "ge": "herausnehmen",
+      "src": "wordlist/audios/to_take_out.mp3"
+    },
+    {
+      "en": "to take over",
+      "ge": "übernehmen",
+      "src": "wordlist/audios/to_take_over.mp3"
+    },
+    {
+      "en": "to take part (in)",
+      "ge": "teilnehmen (an)",
+      "src": "wordlist/audios/to_take_part_in.mp3"
+    },
+    {
+      "en": "tall",
+      "ge": "groß; hoch",
+      "src": "wordlist/audios/tall.mp3"
+    },
+    {
+      "en": "to talk",
+      "ge": "sprechen, sich unterhalten",
+      "src": "wordlist/audios/to_talk.mp3"
+    },
+    {
+      "en": "tan",
+      "ge": "Bräune",
+      "src": "wordlist/audios/tan.mp3"
+    },
+    {
+      "en": "task",
+      "ge": "Aufgabe, Übung",
+      "src": "wordlist/audios/task.mp3"
+    },
+    {
+      "en": "taste",
+      "ge": "Geschmack",
+      "src": "wordlist/audios/taste.mp3"
+    },
+    {
+      "en": "to teach",
+      "ge": "lehren, unterrichten",
+      "src": "wordlist/audios/to_teach.mp3"
+    },
+    {
+      "en": "teacher",
+      "ge": "Lehrperson",
+      "src": "wordlist/audios/teacher.mp3"
+    },
+    {
+      "en": "team",
+      "ge": "Team",
+      "src": "wordlist/audios/team.mp3"
+    },
+    {
+      "en": "teen",
+      "ge": "Teenager, Teenie",
+      "src": "wordlist/audios/teen.mp3"
+    },
+    {
+      "en": "teenager",
+      "ge": "Teenager, Teenie",
+      "src": "wordlist/audios/teenager.mp3"
+    },
+    {
+      "en": "television (TV)",
+      "ge": "Fernseher; Fernsehen",
+      "src": "wordlist/audios/television_TV.mp3"
+    },
+    {
+      "en": "to tell",
+      "ge": "erzählen",
+      "src": "wordlist/audios/to_tell.mp3"
+    },
+    {
+      "en": "to tell a lie",
+      "ge": "lügen",
+      "src": "wordlist/audios/to_tell_a_lie.mp3"
+    },
+    {
+      "en": "temperature",
+      "ge": "Temperatur",
+      "src": "wordlist/audios/temperature.mp3"
+    },
+    {
+      "en": "temple",
+      "ge": "Tempel",
+      "src": "wordlist/audios/temple.mp3"
+    },
+    {
+      "en": "Tenerife",
+      "ge": "Teneriffa",
+      "src": "wordlist/audios/tenerife.mp3"
+    },
+    {
+      "en": "tennis",
+      "ge": "Tennis",
+      "src": "wordlist/audios/tennis.mp3"
+    },
+    {
+      "en": "tent",
+      "ge": "Zelt",
+      "src": "wordlist/audios/tent.mp3"
+    },
+    {
+      "en": "terrible",
+      "ge": "schrecklich, scheußlich",
+      "src": "wordlist/audios/terrible.mp3"
+    },
+    {
+      "en": "test",
+      "ge": "Test, Prüfung",
+      "src": "wordlist/audios/test.mp3"
+    },
+    {
+      "en": "text message",
+      "ge": "Textnachricht, SMS",
+      "src": "wordlist/audios/text_message.mp3"
+    },
+    {
+      "en": "(more) than",
+      "ge": "(mehr) als",
+      "src": "wordlist/audios/more_than.mp3"
+    },
+    {
+      "en": "to thank sb.",
+      "ge": "jdm. danken",
+      "src": "wordlist/audios/to_thank_somebody.mp3"
+    },
+    {
+      "en": "thank you",
+      "ge": "danke, dankeschön",
+      "src": "wordlist/audios/thank_you.mp3"
+    },
+    {
+      "en": "that",
+      "ge": "der/die/das; dass",
+      "src": "wordlist/audios/that.mp3"
+    },
+    {
+      "en": "the",
+      "ge": "der/die/das",
+      "src": "wordlist/audios/the.mp3"
+    },
+    {
+      "en": "their",
+      "ge": "ihr/ihre",
+      "src": "wordlist/audios/their.mp3"
+    },
+    {
+      "en": "theirs",
+      "ge": "ihrer/ihre/ihres",
+      "src": "wordlist/audios/theirs.mp3"
+    },
+    {
+      "en": "them",
+      "ge": "sie; ihnen",
+      "src": "wordlist/audios/them.mp3"
+    },
+    {
+      "en": "then",
+      "ge": "dann",
+      "src": "wordlist/audios/then.mp3"
+    },
+    {
+      "en": "there ",
+      "ge": "dort",
+      "src": "wordlist/audios/there.mp3"
+    },
+    {
+      "en": "these",
+      "ge": "diese (hier)",
+      "src": "wordlist/audios/these.mp3"
+    },
+    {
+      "en": "they ",
+      "ge": "sie",
+      "src": "wordlist/audios/they.mp3"
+    },
+    {
+      "en": "thick ",
+      "ge": "dicht; dick",
+      "src": "wordlist/audios/thick.mp3"
+    },
+    {
+      "en": "thing  ",
+      "ge": "Ding, Sache",
+      "src": "wordlist/audios/thing.mp3"
+    },
+    {
+      "en": "to think ",
+      "ge": "denken",
+      "src": "wordlist/audios/to_think.mp3"
+    },
+    {
+      "en": "third ",
+      "ge": "dritter/dritte/drittes",
+      "src": "wordlist/audios/third.mp3"
+    },
+    {
+      "en": "this ",
+      "ge": "dieser/diese/dieses",
+      "src": "wordlist/audios/this.mp3"
+    },
+    {
+      "en": "those ",
+      "ge": "jene",
+      "src": "wordlist/audios/those.mp3"
+    },
+    {
+      "en": "thousand",
+      "ge": "tausend",
+      "src": "wordlist/audios/thousand.mp3"
+    },
+    {
+      "en": "throat ",
+      "ge": "Hals",
+      "src": "wordlist/audios/throat.mp3"
+    },
+    {
+      "en": "through ",
+      "ge": "durch",
+      "src": "wordlist/audios/through.mp3"
+    },
+    {
+      "en": "throughout the year",
+      "ge": "das ganze Jahr (über)",
+      "src": "wordlist/audios/throughout_the_year.mp3"
+    },
+    {
+      "en": "to throw",
+      "ge": "werfen",
+      "src": "wordlist/audios/to_throw.mp3"
+    },
+    {
+      "en": "thunderstorm",
+      "ge": "Gewitter",
+      "src": "wordlist/audios/thunderstorm.mp3"
+    },
+    {
+      "en": "to tick",
+      "ge": "abhaken",
+      "src": "wordlist/audios/to_tick.mp3"
+    },
+    {
+      "en": "ticket",
+      "ge": "Ticket",
+      "src": "wordlist/audios/ticket.mp3"
+    },
+    {
+      "en": "to tidy (up)",
+      "ge": "aufräumen",
+      "src": "wordlist/audios/to_tidy_up.mp3"
+    },
+    {
+      "en": "tiger",
+      "ge": "Tiger",
+      "src": "wordlist/audios/tiger.mp3"
+    },
+    {
+      "en": "till",
+      "ge": "bis",
+      "src": "wordlist/audios/till.mp3"
+    },
+    {
+      "en": "time",
+      "ge": "Zeit",
+      "src": "wordlist/audios/time.mp3"
+    },
+    {
+      "en": "timetable",
+      "ge": "Stundenplan",
+      "src": "wordlist/audios/timetable.mp3"
+    },
+    {
+      "en": "tip",
+      "ge": "Hinweis, Tipp",
+      "src": "wordlist/audios/tip.mp3"
+    },
+    {
+      "en": "tired",
+      "ge": "müde",
+      "src": "wordlist/audios/tired.mp3"
+    },
+    {
+      "en": "title",
+      "ge": "Titel",
+      "src": "wordlist/audios/title.mp3"
+    },
+    {
+      "en": "toad",
+      "ge": "Kröte",
+      "src": "wordlist/audios/toad.mp3"
+    },
+    {
+      "en": "toast",
+      "ge": "Toast",
+      "src": "wordlist/audios/toast.mp3"
+    },
+    {
+      "en": "today",
+      "ge": "heute",
+      "src": "wordlist/audios/today.mp3"
+    },
+    {
+      "en": "toe",
+      "ge": "Zeh(e)",
+      "src": "wordlist/audios/toe.mp3"
+    },
+    {
+      "en": "together ",
+      "ge": "zusammen, gemeinsam",
+      "src": "wordlist/audios/together.mp3"
+    },
+    {
+      "en": "tomato (pl tomatoes) ",
+      "ge": "Tomate",
+      "src": "wordlist/audios/tomato_tomatoes.mp3"
+    },
+    {
+      "en": "tomorrow ",
+      "ge": "morgen",
+      "src": "wordlist/audios/tomorrow.mp3"
+    },
+    {
+      "en": "ton ",
+      "ge": "Tonne (1000 kg)",
+      "src": "wordlist/audios/ton.mp3"
+    },
+    {
+      "en": "tonight ",
+      "ge": "heute Abend; heute Nacht",
+      "src": "wordlist/audios/tonight.mp3"
+    },
+    {
+      "en": "too ",
+      "ge": "auch; zu",
+      "src": "wordlist/audios/too.mp3"
+    },
+    {
+      "en": "tool ",
+      "ge": "Werkzeug",
+      "src": "wordlist/audios/tool.mp3"
+    },
+    {
+      "en": "tooth (pl teeth) ",
+      "ge": "Zahn",
+      "src": "wordlist/audios/tooth_pl_teeth.mp3"
+    },
+    {
+      "en": "toothache ",
+      "ge": "Zahnschmerzen",
+      "src": "wordlist/audios/toothache.mp3"
+    },
+    {
+      "en": "toothpaste",
+      "ge": "Zahnpasta",
+      "src": "wordlist/audios/toothpaste.mp3"
+    },
+    {
+      "en": "top ",
+      "ge": "ganz oben; Gipfel; Spitze",
+      "src": "wordlist/audios/top.mp3"
+    },
+    {
+      "en": "topic ",
+      "ge": "Thema",
+      "src": "wordlist/audios/topic.mp3"
+    },
+    {
+      "en": "topping ",
+      "ge": "Belag",
+      "src": "wordlist/audios/topping.mp3"
+    },
+    {
+      "en": "tornado",
+      "ge": "Wirbelsturm",
+      "src": "wordlist/audios/tornado.mp3"
+    },
+    {
+      "en": "to touch ",
+      "ge": "berühren",
+      "src": "wordlist/audios/to_touch.mp3"
+    },
+    {
+      "en": "tour ",
+      "ge": "Tour",
+      "src": "wordlist/audios/tour.mp3"
+    },
+    {
+      "en": "tourist ",
+      "ge": "Tourist/Touristin",
+      "src": "wordlist/audios/tourist.mp3"
+    },
+    {
+      "en": "tourist office",
+      "ge": "Fremdenverkehrsbüro",
+      "src": "wordlist/audios/tourist_office.mp3"
+    },
+    {
+      "en": "towards",
+      "ge": "in Richtung, auf … zu",
+      "src": "wordlist/audios/towards.mp3"
+    },
+    {
+      "en": "tower ",
+      "ge": "Turm",
+      "src": "wordlist/audios/tower.mp3"
+    },
+    {
+      "en": "town ",
+      "ge": "Stadt",
+      "src": "wordlist/audios/town.mp3"
+    },
+    {
+      "en": "tractor ",
+      "ge": "Traktor",
+      "src": "wordlist/audios/tractor.mp3"
+    },
+    {
+      "en": "tradition ",
+      "ge": "Tradition",
+      "src": "wordlist/audios/tradition.mp3"
+    },
+    {
+      "en": "traffic lights ",
+      "ge": "Verkehrsampel",
+      "src": "wordlist/audios/traffic_lights.mp3"
+    },
+    {
+      "en": "trailer ",
+      "ge": "Anhänger; Wohnwagen",
+      "src": "wordlist/audios/trailer.mp3"
+    },
+    {
+      "en": "train ",
+      "ge": "Zug",
+      "src": "wordlist/audios/train.mp3"
+    },
+    {
+      "en": "trainer ",
+      "ge": "Trainer/Trainerin",
+      "src": "wordlist/audios/trainer.mp3"
+    },
+    {
+      "en": "trainers ",
+      "ge": "Turnschuhe",
+      "src": "wordlist/audios/trainers.mp3"
+    },
+    {
+      "en": "transmitter ",
+      "ge": "Sender",
+      "src": "wordlist/audios/transmitter.mp3"
+    },
+    {
+      "en": "to transport ",
+      "ge": "transportieren",
+      "src": "wordlist/audios/to_transport.mp3"
+    },
+    {
+      "en": "trap ",
+      "ge": "Falle",
+      "src": "wordlist/audios/trap.mp3"
+    },
+    {
+      "en": "to travel ",
+      "ge": "reisen",
+      "src": "wordlist/audios/to_travel.mp3"
+    },
+    {
+      "en": "travel agent ",
+      "ge": "Reisebüromitarbeiter/Reisebüromitarbeiterin",
+      "src": "wordlist/audios/travel_agent.mp3"
+    },
+    {
+      "en": "traveller ",
+      "ge": "Reisender/Reisende",
+      "src": "wordlist/audios/traveller.mp3"
+    },
+    {
+      "en": "treasure ",
+      "ge": "Schatz",
+      "src": "wordlist/audios/treasure.mp3"
+    },
+    {
+      "en": "treasure hunt ",
+      "ge": "Schatzsuche",
+      "src": "wordlist/audios/treasure_hunt.mp3"
+    },
+    {
+      "en": "tree ",
+      "ge": "Baum",
+      "src": "wordlist/audios/tree.mp3"
+    },
+    {
+      "en": "tree house ",
+      "ge": "Baumhaus",
+      "src": "wordlist/audios/tree_house.mp3"
+    },
+    {
+      "en": "trick ",
+      "ge": "Trick",
+      "src": "wordlist/audios/trick.mp3"
+    },
+    {
+      "en": "Trick or treat! ",
+      "ge": "Süßes oder Saures (Frage beim Halloween-Umzug)",
+      "src": "wordlist/audios/trick_or_treat.mp3"
+    },
+    {
+      "en": "trip ",
+      "ge": "Ausflug, Reise",
+      "src": "wordlist/audios/trip.mp3"
+    },
+    {
+      "en": "triplets ",
+      "ge": "Drillinge",
+      "src": "wordlist/audios/triplets.mp3"
+    },
+    {
+      "en": "tropical ",
+      "ge": "tropisch",
+      "src": "wordlist/audios/tropical.mp3"
+    },
+    {
+      "en": "trouble ",
+      "ge": "Schwierigkeiten, Problem",
+      "src": "wordlist/audios/trouble.mp3"
+    },
+    {
+      "en": "trousers (pl) ",
+      "ge": "Hose",
+      "src": "wordlist/audios/trousers.mp3"
+    },
+    {
+      "en": "truck ",
+      "ge": "Lastwagen",
+      "src": "wordlist/audios/truck.mp3"
+    },
+    {
+      "en": "true",
+      "ge": "wahr; richtig",
+      "src": "wordlist/audios/true.mp3"
+    },
+    {
+      "en": "to trust",
+      "ge": "vertrauen",
+      "src": "wordlist/audios/to_trust.mp3"
+    },
+    {
+      "en": "truth",
+      "ge": "Wahrheit",
+      "src": "wordlist/audios/truth.mp3"
+    },
+    {
+      "en": "to try",
+      "ge": "versuchen; probieren",
+      "src": "wordlist/audios/to_try.mp3"
+    },
+    {
+      "en": "turkey",
+      "ge": "Truthahn",
+      "src": "wordlist/audios/turkey.mp3"
+    },
+    {
+      "en": "to turn left/right",
+      "ge": "links/rechts abbiegen",
+      "src": "wordlist/audios/to_turn_left_right.mp3"
+    },
+    {
+      "en": "to turn off",
+      "ge": "abschalten",
+      "src": "wordlist/audios/to_turn_off.mp3"
+    },
+    {
+      "en": "to turn up",
+      "ge": "auftauchen, erscheinen",
+      "src": "wordlist/audios/to_turn_up.mp3"
+    },
+    {
+      "en": "twice",
+      "ge": "zweimal",
+      "src": "wordlist/audios/twice.mp3"
+    },
+    {
+      "en": "twin",
+      "ge": "Zwilling, Zwillings-",
+      "src": "wordlist/audios/twin.mp3"
+    },
+    {
+      "en": "type (of)",
+      "ge": "Art; Typ; Sorte (von)",
+      "src": "wordlist/audios/type_of.mp3"
+    },
+    {
+      "en": "UFO (unidentified flying object)",
+      "ge": "Ufo (unidentifiziertes Flugobjekt)",
+      "src": "wordlist/audios/ufo.mp3"
+    },
+    {
+      "en": "ufologist ",
+      "ge": "Ufologe/Ufologin",
+      "src": "wordlist/audios/ufologist.mp3"
+    },
+    {
+      "en": "ugly",
+      "ge": "hässlich",
+      "src": "wordlist/audios/ugly.mp3"
+    },
+    {
+      "en": "umbrella",
+      "ge": "Regenschirm",
+      "src": "wordlist/audios/umbrella.mp3"
+    },
+    {
+      "en": "uncle",
+      "ge": "Onkel",
+      "src": "wordlist/audios/uncle.mp3"
+    },
+    {
+      "en": "unconscious",
+      "ge": "bewusstlos",
+      "src": "wordlist/audios/unconscious.mp3"
+    },
+    {
+      "en": "under",
+      "ge": "unter",
+      "src": "wordlist/audios/under.mp3"
+    },
+    {
+      "en": "underground ",
+      "ge": "U-Bahn",
+      "src": "wordlist/audios/underground.mp3"
+    },
+    {
+      "en": "to underline",
+      "ge": "unterstreichen",
+      "src": "wordlist/audios/to_underline.mp3"
+    },
+    {
+      "en": "underneath",
+      "ge": "unterhalb",
+      "src": "wordlist/audios/underneath.mp3"
+    },
+    {
+      "en": "to understand",
+      "ge": "verstehen",
+      "src": "wordlist/audios/to_understand.mp3"
+    },
+    {
+      "en": "understanding",
+      "ge": "Verständnis",
+      "src": "wordlist/audios/understanding.mp3"
+    },
+    {
+      "en": "underwater",
+      "ge": "Unterwasser-; unter dem Wasser",
+      "src": "wordlist/audios/underwater.mp3"
+    },
+    {
+      "en": "unfair",
+      "ge": "unfair, ungerecht",
+      "src": "wordlist/audios/unfair.mp3"
+    },
+    {
+      "en": "uniform",
+      "ge": "Uniform",
+      "src": "wordlist/audios/uniform.mp3"
+    },
+    {
+      "en": "unit",
+      "ge": "Gerät; Einheit",
+      "src": "wordlist/audios/unit.mp3"
+    },
+    {
+      "en": "universe",
+      "ge": "Universum",
+      "src": "wordlist/audios/universe.mp3"
+    },
+    {
+      "en": "until ",
+      "ge": "bis",
+      "src": "wordlist/audios/until.mp3"
+    },
+    {
+      "en": "unusual",
+      "ge": "ungewöhnlich",
+      "src": "wordlist/audios/unusual.mp3"
+    },
+    {
+      "en": "to upload",
+      "ge": "hochladen",
+      "src": "wordlist/audios/to_upload.mp3"
+    },
+    {
+      "en": "upset ",
+      "ge": "verärgert, aufgebracht",
+      "src": "wordlist/audios/upset.mp3"
+    },
+    {
+      "en": "upstairs ",
+      "ge": "oben",
+      "src": "wordlist/audios/upstairs.mp3"
+    },
+    {
+      "en": "urine",
+      "ge": "Urin",
+      "src": "wordlist/audios/urine.mp3"
+    },
+    {
+      "en": "us",
+      "ge": "uns",
+      "src": "wordlist/audios/us.mp3"
+    },
+    {
+      "en": "USA (United States of America)",
+      "ge": "USA (Vereinigte Staaten von Amerika)",
+      "src": "wordlist/audios/USA_United_States_of_America.mp3"
+    },
+    {
+      "en": "to use",
+      "ge": "benutzen, verwenden",
+      "src": "wordlist/audios/to_use.mp3"
+    },
+    {
+      "en": "useful",
+      "ge": "nützlich",
+      "src": "wordlist/audios/useful.mp3"
+    },
+    {
+      "en": "usually",
+      "ge": "gewöhnlich, normalerweise",
+      "src": "wordlist/audios/usually.mp3"
+    },
+    {
+      "en": "valley",
+      "ge": "Tal",
+      "src": "wordlist/audios/valley.mp3"
+    },
+    {
+      "en": "vampire",
+      "ge": "Vampir/Vampirin",
+      "src": "wordlist/audios/vampire.mp3"
+    },
+    {
+      "en": "vegetable",
+      "ge": "Gemüse",
+      "src": "wordlist/audios/vegetable.mp3"
+    },
+    {
+      "en": "vegetarian",
+      "ge": "Vegetarier/Vegetarierin",
+      "src": "wordlist/audios/vegetarian.mp3"
+    },
+    {
+      "en": "venomous",
+      "ge": "giftig",
+      "src": "wordlist/audios/venomous.mp3"
+    },
+    {
+      "en": "veranda",
+      "ge": "Veranda",
+      "src": "wordlist/audios/veranda.mp3"
+    },
+    {
+      "en": "very",
+      "ge": "sehr",
+      "src": "wordlist/audios/very.mp3"
+    },
+    {
+      "en": "vet(erinarian)",
+      "ge": "Tierarzt/Tierärztin",
+      "src": "wordlist/audios/veterinarian.mp3"
+    },
+    {
+      "en": "village",
+      "ge": "Dorf",
+      "src": "wordlist/audios/village.mp3"
+    },
+    {
+      "en": "virus",
+      "ge": "Virus",
+      "src": "wordlist/audios/virus.mp3"
+    },
+    {
+      "en": "to visit",
+      "ge": "besuchen",
+      "src": "wordlist/audios/to_visit.mp3"
+    },
+    {
+      "en": "visitor",
+      "ge": "Besucher/Besucherin",
+      "src": "wordlist/audios/visitor.mp3"
+    },
+    {
+      "en": "vlog",
+      "ge": "Videoblog",
+      "src": "wordlist/audios/vlog.mp3"
+    },
+    {
+      "en": "vocabulary",
+      "ge": "Vokabeln, Wortschatz",
+      "src": "wordlist/audios/vocabulary.mp3"
+    },
+    {
+      "en": "volleyball",
+      "ge": "Volleyball",
+      "src": "wordlist/audios/volleyball.mp3"
+    },
+    {
+      "en": "to vote",
+      "ge": "wählen, abstimmen",
+      "src": "wordlist/audios/to_vote.mp3"
+    },
+    {
+      "en": "to wait",
+      "ge": "warten",
+      "src": "wordlist/audios/to_wait.mp3"
+    },
+    {
+      "en": "waiter",
+      "ge": "Kellner",
+      "src": "wordlist/audios/waiter.mp3"
+    },
+    {
+      "en": "to wake up",
+      "ge": "aufwachen",
+      "src": "wordlist/audios/to_wake_up.mp3"
+    },
+    {
+      "en": "to walk",
+      "ge": "(zu Fuß) gehen",
+      "src": "wordlist/audios/to_walk.mp3"
+    },
+    {
+      "en": "wall",
+      "ge": "Wand, Mauer",
+      "src": "wordlist/audios/wall.mp3"
+    },
+    {
+      "en": "to want",
+      "ge": "wollen; wünschen",
+      "src": "wordlist/audios/to_want.mp3"
+    },
+    {
+      "en": "war",
+      "ge": "Krieg",
+      "src": "wordlist/audios/war.mp3"
+    },
+    {
+      "en": "wardrobe",
+      "ge": "Kleiderschrank",
+      "src": "wordlist/audios/wardrobe.mp3"
+    },
+    {
+      "en": "warm",
+      "ge": "warm",
+      "src": "wordlist/audios/warm.mp3"
+    },
+    {
+      "en": "to wash",
+      "ge": "waschen",
+      "src": "wordlist/audios/to_wash.mp3"
+    },
+    {
+      "en": "washing machine",
+      "ge": "Waschmaschine",
+      "src": "wordlist/audios/washing_machine.mp3"
+    },
+    {
+      "en": "to wash up",
+      "ge": "abspülen, abwaschen",
+      "src": "wordlist/audios/to_wash_up.mp3"
+    },
+    {
+      "en": "waste of time",
+      "ge": "Zeitverschwendung",
+      "src": "wordlist/audios/waste_of_time.mp3"
+    },
+    {
+      "en": "to watch",
+      "ge": "ansehen; zuschauen",
+      "src": "wordlist/audios/to_watch.mp3"
+    },
+    {
+      "en": "water",
+      "ge": "Wasser",
+      "src": "wordlist/audios/water.mp3"
+    },
+    {
+      "en": "waterfall",
+      "ge": "Wasserfall",
+      "src": "wordlist/audios/waterfall.mp3"
+    },
+    {
+      "en": "way",
+      "ge": "Weg",
+      "src": "wordlist/audios/way.mp3"
+    },
+    {
+      "en": "we",
+      "ge": "wir",
+      "src": "wordlist/audios/we.mp3"
+    },
+    {
+      "en": "to wear",
+      "ge": "tragen (Kleidung)",
+      "src": "wordlist/audios/to_wear.mp3"
+    },
+    {
+      "en": "weather",
+      "ge": "Wetter",
+      "src": "wordlist/audios/weather.mp3"
+    },
+    {
+      "en": "weather forecast",
+      "ge": "Wetterbericht",
+      "src": "wordlist/audios/weather_forecast.mp3"
+    },
+    {
+      "en": "web",
+      "ge": "Netz, Internet",
+      "src": "wordlist/audios/web.mp3"
+    },
+    {
+      "en": "webpage",
+      "ge": "Internetseite",
+      "src": "wordlist/audios/webpage.mp3"
+    },
+    {
+      "en": "Wednesday",
+      "ge": "Mittwoch",
+      "src": "wordlist/audios/Wednesday.mp3"
+    },
+    {
+      "en": "week",
+      "ge": "Woche",
+      "src": "wordlist/audios/week.mp3"
+    },
+    {
+      "en": "weekend",
+      "ge": "Wochenende",
+      "src": "wordlist/audios/weekend.mp3"
+    },
+    {
+      "en": "to weigh",
+      "ge": "wiegen",
+      "src": "wordlist/audios/to_weigh.mp3"
+    },
+    {
+      "en": "weight",
+      "ge": "Gewicht",
+      "src": "wordlist/audios/weight.mp3"
+    },
+    {
+      "en": "weird",
+      "ge": "seltsam",
+      "src": "wordlist/audios/weird.mp3"
+    },
+    {
+      "en": "Welcome!",
+      "ge": "Willkommen!",
+      "src": "wordlist/audios/welcome.mp3"
+    },
+    {
+      "en": "well",
+      "ge": "gut; gesund wohlauf",
+      "src": "wordlist/audios/well.mp3"
+    },
+    {
+      "en": "west",
+      "ge": "Westen",
+      "src": "wordlist/audios/west.mp3"
+    },
+    {
+      "en": "western",
+      "ge": "westlich",
+      "src": "wordlist/audios/western.mp3"
+    },
+    {
+      "en": "wet",
+      "ge": "nass",
+      "src": "wordlist/audios/wet.mp3"
+    },
+    {
+      "en": "what",
+      "ge": "was",
+      "src": "wordlist/audios/what.mp3"
+    },
+    {
+      "en": "What a shame!",
+      "ge": "Wie schade!",
+      "src": "wordlist/audios/What_a_shame.mp3"
+    },
+    {
+      "en": "What’s the matter?",
+      "ge": "Was ist los?",
+      "src": "wordlist/audios/whats_the_matter.mp3"
+    },
+    {
+      "en": "when",
+      "ge": "wenn, als",
+      "src": "wordlist/audios/when.mp3"
+    },
+    {
+      "en": "where",
+      "ge": "wo",
+      "src": "wordlist/audios/where.mp3"
+    },
+    {
+      "en": "which",
+      "ge": "welcher/welche/welches",
+      "src": "wordlist/audios/which.mp3"
+    },
+    {
+      "en": "while",
+      "ge": "während; Weile",
+      "src": "wordlist/audios/while.mp3"
+    },
+    {
+      "en": "white",
+      "ge": "weiß",
+      "src": "wordlist/audios/white.mp3"
+    },
+    {
+      "en": "who",
+      "ge": "wer; der/die/das",
+      "src": "wordlist/audios/who.mp3"
+    },
+    {
+      "en": "whose",
+      "ge": "wessen",
+      "src": "wordlist/audios/whose.mp3"
+    },
+    {
+      "en": "why",
+      "ge": "wieso, warum",
+      "src": "wordlist/audios/why.mp3"
+    },
+    {
+      "en": "wife (pl wives)",
+      "ge": "Ehefrau",
+      "src": "wordlist/audios/wife_pl_wives.mp3"
+    },
+    {
+      "en": "wild",
+      "ge": "wild",
+      "src": "wordlist/audios/wild.mp3"
+    },
+    {
+      "en": "wildfire",
+      "ge": "Waldbrand",
+      "src": "wordlist/audios/wildfire.mp3"
+    },
+    {
+      "en": "wildlife",
+      "ge": "wilde Tierwelt",
+      "src": "wordlist/audios/wildlife.mp3"
+    },
+    {
+      "en": "will",
+      "ge": "werden (Zukunft)",
+      "src": "wordlist/audios/will.mp3"
+    },
+    {
+      "en": "to win",
+      "ge": "gewinnen",
+      "src": "wordlist/audios/to_win.mp3"
+    },
+    {
+      "en": "wind",
+      "ge": "Wind",
+      "src": "wordlist/audios/wind.mp3"
+    },
+    {
+      "en": "window",
+      "ge": "Fenster",
+      "src": "wordlist/audios/window.mp3"
+    },
+    {
+      "en": "windsurfing",
+      "ge": "Windsurfen",
+      "src": "wordlist/audios/windsurfing.mp3"
+    },
+    {
+      "en": "windy",
+      "ge": "windig",
+      "src": "wordlist/audios/windy.mp3"
+    },
+    {
+      "en": "winner",
+      "ge": "Gewinner/Gewinnerin",
+      "src": "wordlist/audios/winner.mp3"
+    },
+    {
+      "en": "winter",
+      "ge": "Winter",
+      "src": "wordlist/audios/winter.mp3"
+    },
+    {
+      "en": "wish ",
+      "ge": "Wunsch",
+      "src": "wordlist/audios/wish.mp3"
+    },
+    {
+      "en": "witch (pl witches)",
+      "ge": "Hexe",
+      "src": "wordlist/audios/witch_witches.mp3"
+    },
+    {
+      "en": "with",
+      "ge": "mit",
+      "src": "wordlist/audios/with.mp3"
+    },
+    {
+      "en": "without",
+      "ge": "ohne",
+      "src": "wordlist/audios/without.mp3"
+    },
+    {
+      "en": "wizard",
+      "ge": "Zauberer",
+      "src": "wordlist/audios/wizard.mp3"
+    },
+    {
+      "en": "wolf (pl wolves)",
+      "ge": "Wolf",
+      "src": "wordlist/audios/wolf_wolves.mp3"
+    },
+    {
+      "en": "woman (pl women)",
+      "ge": "Frau",
+      "src": "wordlist/audios/woman_women.mp3"
+    },
+    {
+      "en": "wonderful",
+      "ge": "wunderbar",
+      "src": "wordlist/audios/wonderful.mp3"
+    },
+    {
+      "en": "wood",
+      "ge": "Wald; Holz",
+      "src": "wordlist/audios/wood.mp3"
+    },
+    {
+      "en": "wooden",
+      "ge": "Holz-, hölzern",
+      "src": "wordlist/audios/wooden.mp3"
+    },
+    {
+      "en": "word",
+      "ge": "Wort",
+      "src": "wordlist/audios/word.mp3"
+    },
+    {
+      "en": "work",
+      "ge": "Arbeit; Aufgabe",
+      "src": "wordlist/audios/work.mp3"
+    },
+    {
+      "en": "to work",
+      "ge": "arbeiten; funktionieren",
+      "src": "wordlist/audios/to_work.mp3"
+    },
+    {
+      "en": "world",
+      "ge": "Welt",
+      "src": "wordlist/audios/world.mp3"
+    },
+    {
+      "en": "world record",
+      "ge": "Weltrekord",
+      "src": "wordlist/audios/world_record.mp3"
+    },
+    {
+      "en": "worldwide ",
+      "ge": "weltweit",
+      "src": "wordlist/audios/world_wide.mp3"
+    },
+    {
+      "en": "worm",
+      "ge": "Wurm",
+      "src": "wordlist/audios/worm.mp3"
+    },
+    {
+      "en": "to be worried",
+      "ge": "besorgt sein",
+      "src": "wordlist/audios/to_be_worried.mp3"
+    },
+    {
+      "en": "worrier",
+      "ge": "Schwarzmaler/Schwarzmalerin",
+      "src": "wordlist/audios/worrier.mp3"
+    },
+    {
+      "en": "Don’t worry! ",
+      "ge": "Mach dir keine Sorgen!",
+      "src": "wordlist/audios/dont_worry.mp3"
+    },
+    {
+      "en": "worry",
+      "ge": "Sorge",
+      "src": "wordlist/audios/worry.mp3"
+    },
+    {
+      "en": "to worry about",
+      "ge": "sich Sorgen machen",
+      "src": "wordlist/audios/to_worry_about.mp3"
+    },
+    {
+      "en": "to be worth",
+      "ge": "wert sein",
+      "src": "wordlist/audios/to_be_worth.mp3"
+    },
+    {
+      "en": "would ",
+      "ge": "würde/n, würdest",
+      "src": "wordlist/audios/would.mp3"
+    },
+    {
+      "en": "to write",
+      "ge": "schreiben",
+      "src": "wordlist/audios/to_write.mp3"
+    },
+    {
+      "en": "writer",
+      "ge": "Schriftsteller/Schriftstellerin",
+      "src": "wordlist/audios/writer.mp3"
+    },
+    {
+      "en": "wrong",
+      "ge": "falsch",
+      "src": "wordlist/audios/wrong.mp3"
+    },
+    {
+      "en": "year",
+      "ge": "Jahr; Jahrgangsstufe",
+      "src": "wordlist/audios/year.mp3"
+    },
+    {
+      "en": "yellow",
+      "ge": "gelb",
+      "src": "wordlist/audios/yellow.mp3"
+    },
+    {
+      "en": "yes",
+      "ge": "ja",
+      "src": "wordlist/audios/yes.mp3"
+    },
+    {
+      "en": "yesterday",
+      "ge": "gestern",
+      "src": "wordlist/audios/yesterday.mp3"
+    },
+    {
+      "en": "not … yet",
+      "ge": "noch nicht",
+      "src": "wordlist/audios/not_yet.mp3"
+    },
+    {
+      "en": "young ",
+      "ge": "jung",
+      "src": "wordlist/audios/young.mp3"
+    },
+    {
+      "en": "your ",
+      "ge": "dein/deine",
+      "src": "wordlist/audios/your.mp3"
+    },
+    {
+      "en": "yours ",
+      "ge": "deiner/deine/deines",
+      "src": "wordlist/audios/yours.mp3"
+    },
+    {
+      "en": "yourself ",
+      "ge": "du selbst; ihr selbst; Sie selbst",
+      "src": "wordlist/audios/yourself.mp3"
+    },
+    {
+      "en": "youth camp ",
+      "ge": "Jugendcamp",
+      "src": "wordlist/audios/youth_camp.mp3"
+    },
+    {
+      "en": "yummy ",
+      "ge": "lecker",
+      "src": "wordlist/audios/yummy.mp3"
+    },
+    {
+      "en": "zombie ",
+      "ge": "Zombie",
+      "src": "wordlist/audios/zombie.mp3"
+    }
+  ]
+}
