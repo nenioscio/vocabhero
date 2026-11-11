@@ -39,8 +39,8 @@ const PREPS = new Set([
 
 /** Multi-word phrases that are optional additions, e.g. "ago (two days)". */
 const PHRASES = new Set([
-  "two days", "zwei tagen", "at home", "zu hause", "im sport",
-  "von einem spuk", "i am",
+  "two days", "zwei tagen", "at home", "zu hause",
+  "im sport", "von einem spuk",
 ]);
 
 function dedupe(values: string[]): string[] {
@@ -181,6 +181,18 @@ export function parseOptions(rawValue: string): string[] {
   );
 }
 
+/** "to act" also accepts the bare verb "act" (the to-marking only flags a verb). */
+function dropInfinitiveTo(options: string[]): string[] {
+  const result: string[] = [];
+  for (const option of options) {
+    result.push(option);
+    if (option.startsWith("to ")) {
+      result.push(option.slice(3));
+    }
+  }
+  return dedupe(result);
+}
+
 // ---------------------------------------------------------------------------
 // Answer matching
 // ---------------------------------------------------------------------------
@@ -240,7 +252,7 @@ export const WORDS: WordEntry[] = rawList.map((entry, index) => {
     en,
     ge,
     audioUrl: `${AUDIO_BASE_URL}${entry.src}`,
-    enOptions: parseOptions(en),
-    geOptions: parseOptions(ge),
+    enOptions: dropInfinitiveTo(parseOptions(en)),
+    geOptions: dropInfinitiveTo(parseOptions(ge)),
   };
 });

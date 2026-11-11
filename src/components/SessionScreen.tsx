@@ -9,12 +9,12 @@ import {
   Volume2,
   X,
 } from "lucide-react";
-import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Progress } from "@/components/ui/progress";
 import { Separator } from "@/components/ui/separator";
+import { cn } from "@/lib/utils";
 import { getMode } from "@/lib/config";
 import { playAudio, stopAudio } from "@/lib/audio";
 import { recordAnswer, recordSession } from "@/lib/progress";
@@ -27,10 +27,11 @@ interface SessionScreenProps {
   config: SessionConfig;
   queue: WordEntry[];
   onRepeat: () => void;
+  onRepeatWrong: (words: WordEntry[]) => void;
   onExit: () => void;
 }
 
-export function SessionScreen({ config, queue, onRepeat, onExit }: SessionScreenProps) {
+export function SessionScreen({ config, queue, onRepeat, onRepeatWrong, onExit }: SessionScreenProps) {
   const mode = getMode(config.mode);
   const [index, setIndex] = useState(0);
   const [phase, setPhase] = useState<Phase>("answer");
@@ -43,7 +44,7 @@ export function SessionScreen({ config, queue, onRepeat, onExit }: SessionScreen
 
   const word = queue[index];
   const options = mode.answerLang === "en" ? word.enOptions : word.geOptions;
-  const prompt = mode.answerLang === "de" ? word.ge : word.en;
+  const prompt = mode.answerLang === "en" ? word.ge : word.en;
 
   useEffect(() => {
     return () => stopAudio();
@@ -168,7 +169,13 @@ export function SessionScreen({ config, queue, onRepeat, onExit }: SessionScreen
           </Card>
         )}
         <div className="flex flex-wrap gap-3">
-          <Button onClick={onRepeat}>
+          {missed.length > 0 && (
+            <Button onClick={() => onRepeatWrong(missed.map((entry) => entry.word))}>
+              <RefreshCw className="mr-2 size-4" />
+              Repeat missed words ({missed.length})
+            </Button>
+          )}
+          <Button onClick={onRepeat} variant={missed.length > 0 ? "outline" : "default"}>
             <RefreshCw className="mr-2 size-4" />
             Practice these words again
           </Button>
@@ -280,16 +287,19 @@ export function SessionScreen({ config, queue, onRepeat, onExit }: SessionScreen
                 <p className="text-2xl font-semibold">{options.join(" / ")}</p>
               </div>
               {wasCorrect !== null && (
-                <Badge
-                  variant={wasCorrect ? "default" : "destructive"}
-                  className="mx-auto px-4 py-1 text-base"
+                <div
+                  className={cn(
+                    "mx-auto flex w-fit items-center gap-2 rounded-full px-6 py-2.5 text-xl font-bold text-white shadow",
+                    wasCorrect ? "bg-green-600" : "bg-red-600",
+                  )}
                 >
+                  {wasCorrect ? <Check className="size-6" /> : <X className="size-6" />}
                   {wasCorrect
                     ? "Correct"
                     : mode.usesInput
                       ? `Not quite — you said “${answer.trim() || "—"}”`
                       : "Not yet"}
-                </Badge>
+                </div>
               )}
               <Button
                 variant="outline"
@@ -332,7 +342,7 @@ export function SessionScreen({ config, queue, onRepeat, onExit }: SessionScreen
 
 function promptFor(modeId: SessionConfig["mode"], word: WordEntry): string {
   const mode = getMode(modeId);
-  return mode.answerLang === "de" ? word.ge : word.en;
+  return mode.answerLang === "en" ? word.ge : word.en;
 }
 
 function optionsFor(modeId: SessionConfig["mode"], word: WordEntry): string[] {

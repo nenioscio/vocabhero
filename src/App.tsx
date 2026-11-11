@@ -22,6 +22,9 @@ export default function App() {
           config={session.config}
           queue={session.queue}
           onRepeat={() => setSession({ ...session, key: session.key + 1 })}
+          onRepeatWrong={(words) =>
+            setSession({ config: session.config, queue: words, key: session.key + 1 })
+          }
           onExit={() => setSession(null)}
         />
       ) : (
