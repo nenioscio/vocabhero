@@ -56,6 +56,9 @@ function dedupe(values: string[]): string[] {
   return result;
 }
 
+/** German plural suffixes written abbreviated, e.g. "Schmerz/en" -> Schmerzen. */
+const PLURAL_SUFFIXES = new Set(["en", "er", "es", "em"]);
+
 /** Split on , / ; but only outside parentheses. */
 function splitRespectingParens(value: string): string[] {
   const parts: string[] = [];
@@ -72,7 +75,20 @@ function splitRespectingParens(value: string): string[] {
     }
   }
   parts.push(current);
-  return parts.map((part) => part.trim()).filter((part) => part.length > 0);
+
+  const trimmed = parts.map((part) => part.trim()).filter((part) => part.length > 0);
+  const result: string[] = [];
+  for (let i = 0; i < trimmed.length; i += 1) {
+    const part = trimmed[i];
+    const prev = result[result.length - 1];
+    // "Schmerz/en" -> "Schmerzen" (abbreviated plural suffix)
+    if (prev && PLURAL_SUFFIXES.has(part.toLowerCase()) && prev.length >= 2) {
+      result.push(prev + part.toLowerCase());
+      continue;
+    }
+    result.push(part);
+  }
+  return result;
 }
 
 /** Expand a trailing parenthetical: "base (content)". */
@@ -82,8 +98,9 @@ function expandTrailing(base: string, content: string): string[] {
     return [base];
   }
   if (/^pl\b/i.test(lower)) {
-    const plural = lower.replace(/^pl\s*-?/, "").trim();
-    return plural ? [base, plural] : [base];
+    const plural = lower.replace(/^pl\s*/, "").trim();
+    // "pl -men" is a stem, not a standalone word -> only accept the base form.
+    return plural && !plural.startsWith("-") ? [base, plural] : [base];
   }
   if (PREPS.has(lower) || PHRASES.has(lower)) {
     return [base, `${base} ${content}`];
