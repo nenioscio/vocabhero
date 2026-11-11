@@ -9,6 +9,7 @@ import {
   Volume2,
   X,
 } from "lucide-react";
+import { ThemeToggle } from "@/components/ThemeToggle";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
@@ -194,6 +195,7 @@ export function SessionScreen({ config, queue, onRepeat, onRepeatWrong, onExit }
         <Button variant="ghost" size="icon" onClick={onExit} aria-label="Quit session">
           <X className="size-5" />
         </Button>
+        <ThemeToggle />
         <div className="flex-1">
           <div className="mb-1 flex items-baseline justify-between text-sm">
             <span className="font-medium">{mode.title}</span>

@@ -12,6 +12,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { Separator } from "@/components/ui/separator";
+import { ThemeToggle } from "@/components/ThemeToggle";
 import {
   MODES,
   POOL_FILTERS,
@@ -69,11 +70,14 @@ export function HomeScreen({ onStart }: HomeScreenProps) {
 
   return (
     <div className="mx-auto flex min-h-screen w-full max-w-5xl flex-col gap-6 px-4 py-8">
-      <header>
-        <h1 className="text-3xl font-bold tracking-tight">Vocabulary Trainer</h1>
-        <p className="text-muted-foreground mt-1">
-          English words from your student book. Your progress is saved in this browser only.
-        </p>
+      <header className="flex items-start justify-between gap-4">
+        <div>
+          <h1 className="text-3xl font-bold tracking-tight">VocabHero</h1>
+          <p className="text-muted-foreground mt-1">
+            English words from your student book. Your progress is saved in this browser only.
+          </p>
+        </div>
+        <ThemeToggle />
       </header>
 
       <Card>

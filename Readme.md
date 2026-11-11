@@ -1,4 +1,4 @@
-# Vocabulary Trainer
+# VocabHero
 
 React-based vocabulary trainer for the Helbling "More 2" student book word list.
 German native speaker learning English. Pure client-side app — all progression is
